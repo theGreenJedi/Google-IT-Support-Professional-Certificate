@@ -1,0 +1,327 @@
+1
+00:00:10,990 --> 00:00:14,025
+How would you respond if I asked you,
+
+2
+00:00:14,025 --> 00:00:16,815
+"Do you know how long it'll take me to get to the bank?"
+
+3
+00:00:16,815 --> 00:00:19,060
+You'd probably ask, "Where are you?"
+
+4
+00:00:19,060 --> 00:00:20,420
+"Where's the bank?"
+
+5
+00:00:20,420 --> 00:00:23,270
+"Are you walking, driving, biking?"
+
+6
+00:00:23,270 --> 00:00:27,241
+But if you just guess the details of my situation to direct me to the bank,
+
+7
+00:00:27,241 --> 00:00:30,785
+your response would be a day late and a dollar short.
+
+8
+00:00:30,785 --> 00:00:33,335
+It seems like such a natural thing to ask questions
+
+9
+00:00:33,335 --> 00:00:35,984
+and gather information to solve a problem,
+
+10
+00:00:35,984 --> 00:00:39,300
+but it's usually one of those most overlooked steps in troubleshooting.
+
+11
+00:00:39,300 --> 00:00:43,780
+Troubleshooting is the ability to diagnose and resolve a problem.
+
+12
+00:00:43,780 --> 00:00:48,350
+One of the most difficult skills to acquire in an IT role isn't technical knowledge,
+
+13
+00:00:48,350 --> 00:00:54,200
+but effective troubleshooting, whether that's helping someone face-to-face or remotely.
+
+14
+00:00:54,200 --> 00:00:56,490
+It's not specific to the IT world either.
+
+15
+00:00:56,490 --> 00:00:59,270
+We use troubleshooting skills every day.
+
+16
+00:00:59,270 --> 00:01:00,610
+My car is broken.
+
+17
+00:01:00,610 --> 00:01:03,270
+The light bulb went out. I feel sick.
+
+18
+00:01:03,270 --> 00:01:05,495
+Imagine if you went to your doctor and said,
+
+19
+00:01:05,495 --> 00:01:08,810
+"I feel sick," and without any other information,
+
+20
+00:01:08,810 --> 00:01:11,295
+he gives you a prescription for allergy medicine.
+
+21
+00:01:11,295 --> 00:01:12,710
+Time to find a new doctor.
+
+22
+00:01:12,710 --> 00:01:14,700
+While this might seem far-fetched,
+
+23
+00:01:14,700 --> 00:01:17,380
+this can happen pretty often in the IT world.
+
+24
+00:01:17,380 --> 00:01:20,270
+We're so in the habit of fixing things that sometimes,
+
+25
+00:01:20,270 --> 00:01:23,540
+we try to fix something without diagnosing it first.
+
+26
+00:01:23,540 --> 00:01:27,065
+We're going to give you the tools you need to develop good troubleshooting habits.
+
+27
+00:01:27,065 --> 00:01:29,765
+No matter how big or small the problem is,
+
+28
+00:01:29,765 --> 00:01:34,160
+the first thing to do in troubleshooting is ask questions.
+
+29
+00:01:34,160 --> 00:01:36,740
+There are a lot of factors that can cause a problem.
+
+30
+00:01:36,740 --> 00:01:41,105
+You want to make sure you gather all your data before you start to tinker with it.
+
+31
+00:01:41,105 --> 00:01:42,730
+Over the next several videos,
+
+32
+00:01:42,730 --> 00:01:44,795
+we're going to demonstrate real world,
+
+33
+00:01:44,795 --> 00:01:47,645
+in-person, and remote troubleshooting scenarios.
+
+34
+00:01:47,645 --> 00:01:49,340
+For the in-person scenarios,
+
+35
+00:01:49,340 --> 00:01:50,805
+you'll meet Gail and Marty.
+
+36
+00:01:50,805 --> 00:01:53,200
+And yes, we have another Marty joining us,
+
+37
+00:01:53,200 --> 00:01:54,565
+but he spells his name with a Y,
+
+38
+00:01:54,565 --> 00:01:56,630
+and I spell mine with an I.
+
+39
+00:01:56,630 --> 00:01:58,170
+Confusing, I know.
+
+40
+00:01:58,170 --> 00:02:01,510
+Please keep in mind these are not professional actors.
+
+41
+00:02:01,510 --> 00:02:03,860
+We want to give you the opportunity to see how
+
+42
+00:02:03,860 --> 00:02:07,320
+these different scenarios would play out in real world settings.
+
+43
+00:02:07,320 --> 00:02:11,420
+Let's look at a quick scenario of a not-so-awesome troubleshooting interaction,
+
+44
+00:02:11,420 --> 00:02:15,515
+and an awesome one.
+
+45
+00:02:15,515 --> 00:02:18,060
+My computer is broken.
+
+46
+00:02:18,060 --> 00:02:22,410
+Oh, this looks bad.
+
+47
+00:02:22,410 --> 00:02:24,535
+I think you're going to need a new computer.
+
+48
+00:02:24,535 --> 00:02:27,840
+It's going to be about a 1000 bucks.
+
+49
+00:02:27,840 --> 00:02:31,600
+My computer is broken.
+
+50
+00:02:31,600 --> 00:02:35,305
+Oh, okay.
+
+51
+00:02:35,305 --> 00:02:38,455
+Can you tell me a little bit more about how it's broken?
+
+52
+00:02:38,455 --> 00:02:40,056
+Does it turn on at all?
+
+53
+00:02:40,056 --> 00:02:42,730
+Has there been any damage to it lately that you know of?
+
+54
+00:02:42,730 --> 00:02:45,195
+Well, when I hit the power button,
+
+55
+00:02:45,195 --> 00:02:48,270
+I hear a "ding," but nothing comes up on screen.
+
+56
+00:02:48,270 --> 00:02:50,600
+Oh, okay. Can I take a look?
+
+57
+00:02:50,600 --> 00:02:51,688
+Sure.
+
+58
+00:02:51,688 --> 00:02:52,700
+Okay.
+
+59
+00:02:52,700 --> 00:02:58,005
+Let me just see what's going on here.
+
+60
+00:02:58,005 --> 00:03:01,350
+You know what?
+
+61
+00:03:01,350 --> 00:03:03,540
+The brightness was turned down.
+
+62
+00:03:03,540 --> 00:03:06,645
+These brightness buttons are a little bit fiddly,
+
+63
+00:03:06,645 --> 00:03:09,520
+and it's easy to hit them by accident.
+
+64
+00:03:09,520 --> 00:03:11,440
+So, there you are.
+
+65
+00:03:11,440 --> 00:03:13,060
+Great. Thank you.
+
+66
+00:03:13,060 --> 00:03:14,940
+You're welcome.
+
+67
+00:03:14,940 --> 00:03:16,895
+If we didn't ask follow up questions,
+
+68
+00:03:16,895 --> 00:03:20,965
+we wouldn't have realized the issue was something as small as a screen being dim.
+
+69
+00:03:20,965 --> 00:03:22,655
+So, it's important that you're able to gather
+
+70
+00:03:22,655 --> 00:03:25,715
+enough information to start troubleshooting an issue,
+
+71
+00:03:25,715 --> 00:03:27,670
+whether it's big or small.
+
+72
+00:03:27,670 --> 00:03:29,990
+With a little digging, we're able to understand
+
+73
+00:03:29,990 --> 00:03:33,200
+the situation and effectively troubleshoot the issue.
+
+74
+00:03:33,200 --> 00:03:36,590
+What's also really important to call out from the scenario is the tech
+
+75
+00:03:36,590 --> 00:03:40,720
+didn't make the user feel silly for not realizing the screens brightness was down.
+
+76
+00:03:40,720 --> 00:03:44,370
+Can you think about a time someone made you feel silly or even dumb?
+
+77
+00:03:44,370 --> 00:03:46,155
+It's a pretty terrible feeling.
+
+78
+00:03:46,155 --> 00:03:48,970
+So don't be that person that does it to someone else.
+
+79
+00:03:48,970 --> 00:03:52,980
+Remember, IT support is about working in the service of others.
+
+80
+00:03:52,980 --> 00:03:55,940
+Always try to create a positive experience for the user.
+
+81
+00:03:55,940 --> 00:03:58,325
+We'll deep dive into customer service later on.
+
+82
+00:03:58,325 --> 00:04:02,180
+In the meantime, I'll see you back in the next video on isolating the problem.

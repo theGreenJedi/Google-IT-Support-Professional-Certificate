@@ -1,0 +1,191 @@
+1
+00:00:09,640 --> 00:00:12,770
+Get ready because in this video,
+
+2
+00:00:12,770 --> 00:00:15,193
+we're going to install a program called Git.
+
+3
+00:00:15,193 --> 00:00:17,660
+Git is a version control system that helps keep
+
+4
+00:00:17,660 --> 00:00:20,438
+track of changes made to files and directories,
+
+5
+00:00:20,438 --> 00:00:24,410
+like how some word processor today have a revision history feature.
+
+6
+00:00:24,410 --> 00:00:25,790
+If you didn't like something you wrote,
+
+7
+00:00:25,790 --> 00:00:28,430
+you can just go back to a previous version.
+
+8
+00:00:28,430 --> 00:00:31,280
+We're going to be using Git in later courses.
+
+9
+00:00:31,280 --> 00:00:33,803
+But for now, we're just going to go ahead and install it.
+
+10
+00:00:33,803 --> 00:00:37,670
+First, we're going to grab the install program from Git's website.
+
+11
+00:00:37,670 --> 00:00:40,595
+I'm going to download the 64-bit executable.
+
+12
+00:00:40,595 --> 00:00:45,700
+Remember from an earlier lesson that we're using a 64-bit CPU architecture.
+
+13
+00:00:45,700 --> 00:00:49,850
+So we should install 64-bit applications for better compatibility.
+
+14
+00:00:49,850 --> 00:00:53,470
+Next up, you'll see the file extension,.exe.
+
+15
+00:00:53,470 --> 00:00:55,310
+This is a little different than the text or
+
+16
+00:00:55,310 --> 00:00:57,945
+image file extensions we've seen up until now.
+
+17
+00:00:57,945 --> 00:01:03,825
+EXE is a file extension found in Windows for an executable file.
+
+18
+00:01:03,825 --> 00:01:06,365
+We'll learn more about this in a later lesson, too.
+
+19
+00:01:06,365 --> 00:01:08,660
+For now, just double click on this,
+
+20
+00:01:08,660 --> 00:01:12,850
+and it'll ask us if we want to install the file.
+
+21
+00:01:33,150 --> 00:01:37,215
+Voila, that's it.
+
+22
+00:01:37,215 --> 00:01:39,360
+Now you can start using it.
+
+23
+00:01:39,360 --> 00:01:42,990
+Some program installations might ask you to reboot.
+
+24
+00:01:42,990 --> 00:01:44,105
+Make sure to do that,
+
+25
+00:01:44,105 --> 00:01:46,220
+since there might be some system files or
+
+26
+00:01:46,220 --> 00:01:50,965
+processes that also need to restart for your new software to work correct.
+
+27
+00:01:50,965 --> 00:01:53,835
+To verify that you now have Git installed,
+
+28
+00:01:53,835 --> 00:01:57,375
+you can navigate to add or remove programs.
+
+29
+00:01:57,375 --> 00:02:01,590
+From here, you can see what applications are installed on the machine,
+
+30
+00:02:01,590 --> 00:02:06,205
+and there it is, Git version 2.14.1.
+
+31
+00:02:06,205 --> 00:02:08,768
+Let's say you had an older version of Git installed,
+
+32
+00:02:08,768 --> 00:02:11,080
+and you wanted to update it to the new version.
+
+33
+00:02:11,080 --> 00:02:15,350
+Luckily, Windows makes it easy for us to do just that.
+
+34
+00:02:15,350 --> 00:02:17,280
+We can install it just like we did,
+
+35
+00:02:17,280 --> 00:02:20,215
+and it'll ask if we want to upgrade to the newest version.
+
+36
+00:02:20,215 --> 00:02:22,315
+To remove software from Windows,
+
+37
+00:02:22,315 --> 00:02:25,746
+you can just search for the add or remove programs setting.
+
+38
+00:02:25,746 --> 00:02:28,515
+From there, select the application you want to remove,
+
+39
+00:02:28,515 --> 00:02:31,125
+and you'll see a button to uninstall.
+
+40
+00:02:31,125 --> 00:02:36,330
+Let's go ahead and click this and run through an uninstall of the software.
+
+41
+00:02:36,330 --> 00:02:39,050
+It asks us for an administrator password.
+
+42
+00:02:39,050 --> 00:02:41,055
+We have safety guards in place to prevent
+
+43
+00:02:41,055 --> 00:02:44,840
+unauthorized users from installing or uninstalling software.
+
+44
+00:02:44,840 --> 00:02:47,265
+We'll learn more about this later, but for now,
+
+45
+00:02:47,265 --> 00:02:48,585
+since I'm an administrator,
+
+46
+00:02:48,585 --> 00:02:51,615
+I'm just going to enter my password and uninstall the software.
+
+47
+00:02:51,615 --> 00:02:53,595
+Once you uninstall software,
+
+48
+00:02:53,595 --> 00:02:58,000
+restart your computer so we can do the necessary cleanup to completely get rid of it.

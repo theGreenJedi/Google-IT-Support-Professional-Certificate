@@ -1,0 +1,204 @@
+1
+00:00:12,149 --> 00:00:15,761
+Have you ever worked hard on
+something that had a lot of steps and
+
+2
+00:00:15,761 --> 00:00:19,650
+took a long time, only to have to
+do it again three months later?
+
+3
+00:00:19,650 --> 00:00:22,900
+And completely forgotten
+everything you did?
+
+4
+00:00:22,900 --> 00:00:25,390
+Well, that happens all
+the time in the IT world.
+
+5
+00:00:25,390 --> 00:00:28,610
+That's why it's important to
+document the work you do.
+
+6
+00:00:28,610 --> 00:00:33,260
+Documentation might seem like a time suck,
+but it's a total time saver.
+
+7
+00:00:33,260 --> 00:00:37,330
+There are two main ways we document
+information in the IT industry.
+
+8
+00:00:37,330 --> 00:00:40,500
+The first is through ticketing or
+bug system.
+
+9
+00:00:40,500 --> 00:00:43,390
+Tickets are a common way
+of documenting an issue.
+
+10
+00:00:43,390 --> 00:00:47,910
+Bugs are issues with the system that
+weren't caused by external source.
+
+11
+00:00:47,910 --> 00:00:51,460
+Imagine, if every time something
+broke you receive an e-mail.
+
+12
+00:00:51,460 --> 00:00:54,411
+That'd be hard to keep track of and
+not scalable at all.
+
+13
+00:00:54,411 --> 00:00:59,320
+The IT industry utilizes systems
+just to keep track of this for you.
+
+14
+00:00:59,320 --> 00:01:03,048
+Some examples are Bugzilla,
+JIRA, and Redmine.
+
+15
+00:01:03,048 --> 00:01:07,220
+These are all-in-one solutions
+that help you track user issues,
+
+16
+00:01:07,220 --> 00:01:11,040
+communicate with your users,
+and provide updates.
+
+17
+00:01:11,040 --> 00:01:12,710
+A great way to use the system for
+
+18
+00:01:12,710 --> 00:01:17,480
+documentation is to update the ticket
+with what the issue is, the steps and
+
+19
+00:01:17,480 --> 00:01:21,650
+procedures you're trying to resolve,
+and the solution you arrived at.
+
+20
+00:01:21,650 --> 00:01:24,050
+This is important for two reasons.
+
+21
+00:01:24,050 --> 00:01:26,640
+The first,
+is that it keeps the user in the loop.
+
+22
+00:01:26,640 --> 00:01:31,220
+The second, is that it helps you audit
+your steps in case you need to go back and
+
+23
+00:01:31,220 --> 00:01:32,500
+see what you did.
+
+24
+00:01:32,500 --> 00:01:36,756
+You can also write down procedures and
+policies to create a documentation trail.
+
+25
+00:01:36,756 --> 00:01:39,199
+You have a lot of options of
+where you want to write, and
+
+26
+00:01:39,199 --> 00:01:41,220
+store your documentation.
+
+27
+00:01:41,220 --> 00:01:44,560
+You can keep your policies and
+procedures in a document
+
+28
+00:01:44,560 --> 00:01:49,260
+webpage through online file storage,
+or lots of other mediums.
+
+29
+00:01:49,260 --> 00:01:52,640
+Just make sure it's accessible to
+everyone else in your company.
+
+30
+00:01:52,640 --> 00:01:57,490
+If you have a monthly reoccurring task,
+like updating old software on machines,
+
+31
+00:01:57,490 --> 00:02:02,160
+make sure to write down all the steps and
+then refer back to them when it's needed.
+
+32
+00:02:02,160 --> 00:02:05,500
+Documentation isn't a set it and
+forget it situation.
+
+33
+00:02:05,500 --> 00:02:09,050
+Systems and
+processes are constantly changing, and so
+
+34
+00:02:09,050 --> 00:02:10,610
+should your documentation.
+
+35
+00:02:10,610 --> 00:02:12,460
+It's important to update documentation.
+
+36
+00:02:12,460 --> 00:02:15,550
+So that you aren't reading
+something that's old.
+
+37
+00:02:15,550 --> 00:02:18,920
+One last thing I want to call
+out about writing documentation
+
+38
+00:02:18,920 --> 00:02:21,460
+is that you don't need to get
+creative with your writing.
+
+39
+00:02:21,460 --> 00:02:23,310
+You aren't writing a short story.
+
+40
+00:02:23,310 --> 00:02:25,220
+You're writing a technical document.
+
+41
+00:02:25,220 --> 00:02:28,312
+You want to be as concise as possible.
+
+42
+00:02:28,312 --> 00:02:30,338
+So that when someone reads your document,
+
+43
+00:02:30,338 --> 00:02:32,600
+they can easily figure
+out what they need to do.

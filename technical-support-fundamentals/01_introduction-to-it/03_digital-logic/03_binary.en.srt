@@ -1,0 +1,211 @@
+1
+00:00:10,600 --> 00:00:15,200
+You might be wondering how our computers get these ones and zeros.
+
+2
+00:00:15,200 --> 00:00:17,780
+It's a great question. Imagine we have a light bulb and
+
+3
+00:00:17,780 --> 00:00:21,260
+a switch that turns the state of the light on or off.
+
+4
+00:00:21,260 --> 00:00:22,865
+If we turn the light on,
+
+5
+00:00:22,865 --> 00:00:24,960
+we can denote that state is one.
+
+6
+00:00:24,960 --> 00:00:26,615
+If the light bulb is off,
+
+7
+00:00:26,615 --> 00:00:28,550
+we can represent the state is zero.
+
+8
+00:00:28,550 --> 00:00:30,785
+Now imagine eight light bulbs and switches,
+
+9
+00:00:30,785 --> 00:00:34,925
+that represents eight bits with a state of zero or one.
+
+10
+00:00:34,925 --> 00:00:38,530
+Let's backtrack to the punched cards that were used in Jacquard's loom.
+
+11
+00:00:38,530 --> 00:00:41,200
+Remember that the loom used cards with holes in them.
+
+12
+00:00:41,200 --> 00:00:44,951
+When the loom would reach a hole it would hooked to thread underneath,
+
+13
+00:00:44,951 --> 00:00:46,685
+meaning that the loom was on.
+
+14
+00:00:46,685 --> 00:00:48,155
+If there wasn't a hole,
+
+15
+00:00:48,155 --> 00:00:51,250
+it would not hook the thread, so it was off.
+
+16
+00:00:51,250 --> 00:00:53,795
+This is a foundational binary concept.
+
+17
+00:00:53,795 --> 00:00:56,469
+By utilizing the two states of on or off,
+
+18
+00:00:56,469 --> 00:01:01,195
+Jacquard was able to weave intricate patterns of the fabric with his looms.
+
+19
+00:01:01,195 --> 00:01:04,197
+Then the industry started refining the punch cards a little more.
+
+20
+00:01:04,197 --> 00:01:05,300
+If there was a hole,
+
+21
+00:01:05,300 --> 00:01:06,845
+the computer would read one.
+
+22
+00:01:06,845 --> 00:01:09,205
+If there wasn't a hole, it would read zero.
+
+23
+00:01:09,205 --> 00:01:13,095
+Then, by just translating the combination of zeros and ones,
+
+24
+00:01:13,095 --> 00:01:16,530
+our computer could calculate any possible amount of numbers.
+
+25
+00:01:16,530 --> 00:01:19,720
+Binary in today's computer isn't done by reading holes.
+
+26
+00:01:19,720 --> 00:01:24,680
+It uses electricity via transistors allowing electrical signals to pass through.
+
+27
+00:01:24,680 --> 00:01:25,935
+There's an electric voltage,
+
+28
+00:01:25,935 --> 00:01:27,485
+we would denote it as one.
+
+29
+00:01:27,485 --> 00:01:29,975
+If there isn't, we would denote it by zero.
+
+30
+00:01:29,975 --> 00:01:34,445
+For just having transistors isn't enough for our computer to be able to do complex tasks.
+
+31
+00:01:34,445 --> 00:01:37,535
+Imagine if you had two light switches on opposite ends of a room,
+
+32
+00:01:37,535 --> 00:01:39,415
+each controlling a light in the room.
+
+33
+00:01:39,415 --> 00:01:42,815
+What if when you went to turn on the light with one switch,
+
+34
+00:01:42,815 --> 00:01:44,755
+the other switch wouldn't turn off?
+
+35
+00:01:44,755 --> 00:01:46,875
+That would be a very poorly designed loom.
+
+36
+00:01:46,875 --> 00:01:51,965
+Both switches should either turn the light on or off depending on the state of the light.
+
+37
+00:01:51,965 --> 00:01:54,325
+Fortunately, we have something known as logic gates.
+
+38
+00:01:54,325 --> 00:01:57,760
+Logic gates allow our transistors to do more complex tasks,
+
+39
+00:01:57,760 --> 00:02:02,410
+like decide where to send electrical signals depending on logical conditions.
+
+40
+00:02:02,410 --> 00:02:04,450
+There are lots of different types of logic gates,
+
+41
+00:02:04,450 --> 00:02:06,570
+but we won't discuss them in detail here.
+
+42
+00:02:06,570 --> 00:02:07,930
+If you're curious about the role that
+
+43
+00:02:07,930 --> 00:02:11,005
+transistors and logic gates play in modern circuitry,
+
+44
+00:02:11,005 --> 00:02:13,680
+you can read more about it in the supplementary reading.
+
+45
+00:02:13,680 --> 00:02:15,790
+Now we know how our computer gets its ones and
+
+46
+00:02:15,790 --> 00:02:18,505
+zeros to calculate into meaningful instructions.
+
+47
+00:02:18,505 --> 00:02:21,820
+Later in this course, we'll be able to talk about how we're able to turn
+
+48
+00:02:21,820 --> 00:02:24,160
+human-readable instructions into zeros and
+
+49
+00:02:24,160 --> 00:02:26,855
+ones that are computer understands through a compilers.
+
+50
+00:02:26,855 --> 00:02:29,140
+That's one of the very basic building blocks of
+
+51
+00:02:29,140 --> 00:02:33,155
+programming that's led to the creation of our favorite social media sites,
+
+52
+00:02:33,155 --> 00:02:35,515
+video games, and just about everything else.
+
+53
+00:02:35,515 --> 00:02:40,000
+And I'm super excited to teach you how to count in binary, that's up next.

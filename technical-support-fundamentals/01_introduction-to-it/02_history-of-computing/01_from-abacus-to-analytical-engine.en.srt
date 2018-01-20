@@ -1,0 +1,451 @@
+1
+00:00:10,730 --> 00:00:13,160
+When you hear the word computer,
+
+2
+00:00:13,160 --> 00:00:17,108
+maybe you think of something like a beefy gaming desktop with flashing lights,
+
+3
+00:00:17,108 --> 00:00:19,245
+or maybe you think of a slim and sleek laptop.
+
+4
+00:00:19,245 --> 00:00:23,565
+These fancy devices aren't what people had in mind when computers were first created.
+
+5
+00:00:23,565 --> 00:00:26,610
+To put it simply, a computer is a device that stores
+
+6
+00:00:26,610 --> 00:00:29,530
+and processes data by performing calculations.
+
+7
+00:00:29,530 --> 00:00:31,695
+Before we had actual computer devices,
+
+8
+00:00:31,695 --> 00:00:36,240
+the term computer was used to refer to someone who actually did the calculation.
+
+9
+00:00:36,240 --> 00:00:38,690
+You're probably thinking that's crazy talk.
+
+10
+00:00:38,690 --> 00:00:41,860
+A computer lets me check social media, browse the Internet,
+
+11
+00:00:41,860 --> 00:00:45,780
+design graphics, how can it possibly just perform calculations?
+
+12
+00:00:45,780 --> 00:00:47,370
+Well, friends, in this course,
+
+13
+00:00:47,370 --> 00:00:51,231
+we'll be learning how computer calculations are baked into applications,
+
+14
+00:00:51,231 --> 00:00:53,405
+social media, games et cetera,
+
+15
+00:00:53,405 --> 00:00:55,150
+all the things that you use every day.
+
+16
+00:00:55,150 --> 00:00:56,437
+But to kick things off,
+
+17
+00:00:56,437 --> 00:00:58,590
+we'll learn about the journey computers took from
+
+18
+00:00:58,590 --> 00:01:02,980
+the earliest known forms of computing into the devices that you know and love today.
+
+19
+00:01:02,980 --> 00:01:04,370
+In the world of technology,
+
+20
+00:01:04,370 --> 00:01:07,030
+and if I'm getting really philosophical, in life,
+
+21
+00:01:07,030 --> 00:01:09,630
+it is important to know where we've been in
+
+22
+00:01:09,630 --> 00:01:12,615
+order to understand where we are and where we are going.
+
+23
+00:01:12,615 --> 00:01:17,550
+Historical context can help you understand why things work the way they do today.
+
+24
+00:01:17,550 --> 00:01:21,475
+Have you ever wondered why the alphabet isn't laid out in order on your keyboard?
+
+25
+00:01:21,475 --> 00:01:25,455
+The keyboard layout that most of the world uses today is the qwerty layout,
+
+26
+00:01:25,455 --> 00:01:28,725
+distinguished by the Q, W, E, R,
+
+27
+00:01:28,725 --> 00:01:32,215
+T, and Y keys in the top row of the keyboard.
+
+28
+00:01:32,215 --> 00:01:34,965
+The most common letters that you type aren't found on the home row,
+
+29
+00:01:34,965 --> 00:01:36,460
+where your fingers hit the most.
+
+30
+00:01:36,460 --> 00:01:37,905
+But why?
+
+31
+00:01:37,905 --> 00:01:40,223
+There are many stories that claim to answer this question.
+
+32
+00:01:40,223 --> 00:01:42,660
+Some say it was developed a slow down typist so
+
+33
+00:01:42,660 --> 00:01:45,985
+they wouldn't jam old mechanical typewriters.
+
+34
+00:01:45,985 --> 00:01:49,650
+Others claim it was meant to resolve problem for telegraph operators.
+
+35
+00:01:49,650 --> 00:01:50,993
+One thing is for sure,
+
+36
+00:01:50,993 --> 00:01:55,250
+the keyboard layout that millions of people use today isn't the most effective one.
+
+37
+00:01:55,250 --> 00:02:00,505
+Different keyboard layouts have even been created to try and make typing more efficient.
+
+38
+00:02:00,505 --> 00:02:04,335
+Now that we're starting to live in a mobile-centric world with our smartphones,
+
+39
+00:02:04,335 --> 00:02:07,170
+the landscape for keyboards may change completely.
+
+40
+00:02:07,170 --> 00:02:08,750
+My typing fingers are crossed.
+
+41
+00:02:08,750 --> 00:02:10,255
+In the technology industry,
+
+42
+00:02:10,255 --> 00:02:12,420
+having a little context can go a long way to
+
+43
+00:02:12,420 --> 00:02:15,335
+making sense of the concepts you'll encounter.
+
+44
+00:02:15,335 --> 00:02:16,500
+By the end of this lesson,
+
+45
+00:02:16,500 --> 00:02:18,155
+you'll be able to identify some of
+
+46
+00:02:18,155 --> 00:02:22,110
+the most major advances in the early history of computers.
+
+47
+00:02:22,110 --> 00:02:23,865
+Do you know what an abacus is?
+
+48
+00:02:23,865 --> 00:02:26,708
+It looks like a wooden toy that a child would play with,
+
+49
+00:02:26,708 --> 00:02:29,400
+but it's actually one of the earliest known computers.
+
+50
+00:02:29,400 --> 00:02:32,355
+It was invented in 500 BC to count large numbers.
+
+51
+00:02:32,355 --> 00:02:37,725
+While we have calculators like the old reliable TI-89s or the ones in our computers,
+
+52
+00:02:37,725 --> 00:02:39,795
+abacuses actually is still used today.
+
+53
+00:02:39,795 --> 00:02:41,910
+Over the centuries, humans built
+
+54
+00:02:41,910 --> 00:02:44,370
+more advanced counting tools but they still
+
+55
+00:02:44,370 --> 00:02:47,420
+required a human to manually perform the calculations.
+
+56
+00:02:47,420 --> 00:02:49,620
+The first major step forward was the invention of
+
+57
+00:02:49,620 --> 00:02:54,090
+the mechanical calculator in the 17th by Blaise Pascal.
+
+58
+00:02:54,090 --> 00:02:56,310
+This device used a series of gears and levers
+
+59
+00:02:56,310 --> 00:02:59,175
+to perform calculations for the user automatically.
+
+60
+00:02:59,175 --> 00:03:01,920
+While it was limited to addition, subtraction,
+
+61
+00:03:01,920 --> 00:03:05,173
+multiplication and division for pretty small numbers,
+
+62
+00:03:05,173 --> 00:03:07,980
+it paved the way for more complex machines.
+
+63
+00:03:07,980 --> 00:03:09,360
+The fundamental operations of
+
+64
+00:03:09,360 --> 00:03:13,445
+the mechanical calculator were later applied to the textile industry.
+
+65
+00:03:13,445 --> 00:03:15,720
+Before we had streamlined manufacturing,
+
+66
+00:03:15,720 --> 00:03:18,627
+looms were used to weave yarn into fabric.
+
+67
+00:03:18,627 --> 00:03:21,090
+If you wanted to design patterns on your fabric,
+
+68
+00:03:21,090 --> 00:03:23,460
+that took an incredible amount of manual work.
+
+69
+00:03:23,460 --> 00:03:28,825
+In the 1800s, a man by the name of Joseph Jacquard invented a programmable loom.
+
+70
+00:03:28,825 --> 00:03:31,780
+These looms took a sequence of cards with holes in them.
+
+71
+00:03:31,780 --> 00:03:33,300
+When the loom encountered a hole,
+
+72
+00:03:33,300 --> 00:03:35,154
+it would hook the thread underneath it.
+
+73
+00:03:35,154 --> 00:03:36,831
+If it didn't encounter a hole,
+
+74
+00:03:36,831 --> 00:03:38,870
+the hook wouldn't thread anything.
+
+75
+00:03:38,870 --> 00:03:42,690
+Eventually this spun up a design pattern on the fabric.
+
+76
+00:03:42,690 --> 00:03:44,760
+These cards were known as punch cards.
+
+77
+00:03:44,760 --> 00:03:48,255
+And while Mr. Jacquard reinvented the textile industry,
+
+78
+00:03:48,255 --> 00:03:50,880
+he probably didn't realize that his invention would
+
+79
+00:03:50,880 --> 00:03:54,205
+shaped the world of computing and the world itself today.
+
+80
+00:03:54,205 --> 00:03:57,375
+Pretty epic Mr. Jacquard, pretty epic.
+
+81
+00:03:57,375 --> 00:04:02,514
+Let's fast forward a few decades and meet a man by the name of Charles Babbage.
+
+82
+00:04:02,514 --> 00:04:05,970
+Babbage was a gifted engineer who developed a series of machines that are
+
+83
+00:04:05,970 --> 00:04:10,260
+now known as the greatest breakthrough on our way to the modern computer.
+
+84
+00:04:10,260 --> 00:04:12,900
+He built what was called a difference engine.
+
+85
+00:04:12,900 --> 00:04:15,180
+It was a very sophisticated version of some
+
+86
+00:04:15,180 --> 00:04:17,880
+of the mechanical calculators we were just talking about.
+
+87
+00:04:17,880 --> 00:04:22,950
+It could perform fairly complicated mathematical operations but not much else.
+
+88
+00:04:22,950 --> 00:04:24,540
+Babbage's follow up to
+
+89
+00:04:24,540 --> 00:04:28,645
+the difference engine was a machine he called the Analytical Engine.
+
+90
+00:04:28,645 --> 00:04:31,590
+He was inspired by Jacquard's use of punch cards to automatically
+
+91
+00:04:31,590 --> 00:04:35,860
+perform calculations instead of manually entering them by hand.
+
+92
+00:04:35,860 --> 00:04:38,910
+Babbage used punch cards in his Analytical engine to allow
+
+93
+00:04:38,910 --> 00:04:42,570
+people to predefine a series of calculations they wanted to perform.
+
+94
+00:04:42,570 --> 00:04:45,060
+As impressive as this achievement was,
+
+95
+00:04:45,060 --> 00:04:49,140
+the Analytical engine was still just a very advanced mechanical calculator.
+
+96
+00:04:49,140 --> 00:04:51,615
+It took the powerful insights of a mathematician named
+
+97
+00:04:51,615 --> 00:04:56,325
+Ada Lovelace to realize the true potential of the analytical engine.
+
+98
+00:04:56,325 --> 00:04:58,635
+She was the first person to recognize that the machine
+
+99
+00:04:58,635 --> 00:05:01,470
+could be used for more than pure calculations.
+
+100
+00:05:01,470 --> 00:05:04,255
+She developed the first algorithm for the engine.
+
+101
+00:05:04,255 --> 00:05:07,680
+It was the very first example of computer programming.
+
+102
+00:05:07,680 --> 00:05:12,255
+An algorithm is just a series of steps that solves specific problems.
+
+103
+00:05:12,255 --> 00:05:15,210
+Because of Lovelace's discovery that algorithms could
+
+104
+00:05:15,210 --> 00:05:17,870
+be programmed into the Analytical engine,
+
+105
+00:05:17,870 --> 00:05:22,425
+it became the very first general purpose computing machine in history,
+
+106
+00:05:22,425 --> 00:05:25,320
+and a great example that women have had some of
+
+107
+00:05:25,320 --> 00:05:28,995
+the most valuable minds in technology since the 1800s.
+
+108
+00:05:28,995 --> 00:05:30,590
+We've covered a lot of ground already,
+
+109
+00:05:30,590 --> 00:05:33,750
+learning about how primitive counting devices like the abacus
+
+110
+00:05:33,750 --> 00:05:37,388
+evolved into huge complex devices like the Analytical engine,
+
+111
+00:05:37,388 --> 00:05:39,470
+proof that there was life before social media.
+
+112
+00:05:39,470 --> 00:05:41,130
+In the next video, we'll learn about how
+
+113
+00:05:41,130 --> 00:05:45,000
+these mechanical machines made the leap into modern computing.

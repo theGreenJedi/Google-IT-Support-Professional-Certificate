@@ -1,0 +1,227 @@
+1
+00:00:10,910 --> 00:00:13,200
+When you rate content,
+
+2
+00:00:13,200 --> 00:00:14,610
+create a piece of art,
+
+3
+00:00:14,610 --> 00:00:19,250
+or engineer something, your work is protected for your use and distribution.
+
+4
+00:00:19,250 --> 00:00:24,195
+There's usually some other caveats depending on the laws in your country but in general,
+
+5
+00:00:24,195 --> 00:00:27,015
+copyright is used when creating original work.
+
+6
+00:00:27,015 --> 00:00:30,555
+Software that is written is also protected by copyright.
+
+7
+00:00:30,555 --> 00:00:34,455
+Software developers can choose what they do with their software.
+
+8
+00:00:34,455 --> 00:00:38,895
+For commercial software, it's common to let someone else use their software,
+
+9
+00:00:38,895 --> 00:00:40,875
+if they pay for a license.
+
+10
+00:00:40,875 --> 00:00:46,670
+For non-commercial software, a popular option is making it open-source.
+
+11
+00:00:46,670 --> 00:00:49,920
+This means the developers will let other developers share,
+
+12
+00:00:49,920 --> 00:00:53,425
+modify, and distribute their software for free.
+
+13
+00:00:53,425 --> 00:00:56,730
+Score. Some amazing software efforts
+
+14
+00:00:56,730 --> 00:00:59,690
+have been developed in advance because of open source.
+
+15
+00:00:59,690 --> 00:01:02,820
+One major example is the Linux kernel which is used in
+
+16
+00:01:02,820 --> 00:01:06,450
+the Android OS and in enterprise and personal computers.
+
+17
+00:01:06,450 --> 00:01:12,530
+Hundreds of millions of devices are running Linux at this very second LibreOffice,
+
+18
+00:01:12,530 --> 00:01:17,025
+GIMP, and Firefox are other examples of open source software.
+
+19
+00:01:17,025 --> 00:01:20,070
+Open source projects are usually contributed by
+
+20
+00:01:20,070 --> 00:01:24,055
+developers who work on the project for free in their free time.
+
+21
+00:01:24,055 --> 00:01:26,550
+These massive software development efforts were
+
+22
+00:01:26,550 --> 00:01:29,580
+essentially built by a community of volunteers.
+
+23
+00:01:29,580 --> 00:01:31,640
+How great is that? In I.T.
+
+24
+00:01:31,640 --> 00:01:37,095
+environment, you'll have to pay special attention to the types of software you use.
+
+25
+00:01:37,095 --> 00:01:40,540
+Some may require you to pay multiple licenses to use it,
+
+26
+00:01:40,540 --> 00:01:42,925
+others may be free and open source.
+
+27
+00:01:42,925 --> 00:01:47,370
+It's important to check the license agreement of any software before you install it.
+
+28
+00:01:47,370 --> 00:01:49,860
+We've talked about some of the basics of software,
+
+29
+00:01:49,860 --> 00:01:52,350
+but now let's shift to the two types of software
+
+30
+00:01:52,350 --> 00:01:55,035
+you'll encounter categorized by function.
+
+31
+00:01:55,035 --> 00:01:59,505
+Application Software is any software created to fulfill a specific need,
+
+32
+00:01:59,505 --> 00:02:00,795
+like a text editor,
+
+33
+00:02:00,795 --> 00:02:03,330
+web browser, or graphics editor.
+
+34
+00:02:03,330 --> 00:02:07,110
+System software is software used to keep our core system running,
+
+35
+00:02:07,110 --> 00:02:11,100
+like operating system tools and utilities.
+
+36
+00:02:11,100 --> 00:02:15,360
+There's also a type of system software that we haven't defined yet, called firmware.
+
+37
+00:02:15,360 --> 00:02:19,530
+Firmware is software that's permanently stored on a computer component.
+
+38
+00:02:19,530 --> 00:02:22,300
+Can you think of a firmware that we've talked about already?
+
+39
+00:02:22,300 --> 00:02:24,435
+If you thought of the BIOS, you're right.
+
+40
+00:02:24,435 --> 00:02:26,850
+The BIOS helps startup the hardware on
+
+41
+00:02:26,850 --> 00:02:30,660
+your computer and also helps load up your operating system.
+
+42
+00:02:30,660 --> 00:02:33,795
+So it's important that it's in a permanent location.
+
+43
+00:02:33,795 --> 00:02:36,905
+I should also call out software versions.
+
+44
+00:02:36,905 --> 00:02:38,640
+These are important because they tell us
+
+45
+00:02:38,640 --> 00:02:42,540
+what features were added to a specific software iteration.
+
+46
+00:02:42,540 --> 00:02:45,615
+You'll encounter lots of software versions while you work with software.
+
+47
+00:02:45,615 --> 00:02:49,965
+Developers might sometimes use a different standard when distinguishing a version.
+
+48
+00:02:49,965 --> 00:02:55,080
+But in general, the majority of versions follow a sequential numbering trend.
+
+49
+00:02:55,080 --> 00:02:56,930
+You might see something like this,
+
+50
+00:02:56,930 --> 00:03:05,340
+1.2.5 or 1.3.4, which of these do you think is the newer version?
+
+51
+00:03:05,340 --> 00:03:11,130
+It's 1.3.4 because it's a larger number than 1.2.5.
+
+52
+00:03:11,130 --> 00:03:14,550
+You can read more about software versioning in the supplemental reading.
+
+53
+00:03:14,550 --> 00:03:17,070
+You'll have to work with all kinds of software.
+
+54
+00:03:17,070 --> 00:03:19,980
+Fortunately, it basically all works the same way.
+
+55
+00:03:19,980 --> 00:03:22,395
+Once you learn how one piece of software works,
+
+56
+00:03:22,395 --> 00:03:25,260
+you'll understand how others might function.
+
+57
+00:03:25,260 --> 00:03:28,000
+We're going to learn how in the next few videos.

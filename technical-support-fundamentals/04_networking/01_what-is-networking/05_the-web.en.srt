@@ -1,0 +1,272 @@
+1
+00:00:12,230 --> 00:00:15,958
+There are lots of different ways to
+use the Internet, we all know that.
+
+2
+00:00:15,958 --> 00:00:19,644
+But I want to cover one of the more
+prevalent ways that people access
+
+3
+00:00:19,644 --> 00:00:22,290
+the Internet, through the Web.
+
+4
+00:00:22,290 --> 00:00:25,820
+All websites can be
+accessed through the Web.
+
+5
+00:00:25,820 --> 00:00:30,250
+Websites are basically text
+documents that we format with HTML,
+
+6
+00:00:30,250 --> 00:00:32,620
+or hypertext markup language.
+
+7
+00:00:32,620 --> 00:00:35,690
+It's a coding language
+used by web browsers.
+
+8
+00:00:35,690 --> 00:00:39,730
+Web pages are generally made
+up of very basic components.
+
+9
+00:00:39,730 --> 00:00:45,060
+They contain multimedia content like text,
+images, audio and video.
+
+10
+00:00:45,060 --> 00:00:48,498
+When you want to navigate to a website,
+
+11
+00:00:48,498 --> 00:00:52,805
+you would type in a URL
+like www.reddit.com.
+
+12
+00:00:52,805 --> 00:00:56,476
+A URL, which stands for
+Uniform Resource Locator,
+
+13
+00:00:56,476 --> 00:01:00,170
+is just a web address
+similar to a home address.
+
+14
+00:01:00,170 --> 00:01:02,680
+Notice the www in the URL?
+
+15
+00:01:02,680 --> 00:01:05,040
+It stands for World Wide Web.
+
+16
+00:01:05,040 --> 00:01:10,080
+The second portion, reddit.com,
+is something we call a domain name.
+
+17
+00:01:10,080 --> 00:01:12,010
+Anyone can register a domain name.
+
+18
+00:01:12,010 --> 00:01:14,320
+It's just our website name.
+
+19
+00:01:14,320 --> 00:01:19,490
+Once a name is taken, it'll be registered
+to ICANN, the Internet Corporation for
+
+20
+00:01:19,490 --> 00:01:21,390
+Assigned Names and Numbers.
+
+21
+00:01:21,390 --> 00:01:24,040
+Once a domain name is
+registered with ICANN,
+
+22
+00:01:24,040 --> 00:01:27,960
+no one else can take that name
+unless it becomes available again.
+
+23
+00:01:27,960 --> 00:01:31,740
+The last part of the URL
+in this case is .com.
+
+24
+00:01:31,740 --> 00:01:37,215
+But you can also use different domain
+endings like reddit.net or reddit.org.
+
+25
+00:01:37,215 --> 00:01:39,875
+The different domain name
+endings are standards for
+
+26
+00:01:39,875 --> 00:01:41,735
+what type of website it might be.
+
+27
+00:01:41,735 --> 00:01:47,395
+So a domain that ends in .edu is mainly
+used for educational institutions.
+
+28
+00:01:47,395 --> 00:01:51,015
+Remember how computers use IP
+addresses to find another computer?
+
+29
+00:01:51,015 --> 00:01:55,170
+Well, you can do the same if you wanted
+to find a computer on the Internet.
+
+30
+00:01:55,170 --> 00:02:03,070
+Let's go ahead and type 172.217.6.46
+into a web browser and hit Enter.
+
+31
+00:02:03,070 --> 00:02:03,710
+Wait a minute.
+
+32
+00:02:03,710 --> 00:02:05,739
+What happened?
+
+33
+00:02:05,739 --> 00:02:07,497
+How come we're at Google's homepage?
+
+34
+00:02:07,497 --> 00:02:12,503
+It turns out the IP address,
+172.217.6.46 maps
+
+35
+00:02:12,503 --> 00:02:19,543
+to Google's homepage through a critical
+web protocol, Domain Name System, or DNS.
+
+36
+00:02:19,543 --> 00:02:22,496
+DNS acts like our Internet's directory and
+
+37
+00:02:22,496 --> 00:02:26,520
+lets us use human readable
+words to map to an IP address.
+
+38
+00:02:26,520 --> 00:02:29,290
+The computer doesn't
+know what google.com is.
+
+39
+00:02:29,290 --> 00:02:31,770
+It only knows how to get to an IP address.
+
+40
+00:02:31,770 --> 00:02:36,400
+With DNS, it's able to map
+Google's IP address with google.com.
+
+41
+00:02:36,400 --> 00:02:40,470
+Every time you go on a website,
+your computer is performing a DNS lookup
+
+42
+00:02:40,470 --> 00:02:44,540
+to find the IP address of
+the website name you typed in.
+
+43
+00:02:44,540 --> 00:02:49,810
+This trick can be a good first step in
+diagnosing certain kinds of DNS issues.
+
+44
+00:02:49,810 --> 00:02:55,000
+So if you're able to access
+a website by its IP address but
+
+45
+00:02:55,000 --> 00:02:59,610
+not its human readable domain name, then
+there's a good bet that there's probably
+
+46
+00:02:59,610 --> 00:03:03,890
+a problem somewhere in the DNS
+configuration your network is using.
+
+47
+00:03:03,890 --> 00:03:07,220
+Understanding IP addresses
+can come in handy in
+
+48
+00:03:07,220 --> 00:03:11,550
+all sorts of other situations you might
+encounter as an IT support specialist.
+
+49
+00:03:11,550 --> 00:03:15,470
+The source of Internet requests
+are usually identified by IP addresses and
+
+50
+00:03:15,470 --> 00:03:16,770
+server logs.
+
+51
+00:03:16,770 --> 00:03:21,350
+Many pieces of IT infrastructure need to
+have some kind of IP address configuration
+
+52
+00:03:21,350 --> 00:03:23,740
+applied to them in order to work.
+
+53
+00:03:23,740 --> 00:03:27,860
+DNS is a huge system, and
+we'll be discussing more about it later.
+
+54
+00:03:27,860 --> 00:03:32,030
+Now that you understand the basics of how
+the Internet works, I'll sign off for now,
+
+55
+00:03:32,030 --> 00:03:36,100
+and leave you in the very capable hands
+of my friend and colleague, Gian Becuza.
+
+56
+00:03:36,100 --> 00:03:40,180
+I'll see you again in course two,
+The Bits and Bytes of Computer Networking.
+
+57
+00:03:40,180 --> 00:03:41,780
+But in the next lessons,
+
+58
+00:03:41,780 --> 00:03:45,580
+Gian is going to talk about
+the incredible boom of the Internet age.

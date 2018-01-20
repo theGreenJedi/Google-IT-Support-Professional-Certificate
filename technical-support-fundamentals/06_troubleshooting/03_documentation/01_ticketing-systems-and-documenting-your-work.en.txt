@@ -1,0 +1,34 @@
+Have you ever worked hard on
+something that had a lot of steps and took a long time, only to have to
+do it again three months later? And completely forgotten
+everything you did? Well, that happens all
+the time in the IT world. That's why it's important to
+document the work you do. Documentation might seem like a time suck,
+but it's a total time saver. There are two main ways we document
+information in the IT industry. The first is through ticketing or
+bug system. Tickets are a common way
+of documenting an issue. Bugs are issues with the system that
+weren't caused by external source. Imagine, if every time something
+broke you receive an e-mail. That'd be hard to keep track of and
+not scalable at all. The IT industry utilizes systems
+just to keep track of this for you. Some examples are Bugzilla,
+JIRA, and Redmine. These are all-in-one solutions
+that help you track user issues, communicate with your users,
+and provide updates. A great way to use the system for documentation is to update the ticket
+with what the issue is, the steps and procedures you're trying to resolve,
+and the solution you arrived at. This is important for two reasons. The first,
+is that it keeps the user in the loop. The second, is that it helps you audit
+your steps in case you need to go back and see what you did. You can also write down procedures and
+policies to create a documentation trail. You have a lot of options of
+where you want to write, and store your documentation. You can keep your policies and
+procedures in a document webpage through online file storage,
+or lots of other mediums. Just make sure it's accessible to
+everyone else in your company. If you have a monthly reoccurring task,
+like updating old software on machines, make sure to write down all the steps and
+then refer back to them when it's needed. Documentation isn't a set it and
+forget it situation. Systems and
+processes are constantly changing, and so should your documentation. It's important to update documentation. So that you aren't reading
+something that's old. One last thing I want to call
+out about writing documentation is that you don't need to get
+creative with your writing. You aren't writing a short story. You're writing a technical document. You want to be as concise as possible. So that when someone reads your document, they can easily figure
+out what they need to do.

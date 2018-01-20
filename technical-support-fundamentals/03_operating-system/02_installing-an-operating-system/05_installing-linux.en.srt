@@ -1,0 +1,447 @@
+1
+00:00:10,760 --> 00:00:13,935
+Now that we've seen how Windows is installed,
+
+2
+00:00:13,935 --> 00:00:16,650
+let's go ahead and install the Linux operating system.
+
+3
+00:00:16,650 --> 00:00:19,200
+Remember how I said that Linux has many different versions of
+
+4
+00:00:19,200 --> 00:00:21,985
+their operating system called distributions?
+
+5
+00:00:21,985 --> 00:00:24,300
+There are countless articles that highlights the pros
+
+6
+00:00:24,300 --> 00:00:26,915
+and cons of the hundreds of distributions out there.
+
+7
+00:00:26,915 --> 00:00:31,135
+We'll go with the most popular consumer distribution, Ubuntu.
+
+8
+00:00:31,135 --> 00:00:34,675
+I've already loaded Ubuntu on a plain USB drive.
+
+9
+00:00:34,675 --> 00:00:37,005
+ProTip: Since Ubuntu is open source,
+
+10
+00:00:37,005 --> 00:00:39,870
+you can download the free operating system install image
+
+11
+00:00:39,870 --> 00:00:43,670
+directly from their website and install it using whatever media you like.
+
+12
+00:00:43,670 --> 00:00:47,130
+I've included a link to it in the next supplemental reading.
+
+13
+00:00:47,130 --> 00:00:49,440
+I should also call out that you can't just copy
+
+14
+00:00:49,440 --> 00:00:52,755
+the install file to a USB drive and expect it to work.
+
+15
+00:00:52,755 --> 00:00:57,180
+It has to be copied in a way that makes a USB device bootable from our BIOS.
+
+16
+00:00:57,180 --> 00:01:00,270
+To load the image onto your USB device and make it bootable,
+
+17
+00:01:00,270 --> 00:01:02,850
+you can use a tool like etcher.io.
+
+18
+00:01:02,850 --> 00:01:06,505
+You can also check out the link to the tool in the reading right after this video.
+
+19
+00:01:06,505 --> 00:01:08,880
+Okay. Let me go power on. And remember,
+
+20
+00:01:08,880 --> 00:01:13,510
+we're gonna make sure that we want to boot from the USB device.
+
+21
+00:01:16,420 --> 00:01:20,430
+All right. Now that its loaded,
+
+22
+00:01:20,430 --> 00:01:22,260
+you'll see an option if you want to try using
+
+23
+00:01:22,260 --> 00:01:25,460
+the operating system first or just install the operating system.
+
+24
+00:01:25,460 --> 00:01:27,985
+We're going to do a fresh install the operating system.
+
+25
+00:01:27,985 --> 00:01:30,180
+The Ubuntu logo will pop up,
+
+26
+00:01:30,180 --> 00:01:31,615
+and then we're going to have to go through a couple of
+
+27
+00:01:31,615 --> 00:01:34,245
+loading screens while the system is installing. All right.
+
+28
+00:01:34,245 --> 00:01:37,260
+We're just going to go ahead and skip through all of these and just pick
+
+29
+00:01:37,260 --> 00:01:44,744
+the defaults for now.
+
+30
+00:01:44,744 --> 00:01:50,290
+All right.
+
+31
+00:01:50,290 --> 00:01:51,820
+Now it ask us for our name,
+
+32
+00:01:51,820 --> 00:01:54,850
+a computer name, or host name, then a username.
+
+33
+00:01:54,850 --> 00:01:59,925
+The host name is used to identify the computer when it needs to talk to other computers.
+
+34
+00:01:59,925 --> 00:02:00,960
+On our personal computer,
+
+35
+00:02:00,960 --> 00:02:04,510
+it's common to just use our own names for our computer's name.
+
+36
+00:02:04,510 --> 00:02:06,475
+But in an IT organization,
+
+37
+00:02:06,475 --> 00:02:10,810
+we want to choose a good host name that follows a certain standardization.
+
+38
+00:02:10,810 --> 00:02:13,180
+We'll go over that in a later lesson, but for now,
+
+39
+00:02:13,180 --> 00:02:15,970
+let's just use an industry standard for host name,
+
+40
+00:02:15,970 --> 00:02:18,370
+like user name dash location.
+
+41
+00:02:18,370 --> 00:02:21,910
+So I'm going to go and enter in my name, Cindy.
+
+42
+00:02:21,910 --> 00:02:23,620
+Then, for the host name field,
+
+43
+00:02:23,620 --> 00:02:27,755
+I'm going to type cindy-nyc.
+
+44
+00:02:27,755 --> 00:02:29,575
+Then for the password,
+
+45
+00:02:29,575 --> 00:02:32,210
+we're just going to enter a password here,
+
+46
+00:02:32,210 --> 00:02:34,200
+then we're going to confirm.
+
+47
+00:02:34,200 --> 00:02:39,720
+All right. Then, I'm going to hit next.
+
+48
+00:02:49,510 --> 00:02:54,180
+And then it'll ask us to restart once it's done.
+
+49
+00:02:54,180 --> 00:03:03,127
+Awesome.
+
+50
+00:03:03,127 --> 00:03:08,175
+Now that's restarted,
+
+51
+00:03:08,175 --> 00:03:11,936
+let's go ahead and log in.
+
+52
+00:03:11,936 --> 00:03:16,680
+Great.
+
+53
+00:03:16,680 --> 00:03:19,025
+Now we're in the Ubuntu desktop environment.
+
+54
+00:03:19,025 --> 00:03:21,880
+Here you can see where applications are laid out.
+
+55
+00:03:21,880 --> 00:03:23,945
+On the left-hand side here,
+
+56
+00:03:23,945 --> 00:03:26,380
+we have a dock that we can add shortcuts to.
+
+57
+00:03:26,380 --> 00:03:28,690
+This layout may change since Ubuntu is
+
+58
+00:03:28,690 --> 00:03:31,150
+changing their desktop environment in the near future.
+
+59
+00:03:31,150 --> 00:03:32,500
+To learn more about this,
+
+60
+00:03:32,500 --> 00:03:34,870
+you can check out the next supplemental reading.
+
+61
+00:03:34,870 --> 00:03:37,360
+On the top right-hand bar here,
+
+62
+00:03:37,360 --> 00:03:39,325
+you'll see quick settings for your computer,
+
+63
+00:03:39,325 --> 00:03:43,810
+like network connectivity, Bluetooth connectivity, sound and volume.
+
+64
+00:03:43,810 --> 00:03:46,345
+There's also the time, a menu to power off,
+
+65
+00:03:46,345 --> 00:03:49,293
+restart, sleep, and log out of your machine.
+
+66
+00:03:49,293 --> 00:03:55,411
+Let's click on this menu and select "System Settings."
+
+67
+00:03:55,411 --> 00:03:59,740
+From here, you can change your system settings, like your screensaver,
+
+68
+00:03:59,740 --> 00:04:05,960
+resolution, hardware settings, and more.
+
+69
+00:04:05,960 --> 00:04:15,430
+Let's go back to our desktop and select this icon here for files.
+
+70
+00:04:16,570 --> 00:04:21,160
+This opens up a window so we can view our files.
+
+71
+00:04:21,160 --> 00:04:23,955
+You can see the different files and folders here.
+
+72
+00:04:23,955 --> 00:04:26,100
+If I click on "Computer",
+
+73
+00:04:26,100 --> 00:04:30,200
+I'm taken to the main directory of my system.
+
+74
+00:04:30,200 --> 00:04:32,297
+We're going to get to this in-depth in the later course.
+
+75
+00:04:32,297 --> 00:04:36,180
+So for now, I'm going to head back to my desktop.
+
+76
+00:04:36,180 --> 00:04:42,160
+Now, let's do the exact same thing we did with our windows machine and create a file.
+
+77
+00:04:42,160 --> 00:04:45,800
+This time, let's just use commands in the shell.
+
+78
+00:04:45,800 --> 00:04:47,775
+Because we're in a GUI,
+
+79
+00:04:47,775 --> 00:04:50,847
+we don't have a program called Bash that we run our commands in.
+
+80
+00:04:50,847 --> 00:04:54,090
+Instead, we open up the search utility here and
+
+81
+00:04:54,090 --> 00:04:57,780
+search for an application called Terminal.
+
+82
+00:04:57,780 --> 00:04:58,950
+When you open up the Terminal,
+
+83
+00:04:58,950 --> 00:05:01,500
+you'll see your username, and at symbol,
+
+84
+00:05:01,500 --> 00:05:04,605
+the host name, colon, tilde,
+
+85
+00:05:04,605 --> 00:05:08,040
+and then slash desktop as your command prompt.
+
+86
+00:05:08,040 --> 00:05:11,095
+This is used to show who's running the command.
+
+87
+00:05:11,095 --> 00:05:15,100
+This will be more important in another course as you switch users.
+
+88
+00:05:15,100 --> 00:05:19,150
+The last portion of the prompt shows you where you are on the computer.
+
+89
+00:05:19,150 --> 00:05:21,955
+We'll learn more about this in a later lesson too.
+
+90
+00:05:21,955 --> 00:05:25,066
+But you can see that we're currently in our desktop.
+
+91
+00:05:25,066 --> 00:05:27,900
+You can verify that we're using the Bash shell with
+
+92
+00:05:27,900 --> 00:05:33,155
+a simple command: echo dollar sign, SHELL.
+
+93
+00:05:33,155 --> 00:05:37,760
+The echo command just prints out text options to the display.
+
+94
+00:05:37,760 --> 00:05:41,970
+In this case, the argument ''dollar sign SHELL'' is the current shell,
+
+95
+00:05:41,970 --> 00:05:45,895
+slash bin, slash bash or bash.
+
+96
+00:05:45,895 --> 00:05:50,155
+You could even do ''echo Hello'',
+
+97
+00:05:50,155 --> 00:05:55,230
+and it would display Hello, which isn't as useful.
+
+98
+00:05:55,230 --> 00:05:58,610
+Okay. Let's create a file in our shell.
+
+99
+00:05:58,610 --> 00:06:01,460
+I'm going to use the touch command.
+
+100
+00:06:01,460 --> 00:06:07,005
+Touch my_super_cool_file.
+
+101
+00:06:07,005 --> 00:06:12,880
+And here, you can see it made a file on our desktop.
+
+102
+00:06:12,880 --> 00:06:15,280
+There are many different commands you can use to make a file,
+
+103
+00:06:15,280 --> 00:06:17,815
+but the touch command in one of the simpler ones.
+
+104
+00:06:17,815 --> 00:06:20,800
+Right now, it might be hard to understand why you have to
+
+105
+00:06:20,800 --> 00:06:24,535
+memorize Linux shell commands when it's easier to use a Windows GUI.
+
+106
+00:06:24,535 --> 00:06:26,560
+If you'd be working with any Linux machines,
+
+107
+00:06:26,560 --> 00:06:28,835
+it's essential that you know these commands.
+
+108
+00:06:28,835 --> 00:06:32,380
+Learning commands is also a stepping stone to process automation,
+
+109
+00:06:32,380 --> 00:06:34,330
+which we'll cover in another course.
+
+110
+00:06:34,330 --> 00:06:36,130
+Don't worry, by the end of this program,
+
+111
+00:06:36,130 --> 00:06:38,370
+you should be super comfortable in the shell.
+
+112
+00:06:38,370 --> 00:06:42,000
+Maybe you'll even run commands faster than you can in the GUI.

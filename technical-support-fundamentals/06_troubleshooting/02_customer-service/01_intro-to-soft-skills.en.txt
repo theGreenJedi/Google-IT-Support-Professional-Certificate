@@ -1,0 +1,121 @@
+Customer service is a critical skill in IT
+support, I can't emphasize that enough. You can have all the technical knowledge
+in the world, but if the user had a poor experience in the process of getting
+their issue solved, you failed. The techniques we'll discuss in these
+videos won't only help you with your users. They'll help you work better with
+your peers, you managers, and maybe even your own
+personal relationships. Keep in mind, these techniques
+don't work in all situations. The reality is that no matter how
+great you are at customer service, some situations don't
+have a good resolution. Plus everyone is different, so you'll need to tweak your style
+when working with users, but the techniques we'll cover are intended to
+make your IT interactions more successful. In IT support, you work with users to fix
+technology and improve how people use it. To accomplish this, you need to develop
+a trust between you and the user. Lots of employers believe
+that good customer service also builds brand loyalty,
+which is a key to success. These lessons are meant to give
+you the foundational skills and techniques of how to deliver
+great customer service. Customer service practices can
+differ from company to company. So while we'll cover the key concepts of
+customer service in any IT support role, it's important to talk with your
+employer to understand the company's customer service approach. This will also give you
+an idea of how much freedom or restrictions you might have in the role. Spoiler alert, great customer service requires exhibiting
+empathy, being conscious of your tone, acknowledging the person you're talking
+to and developing trust with the user. If you remember nothing else from this
+lesson, remember those four things. The most important of
+all of these is empathy. What's the difference between sympathy and
+empathy? People will say things like
+sympathy is saying you're sorry, empathy is feeling sorry. That doesn't really explain it. So let's use an example
+to drive this home. If someone fell into a dark,
+damp, dirty hole, and you leaned over with a sad expression and
+said, that must be a really tough situation,
+then you're expressing sympathy. You're sharing their feelings, but
+you aren't experiencing those feelings. If you crawled down into that dark, damp,
+dirty hole with the person who fell and said, this is a really tough situation,
+then you're expressing empathy. You're able to see something from
+someone else's perspective and understand their feelings. The word choice between the two
+situations is very similar. But the action, the action you take by
+looking at it from their perspective, is what empathy is all about. Some days it's hard to empathize,
+I know from experience. Maybe you had an argument
+with a loved one before work. And by the end of the day,
+you find yourself getting annoyed or upset with users. That's the moment when empathy
+becomes the most important, because anyone can showcase
+empathy when it's easy. But someone who persistently displays
+empathy will stand out as a kinder human, and a more professional and
+effective employee. Once you have empathy down,
+you should think of your tone. Tone is historically thought
+of as how you speak out loud. In this technological age, when many
+of our interactions are over text, and IT support is increasingly done remotely, tone isn't just about how you come
+off during an in-person conversation. It's expanded into how you write,
+punctuate, and even spell. If your tone is short or blunt, then the
+user will feel brushed off and devalued. But if your tone is friendly and curious, the user is much more likely to have
+a positive experience working with you. Be careful not to go overboard
+with the friendliness though, it could be disingenuous. Communicating a good tone
+is a delicate balance. How you ask a question and how you
+respond to a user's question matters. Let's say you tell a user in an email,
+turn your computer off and on again and it will start working. They'll probably never respond. And your company may have lost a customer,
+because the tone is just too short and pretty unfriendly. While it gets to the point, it doesn't
+leave the door open to conversation. What if instead you wrote,
+please try turning your computer off and back on again. This should update the change we made and
+fix the problem. If that doesn't work, just let me know. It's a little wordier, but it has
+a better tone of asking versus telling. Inviting them back to connect with
+you in case the issue isn't resolved, leaves the lines of communication open. Tone can be especially difficult
+when you're supporting someone in a different region or country. Make sure to familiarize yourself with
+the local style, whether that's more conversational or direct, and adjust
+your style depending on the audience. In this day and age of text and email,
+it's easy to ignore what someone says. If a comment seems like a dig, or it's just too much information provided,
+we tend to shy away from responding. It's also really common to forget to
+tell the user what you're doing while you're troubleshooting, that might leave
+the user waiting in an awkward silence. Whenever possible, acknowledge the user. This reduces the tension
+that might build and helps you understand how you're
+working toward a solution. Let's say your chatting back and
+forth with the user, you're asking a lot of questions
+to better troubleshoot the issue. The user's answering them, but also makes
+comment like, jeez, I already answered these in my last email, or, I just
+want to know what's causing my problem. You choose to ignore this and
+continue on with your troubleshooting. You think you're close to
+solving the problem and these side comments
+are just a distraction. But then the user stops
+fully engaging with you and only gives you half-answers
+to your questions. Now you're not able to
+solve the issue at all. The user's unhappy, you're unhappy and
+the company's unhappy. It's a bad situation. Instead of ignoring the user in that
+situation, you could have said, I'm sorry for asking these questions, sometimes repeating them will
+help new information pop up. Or, you could have said,
+sorry for the repeat questions. I don't want to give you a superficial
+cause, when we could fix the root issue, and you won't have to chat with us again. This helps them to understand your
+method and become part of the solution. It's important to acknowledge your own
+actions if you think they might otherwise confuse the user. Let's say a user contacts
+you to fix something. After collecting some information,
+you go radio silent. What's the user to do? Would they ask if you're still there? Would they wait awkwardly until
+you came back on the line? How long would they wait before
+ending the call or saying something? How would they feel about their
+interaction with you, pretty awkward. But what if you said,
+I need to do some research on this issue, would you mind waiting about five
+minutes or less while I do that? They'd probably say, sure, and
+keep themselves occupied while they wait. They'd also feel more confident in
+your ability to resolve the issue. This leads to the most important thing to
+remember when working with people, and that's developing trust. This is easy to do if
+you have repeat users. They see you every workday. One bad day isn't going to stop them from
+trusting that you know what you're doing. But in a transactional userbase, where
+the user only contacts the company once or twice, how you interact with each
+user each time is going to break or build that trust. Why is trust so important? Without it, the user could be
+difficult to work with and could even ignore your advice completely. Empathy and acknowledgement
+are a big part of building trust. Without these, you'll find it
+difficult to connect with the user. By seeing things from
+the user's perspective, you're more likely to find the solution
+that will help them specifically. This lets them know that you care, and they'll be more likely to be
+engaged in the interaction. It's also important to follow through
+on your commitments and promises. If you tell someone you're
+going to follow up in one hour, then be sure to make it happen. And if you don't,
+acknowledge the oversight and apologize. Be sure that any claims
+you make can be backed up. Don't make something up to a user, because
+you think it'll help in the moment. Be honest with the user, even if you
+think they won't be happy about it. And never be afraid to
+admit when you're wrong. This might be the hardest
+thing to do with a user, but you'll find that your interactions
+a more successful this way. Being specific and empathetic with your
+apologies will give it more meaning. And remember,
+no one wakes up in the morning thinking, I'm going to be a jerk today. While you shouldn't
+sacrifice your self respect, do your best to give the user the benefit
+of the doubt whenever possible.

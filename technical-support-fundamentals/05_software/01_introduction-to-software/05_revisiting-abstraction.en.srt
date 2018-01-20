@@ -1,0 +1,63 @@
+1
+00:00:10,810 --> 00:00:13,670
+Earlier in this course, we talked about how
+
+2
+00:00:13,670 --> 00:00:16,355
+programs are instructions that are given to a CPU.
+
+3
+00:00:16,355 --> 00:00:20,360
+We can send binary code or bits to our CPU,
+
+4
+00:00:20,360 --> 00:00:23,835
+then they'll use an instruction set to run those commands.
+
+5
+00:00:23,835 --> 00:00:30,000
+But these CPUs might be from different manufacturers and may have different instructions.
+
+6
+00:00:30,000 --> 00:00:33,482
+There might even be all kinds of different hardware components,
+
+7
+00:00:33,482 --> 00:00:35,510
+like video cards and hard drives,
+
+8
+00:00:35,510 --> 00:00:38,720
+that also have their own special interfaces.
+
+9
+00:00:38,720 --> 00:00:42,615
+So how do we write a program that the hardware can understand?
+
+10
+00:00:42,615 --> 00:00:46,640
+Well, one way would be to write a program for each possible combination of
+
+11
+00:00:46,640 --> 00:00:51,835
+CPU and hardware using the native languages and interfaces of these components.
+
+12
+00:00:51,835 --> 00:00:56,800
+But there are potentially millions of possible configurations of hardware.
+
+13
+00:00:56,800 --> 00:01:01,545
+So how do we get anything to work with all these complex and diverse hardware?
+
+14
+00:01:01,545 --> 00:01:06,250
+Well, thanks to the efforts of computer scientists and the principle of abstraction,
+
+15
+00:01:06,250 --> 00:01:08,510
+we can now use programming languages to write
+
+16
+00:01:08,510 --> 00:01:12,000
+instructions that can be run on any hardware.

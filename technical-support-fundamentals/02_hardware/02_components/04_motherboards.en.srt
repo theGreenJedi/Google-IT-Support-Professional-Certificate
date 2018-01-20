@@ -1,0 +1,239 @@
+1
+00:00:11,840 --> 00:00:16,410
+The motherboard, the foundation that holds our computer together.
+
+2
+00:00:16,410 --> 00:00:21,165
+It lets us expand our computer's functionality by adding expansion cards around
+
+3
+00:00:21,165 --> 00:00:23,535
+its power from the power supply and it allows
+
+4
+00:00:23,535 --> 00:00:26,725
+the different parts of the computer to communicate with each other.
+
+5
+00:00:26,725 --> 00:00:29,570
+In short, it's a total boss.
+
+6
+00:00:29,570 --> 00:00:33,080
+Every motherboard has a few key characteristics.
+
+7
+00:00:33,080 --> 00:00:34,430
+First is the chipset,
+
+8
+00:00:34,430 --> 00:00:38,660
+which decides how components talk to each other on our machine.
+
+9
+00:00:38,660 --> 00:00:41,775
+The chipset on motherboards is made up of two chips.
+
+10
+00:00:41,775 --> 00:00:47,380
+One is called the Northbridge that interconnects stuff like RAM and video cards.
+
+11
+00:00:47,380 --> 00:00:53,615
+The other chip is the Southbridge which maintains our IO or input/output controllers,
+
+12
+00:00:53,615 --> 00:00:58,235
+like hard drives and USB devices that input and output data.
+
+13
+00:00:58,235 --> 00:01:01,940
+In some modern CPUs, the Northbridge has been directly
+
+14
+00:01:01,940 --> 00:01:06,180
+integrated into the CPU so there isn't a separate Northbridge chipset.
+
+15
+00:01:06,180 --> 00:01:10,040
+A chipset is a key component of our motherboard that allows us
+
+16
+00:01:10,040 --> 00:01:14,090
+to manage data between our CPU, RAM, and peripherals.
+
+17
+00:01:14,090 --> 00:01:18,485
+Peripherals are the external devices we connect to our computer like: a mouse,
+
+18
+00:01:18,485 --> 00:01:20,660
+keyboard, and a monitor.
+
+19
+00:01:20,660 --> 00:01:23,810
+You'll learn more about peripherals in an upcoming lesson.
+
+20
+00:01:23,810 --> 00:01:25,365
+In addition to the chipsets,
+
+21
+00:01:25,365 --> 00:01:30,410
+motherboards have another key characteristic which allows the use of expansion slots.
+
+22
+00:01:30,410 --> 00:01:35,780
+Expansion slots also give us the ability to increase the functionality of our computer.
+
+23
+00:01:35,780 --> 00:01:37,261
+If you want to upgrade your graphics card,
+
+24
+00:01:37,261 --> 00:01:39,110
+you could purchase one and just install it on
+
+25
+00:01:39,110 --> 00:01:41,435
+your motherboard through the expansion slot.
+
+26
+00:01:41,435 --> 00:01:43,715
+The standard for an expansion slot today is
+
+27
+00:01:43,715 --> 00:01:48,875
+the PCI Express or Peripheral Component Interconnect Express.
+
+28
+00:01:48,875 --> 00:01:52,940
+A PCIe bus looks like a slot on the motherboard and
+
+29
+00:01:52,940 --> 00:01:57,605
+a PCIe base expansion card looks like a smaller circuit board.
+
+30
+00:01:57,605 --> 00:02:01,790
+The last component of motherboards that we'll discuss is form factor.
+
+31
+00:02:01,790 --> 00:02:04,970
+There are different size of motherboards that are available today.
+
+32
+00:02:04,970 --> 00:02:08,010
+These sizes of form factors determine the amount
+
+33
+00:02:08,010 --> 00:02:11,280
+of stuff we can put in it and the amount of space we'll have.
+
+34
+00:02:11,280 --> 00:02:13,890
+The most common form factor for motherboards is
+
+35
+00:02:13,890 --> 00:02:17,775
+ATX which stands for Advanced Technology eXtended.
+
+36
+00:02:17,775 --> 00:02:20,700
+ATX actually comes in different sizes too.
+
+37
+00:02:20,700 --> 00:02:24,063
+In desktops, you'll commonly see full sized ATX's.
+
+38
+00:02:24,063 --> 00:02:27,225
+If you don't want to use an ATX form factor,
+
+39
+00:02:27,225 --> 00:02:32,970
+you could use an ITX or Information Technology eXtended form factor.
+
+40
+00:02:32,970 --> 00:02:35,490
+These are much smaller than ATX boards.
+
+41
+00:02:35,490 --> 00:02:38,280
+For example, the Intel NUC uses a variation of
+
+42
+00:02:38,280 --> 00:02:41,235
+the ITX board which comes in three board sizes;
+
+43
+00:02:41,235 --> 00:02:45,720
+mini-ITX, nano-ITX, and pico-ITX.
+
+44
+00:02:45,720 --> 00:02:47,120
+When building your computer,
+
+45
+00:02:47,120 --> 00:02:50,345
+you will need to keep in mind what type of form factor you want.
+
+46
+00:02:50,345 --> 00:02:53,310
+Do you want to build something small that can't handle as much workload?
+
+47
+00:02:53,310 --> 00:02:58,620
+Or, do you want a powerhouse workstation that you can add lots of functionality to?
+
+48
+00:02:58,620 --> 00:03:04,530
+The form factor will also play a role into what expansion slots you might want to use.
+
+49
+00:03:04,530 --> 00:03:06,534
+Understanding motherboards and their characteristics
+
+50
+00:03:06,534 --> 00:03:08,970
+can be a big plus when fixing hardware issues,
+
+51
+00:03:08,970 --> 00:03:11,490
+since things like the type of RAM module or
+
+52
+00:03:11,490 --> 00:03:15,865
+processor socket are dependent on the kind of motherboard they need to fit into.
+
+53
+00:03:15,865 --> 00:03:19,605
+Let's say you're responding to a ticket for a user who is having video problems,
+
+54
+00:03:19,605 --> 00:03:21,480
+you don't want to make it all the way to
+
+55
+00:03:21,480 --> 00:03:23,467
+their desk only to realize the graphics card due board as
+
+56
+00:03:23,467 --> 00:03:27,555
+a replacement doesn't fit the motherboard their computer uses.
+
+57
+00:03:27,555 --> 00:03:29,760
+You'll learn more about customer service and
+
+58
+00:03:29,760 --> 00:03:32,555
+troubleshooting tactics later on in this course.
+
+59
+00:03:32,555 --> 00:03:35,250
+But for now, make sure that your motherboard can
+
+60
+00:03:35,250 --> 00:03:39,000
+fit any replacement or upgrade that you want to implement.

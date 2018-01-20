@@ -1,0 +1,183 @@
+1
+00:00:11,560 --> 00:00:15,494
+When we interact with our computers
+we use our mouse, keyboard or
+
+2
+00:00:15,494 --> 00:00:17,660
+even a touch screen.
+
+3
+00:00:17,660 --> 00:00:21,470
+We don't tell it the actual zeros and
+ones it needs to understand something.
+
+4
+00:00:21,470 --> 00:00:24,110
+But wait, we actually do.
+
+5
+00:00:24,110 --> 00:00:25,970
+We just don't ever have to worry about it.
+
+6
+00:00:25,970 --> 00:00:30,150
+We use the concept of abstraction to
+take a relatively complex system and
+
+7
+00:00:30,150 --> 00:00:32,290
+simplify it for our use.
+
+8
+00:00:32,290 --> 00:00:35,830
+You use abstraction every day in the real
+world, and you may not even know it.
+
+9
+00:00:35,830 --> 00:00:37,060
+If you've ever driven a car,
+
+10
+00:00:37,060 --> 00:00:40,710
+you don't need to know how to operate
+the transmission or the engine directly.
+
+11
+00:00:40,710 --> 00:00:44,230
+There's a steering wheel,
+some pedals, maybe a gear stick.
+
+12
+00:00:44,230 --> 00:00:46,460
+If you buy a car from
+a different manufacturer,
+
+13
+00:00:46,460 --> 00:00:49,010
+you operate it in pretty much the same way
+
+14
+00:00:49,010 --> 00:00:52,370
+even though the stuff under the hood
+might be completely different.
+
+15
+00:00:52,370 --> 00:00:54,780
+This is the essence of abstraction.
+
+16
+00:00:54,780 --> 00:00:59,070
+Abstraction hides complexity by providing
+a common interface, the steering wheel,
+
+17
+00:00:59,070 --> 00:01:01,880
+pedals, gear stick, and
+gauges in our car example.
+
+18
+00:01:02,880 --> 00:01:04,960
+The same thing happens in our computer.
+
+19
+00:01:04,960 --> 00:01:07,170
+We don't need to know how
+works underneath the hood.
+
+20
+00:01:07,170 --> 00:01:10,442
+We have a mouse and
+a keyboard we can use to interact with it.
+
+21
+00:01:10,442 --> 00:01:11,614
+Thanks to abstractions,
+
+22
+00:01:11,614 --> 00:01:15,085
+the average computer user doesn't have
+to worry about the technical details.
+
+23
+00:01:15,085 --> 00:01:19,030
+We'll use this under the hood e metaphor
+throughout the program to describe
+
+24
+00:01:19,030 --> 00:01:23,530
+the area that contains the underlying
+implementation of the technology.
+
+25
+00:01:23,530 --> 00:01:26,850
+In computing, we use abstraction
+to make a very complex problem,
+
+26
+00:01:26,850 --> 00:01:29,900
+like how to make computers work,
+easier to think about.
+
+27
+00:01:29,900 --> 00:01:34,010
+We do that by breaking it apart into
+simpler ideas that describe single
+
+28
+00:01:34,010 --> 00:01:39,090
+concepts or individual jobs that need to
+be done, and then stack them in layers.
+
+29
+00:01:39,090 --> 00:01:42,850
+This concept of abstraction will be
+used throughout this entire course.
+
+30
+00:01:42,850 --> 00:01:45,620
+It's a fundamental concept
+in the computing world.
+
+31
+00:01:45,620 --> 00:01:50,420
+One other simple example of abstraction
+in an IT role that you might see a lot
+
+32
+00:01:50,420 --> 00:01:51,850
+is an error message.
+
+33
+00:01:51,850 --> 00:01:55,100
+We don't have to dig through
+someone else's code and find a bug.
+
+34
+00:01:55,100 --> 00:01:59,100
+This has been abstracted out for us
+already in the form of an error message.
+
+35
+00:01:59,100 --> 00:02:03,670
+A simple error message like file not found
+actually tells us a lot of information and
+
+36
+00:02:03,670 --> 00:02:06,370
+saves us time to figure out a solution.
+
+37
+00:02:06,370 --> 00:02:09,400
+Can you imagine if instead of
+abstracting an error message
+
+38
+00:02:09,400 --> 00:02:13,250
+our computer did nothing and we had no
+clue where to start looking for answers?
+
+39
+00:02:13,250 --> 00:02:16,400
+Abstraction helps us in many
+ways that we don't even realize.

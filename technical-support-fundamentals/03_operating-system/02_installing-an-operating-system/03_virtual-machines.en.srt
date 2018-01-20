@@ -1,0 +1,319 @@
+1
+00:00:10,900 --> 00:00:14,090
+Before we start installing our operating system,
+
+2
+00:00:14,090 --> 00:00:18,730
+we need to be familiar with the concept of virtual machines or VMs.
+
+3
+00:00:18,730 --> 00:00:21,835
+A virtual machine is just a copy of a real machine.
+
+4
+00:00:21,835 --> 00:00:24,180
+Why would you want that?
+
+5
+00:00:24,180 --> 00:00:26,400
+We've been working with physical machines so far,
+
+6
+00:00:26,400 --> 00:00:28,310
+but there are cases in IT support,
+
+7
+00:00:28,310 --> 00:00:31,840
+where we need access to a machine that isn't physically in front of us.
+
+8
+00:00:31,840 --> 00:00:34,040
+Let's say, I have a Windows machine and I
+
+9
+00:00:34,040 --> 00:00:36,770
+want to learn another operating system like Linux.
+
+10
+00:00:36,770 --> 00:00:41,285
+I don't want to buy another computer or have two separate operating systems on my disk.
+
+11
+00:00:41,285 --> 00:00:44,660
+Instead, I can use an application like Virtual Box to
+
+12
+00:00:44,660 --> 00:00:48,284
+install Linux and have it completely isolated from my machine.
+
+13
+00:00:48,284 --> 00:00:52,075
+Virtual machines use physical resources like memory,
+
+14
+00:00:52,075 --> 00:00:53,450
+CPU and storage, but they offer
+
+15
+00:00:53,450 --> 00:00:57,725
+the added benefit of running multiple operating systems at once.
+
+16
+00:00:57,725 --> 00:01:00,320
+They're also easier to maintain and provision.
+
+17
+00:01:00,320 --> 00:01:04,610
+Virtual machines have become a staple in many IT departments since
+
+18
+00:01:04,610 --> 00:01:09,200
+they allow IT support specialists to create new virtual computers on demand.
+
+19
+00:01:09,200 --> 00:01:12,840
+They can also reclaim the resources they use when they're no longer needed.
+
+20
+00:01:12,840 --> 00:01:17,045
+If you wanted to use software that's only available on one specific OS,
+
+21
+00:01:17,045 --> 00:01:19,568
+it's easier to create a new virtual machine,
+
+22
+00:01:19,568 --> 00:01:22,880
+use the software, and then delete the virtual machines once you're done.
+
+23
+00:01:22,880 --> 00:01:28,340
+Throughout this program, you'll actually be using VMs to perform hands-on exercises.
+
+24
+00:01:28,340 --> 00:01:30,575
+You'll be working on our Quick Labs platform,
+
+25
+00:01:30,575 --> 00:01:34,615
+where you'll be presented tasks to complete from within a lab setting.
+
+26
+00:01:34,615 --> 00:01:38,810
+We list out the specific tasks you'll need to complete and once you complete the tasks,
+
+27
+00:01:38,810 --> 00:01:40,383
+you'll get the credit for the lab.
+
+28
+00:01:40,383 --> 00:01:42,975
+Let's go ahead and do a quick walk through.
+
+29
+00:01:42,975 --> 00:01:45,360
+Okay, let's check out a sample lab.
+
+30
+00:01:45,360 --> 00:01:50,470
+I'm going to navigate to one of the labs that you'll be working with later on.
+
+31
+00:01:51,680 --> 00:01:54,865
+When you log into the lab,
+
+32
+00:01:54,865 --> 00:01:56,380
+you'll be presented with a doc with
+
+33
+00:01:56,380 --> 00:01:59,290
+instructions on what you need to do to complete the lab.
+
+34
+00:01:59,290 --> 00:02:01,030
+If you see here at the top,
+
+35
+00:02:01,030 --> 00:02:04,900
+you'll also have a time remaining count down timer.
+
+36
+00:02:04,900 --> 00:02:08,140
+This tells you how much time you have to complete
+
+37
+00:02:08,140 --> 00:02:10,985
+the lab once you click the Start Lab button.
+
+38
+00:02:10,985 --> 00:02:13,822
+In this very first quick lab that you'll do,
+
+39
+00:02:13,822 --> 00:02:15,280
+we give you instructions on
+
+40
+00:02:15,280 --> 00:02:19,710
+how quick lab works and how to log into your Quick Labs instance.
+
+41
+00:02:19,710 --> 00:02:21,625
+I won't go over how to do that for now,
+
+42
+00:02:21,625 --> 00:02:24,410
+as you'll get to do that yourself on Quick Labs.
+
+43
+00:02:24,410 --> 00:02:28,585
+For now, I just want to show you how to connect to the Quick Labs' virtual machine.
+
+44
+00:02:28,585 --> 00:02:33,060
+I'm going to go ahead and click Start Lab.
+
+45
+00:02:35,490 --> 00:02:41,060
+This will create a temporary count for me on the Google Cloud Platform,
+
+46
+00:02:41,060 --> 00:02:45,044
+or GCP, or where our virtual machine will be hosted.
+
+47
+00:02:45,044 --> 00:02:49,325
+Then, I'll be given account information for the Google Cloud platform.
+
+48
+00:02:49,325 --> 00:02:52,265
+If I click Open Cloud Console,
+
+49
+00:02:52,265 --> 00:02:59,004
+I'll be prompted to log in with this account information.
+
+50
+00:02:59,004 --> 00:03:07,020
+I'm just going to copy and paste this information in the login window here.
+
+51
+00:03:17,430 --> 00:03:24,460
+Once I'm in, I'll be prompted to agree to the terms of service.
+
+52
+00:03:24,460 --> 00:03:26,390
+I've already read the terms of service,
+
+53
+00:03:26,390 --> 00:03:29,650
+so I'm going to hit Accept.
+
+54
+00:03:31,310 --> 00:03:35,320
+There might be another terms of service agreement you'll
+
+55
+00:03:35,320 --> 00:03:38,085
+have to agree to when you're in the GCP instance.
+
+56
+00:03:38,085 --> 00:03:42,660
+I'm going to go ahead and accept this agreement as well.
+
+57
+00:03:42,670 --> 00:03:47,740
+Okay, now we're in the Google cloud platform.
+
+58
+00:03:47,740 --> 00:03:49,750
+Don't worry about all this information here.
+
+59
+00:03:49,750 --> 00:03:54,090
+It's not important. What is important is on the left-hand side here.
+
+60
+00:03:54,090 --> 00:03:57,750
+We're going to go to compute engine,
+
+61
+00:03:59,330 --> 00:04:05,500
+then we're going to go to VM instances.
+
+62
+00:04:05,850 --> 00:04:11,900
+Here, you'll see the Windows and Linux instances of this lab.
+
+63
+00:04:11,900 --> 00:04:15,762
+That's right, you're going to be working with both operating systems in Quick Labs.
+
+64
+00:04:15,762 --> 00:04:21,708
+I'm going to connect to my Linux instance really quick by clicking the SSH button.
+
+65
+00:04:21,708 --> 00:04:27,785
+Again, all this information is explained in the Quick Labs instructions and bam,
+
+66
+00:04:27,785 --> 00:04:30,990
+now, we're connected to a Linux virtual machine.
+
+67
+00:04:30,990 --> 00:04:32,360
+Pretty neat, right?
+
+68
+00:04:32,360 --> 00:04:33,905
+Once I'm in my virtual machine,
+
+69
+00:04:33,905 --> 00:04:36,020
+I just do the tasks in the lab.
+
+70
+00:04:36,020 --> 00:04:41,980
+Once I'm done with my lab, I just go back to Quick Labs and click End.
+
+71
+00:04:48,010 --> 00:04:52,260
+This will grade my work and automatically
+
+72
+00:04:52,260 --> 00:04:54,935
+check that I completed what I needed to do in my lab,
+
+73
+00:04:54,935 --> 00:04:59,680
+then remove my temporary GCP account access.
+
+74
+00:04:59,680 --> 00:05:04,175
+Okay, now that we know what a virtual machine is,
+
+75
+00:05:04,175 --> 00:05:06,905
+you can see how they can be extremely useful.
+
+76
+00:05:06,905 --> 00:05:10,520
+We'll revisit the ends in the future and see their other many uses.
+
+77
+00:05:10,520 --> 00:05:12,260
+We're covering a lot of ground fast.
+
+78
+00:05:12,260 --> 00:05:15,204
+Since we're going to start installing operating systems soon,
+
+79
+00:05:15,204 --> 00:05:17,570
+feel free to review these lessons to make sure you
+
+80
+00:05:17,570 --> 00:05:21,000
+fully understand the fundamentals before moving on.

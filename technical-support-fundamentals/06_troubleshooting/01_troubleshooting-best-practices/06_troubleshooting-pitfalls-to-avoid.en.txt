@@ -1,0 +1,24 @@
+You've gained a lot of great
+foundational troubleshooting skills. But there is some common pitfalls
+that you should try to avoid in order to be at the top of
+your troubleshooting game. As an IT support specialist, you'll sometime encounter the same
+issue over and over again. Before the next issue comes in, you may find yourself using your
+muscle memory to fix the issue. Pitfall #1, going into autopilot. Make sure you don't
+default to autopilot mode, moving through issues out of habit and
+without careful thought. More often than not there
+are small variables that change the problem you're seeing entirely. Ask questions and gather data so
+you can fully understanding an issue. This takes less time than having to
+redo some sloppy work you did in autopilot mode. Pitfall #2, not finding the root cause. It's very easy to get distracted
+by small problems that pop up. But it's super important to remember
+there's probably a very big problem causing all these small problems. Spend a little extra time
+investigating the issue instead of trying to fix
+all the small holes. If you're trying do a quick fix,
+it's tempting to wipe a system and start from scratch. This approach is kind of like using
+a hammer when a surgical scalpel might be a more appropriate tool. Let's say a user isn't able to
+access a particular website. Re-imaging the system isn't a great solve. It doesn't get to the root cause, and it
+doesn't help further your own knowledge. Investigating the problem of it,
+testing out possible issues and solutions incrementally, and identifying the root
+cause can end up saving a lot of time and effort in the end, and it feels really
+empowering as an IT support specialist. And with that, you'll be able
+to go out in the real world and use your new skills to methodically
+troubleshoot an issue.

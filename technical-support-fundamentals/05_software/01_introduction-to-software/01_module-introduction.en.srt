@@ -1,0 +1,179 @@
+1
+00:00:10,760 --> 00:00:14,430
+Hi, my name's Phelan Vendeville and I'm
+
+2
+00:00:14,430 --> 00:00:18,515
+a Systems Engineer in the Site Reliability Organization at Google.
+
+3
+00:00:18,515 --> 00:00:21,975
+I'm really excited to be your instructor for the next few lessons.
+
+4
+00:00:21,975 --> 00:00:27,195
+Before we jump in, I'll kick things off by telling you a little bit about myself.
+
+5
+00:00:27,195 --> 00:00:29,855
+My passion for technology began in high school,
+
+6
+00:00:29,855 --> 00:00:33,855
+which was located in a geographically isolated part of California.
+
+7
+00:00:33,855 --> 00:00:35,990
+This isolation meant that technology and
+
+8
+00:00:35,990 --> 00:00:39,530
+the internet played an important role in bringing the outside world to
+
+9
+00:00:39,530 --> 00:00:42,470
+students and connecting them with ideas and
+
+10
+00:00:42,470 --> 00:00:46,910
+opportunities via things like virtual field trips and promote learning.
+
+11
+00:00:46,910 --> 00:00:52,490
+For example, I remember preparing for the SATs through digital classroom sessions,
+
+12
+00:00:52,490 --> 00:00:55,380
+which would have been impossible to attend in person.
+
+13
+00:00:55,380 --> 00:00:58,970
+After high school, I enlisted in the US Navy as
+
+14
+00:00:58,970 --> 00:01:01,130
+an Information Systems Technician responsible
+
+15
+00:01:01,130 --> 00:01:03,800
+for maintaining computer and network systems.
+
+16
+00:01:03,800 --> 00:01:07,445
+I continued to witness the ways technology brings people together.
+
+17
+00:01:07,445 --> 00:01:09,740
+Whether that meant coordinating ship movements during
+
+18
+00:01:09,740 --> 00:01:15,005
+training exercises or connecting love ones on long deployments via video chat.
+
+19
+00:01:15,005 --> 00:01:18,900
+Lots of people use technologies in various ways every day,
+
+20
+00:01:18,900 --> 00:01:22,295
+but relatively few understand how it works.
+
+21
+00:01:22,295 --> 00:01:24,350
+A career in IT can be challenging,
+
+22
+00:01:24,350 --> 00:01:26,200
+as I can attest to personally.
+
+23
+00:01:26,200 --> 00:01:29,270
+I can still remember the horror I felt after
+
+24
+00:01:29,270 --> 00:01:32,240
+blowing up the power supply of a master ship's computer,
+
+25
+00:01:32,240 --> 00:01:34,260
+by using the wrong voltage switch.
+
+26
+00:01:34,260 --> 00:01:37,430
+But a career in IT can be incredibly rewarding,
+
+27
+00:01:37,430 --> 00:01:39,365
+when you can do things like recover
+
+28
+00:01:39,365 --> 00:01:42,565
+irreplaceable family photos from a failing hard drive.
+
+29
+00:01:42,565 --> 00:01:44,690
+As an IT Support Specialist,
+
+30
+00:01:44,690 --> 00:01:49,685
+you'll be in a position to not only know how a given piece of technology functions,
+
+31
+00:01:49,685 --> 00:01:52,640
+but also how to help fix it when it breaks.
+
+32
+00:01:52,640 --> 00:01:55,160
+This means you'll have a direct impact on the flow of
+
+33
+00:01:55,160 --> 00:01:58,750
+information going between people, which is pretty cool.
+
+34
+00:01:58,750 --> 00:02:01,130
+I'm excited to teach you about the third layer of
+
+35
+00:02:01,130 --> 00:02:03,860
+computer architecture known as software.
+
+36
+00:02:03,860 --> 00:02:05,330
+Software is how we,
+
+37
+00:02:05,330 --> 00:02:09,135
+as users, directly interact with our computer.
+
+38
+00:02:09,135 --> 00:02:13,130
+The operating system that we interact with is just software.
+
+39
+00:02:13,130 --> 00:02:19,305
+The music programs, word processors and more that we use every day are also software.
+
+40
+00:02:19,305 --> 00:02:21,335
+But what exactly is it?
+
+41
+00:02:21,335 --> 00:02:25,550
+If the hardware is the physical stuff that you can pick up and hold,
+
+42
+00:02:25,550 --> 00:02:30,115
+software is the intangible instructions that tell the hardware what to do.
+
+43
+00:02:30,115 --> 00:02:31,414
+In the next lesson,
+
+44
+00:02:31,414 --> 00:02:35,225
+we're going to deep dive more into what software is,
+
+45
+00:02:35,225 --> 00:02:39,000
+how we install it, and how it works.

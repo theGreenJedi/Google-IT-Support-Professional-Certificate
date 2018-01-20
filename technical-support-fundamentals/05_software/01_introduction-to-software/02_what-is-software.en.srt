@@ -1,0 +1,223 @@
+1
+00:00:10,780 --> 00:00:14,055
+Video games, music players,
+
+2
+00:00:14,055 --> 00:00:15,930
+and Internet browsers are all
+
+3
+00:00:15,930 --> 00:00:19,380
+different types of software that have completely different functions.
+
+4
+00:00:19,380 --> 00:00:21,810
+Think of the apps on your phone and your laptop.
+
+5
+00:00:21,810 --> 00:00:24,795
+We spend a lot of time interacting with this type of software,
+
+6
+00:00:24,795 --> 00:00:27,465
+but we may not know how it actually works,
+
+7
+00:00:27,465 --> 00:00:29,435
+or gets added to our systems.
+
+8
+00:00:29,435 --> 00:00:31,030
+In the last few videos,
+
+9
+00:00:31,030 --> 00:00:33,305
+we learned about networking and the Internet.
+
+10
+00:00:33,305 --> 00:00:37,770
+There are tons of applications out there that require the Internet to work.
+
+11
+00:00:37,770 --> 00:00:40,165
+Think about it, your social media apps,
+
+12
+00:00:40,165 --> 00:00:43,575
+messaging apps, and others, run off the Internet.
+
+13
+00:00:43,575 --> 00:00:48,470
+This internet integration isn't just magically added to your application,
+
+14
+00:00:48,470 --> 00:00:51,175
+it's built in to require it to function.
+
+15
+00:00:51,175 --> 00:00:53,730
+Before we go too far into the world of software,
+
+16
+00:00:53,730 --> 00:00:57,885
+I want to call out some common terms related to software that you might hear;
+
+17
+00:00:57,885 --> 00:01:03,470
+coding, scripting, and programming are all terms that might seem a little blurry.
+
+18
+00:01:03,470 --> 00:01:07,935
+They generally refer to the same thing but they each have small distinctions.
+
+19
+00:01:07,935 --> 00:01:12,050
+Coding is basically translating one language to another,
+
+20
+00:01:12,050 --> 00:01:14,850
+this can be coding from English to Spanish,
+
+21
+00:01:14,850 --> 00:01:16,515
+English to Morse code,
+
+22
+00:01:16,515 --> 00:01:19,380
+or even English to a computer language.
+
+23
+00:01:19,380 --> 00:01:21,180
+When someone builds an application,
+
+24
+00:01:21,180 --> 00:01:24,015
+we refer to it as coding in application.
+
+25
+00:01:24,015 --> 00:01:27,076
+Scripting is coding in a scripting language,
+
+26
+00:01:27,076 --> 00:01:29,775
+we'll talk about scripting languages in a later lesson.
+
+27
+00:01:29,775 --> 00:01:34,635
+But scripts are mainly used to perform a single or limited range task,
+
+28
+00:01:34,635 --> 00:01:37,455
+there are languages we can use to build these.
+
+29
+00:01:37,455 --> 00:01:41,100
+Programming is coding in a programming language.
+
+30
+00:01:41,100 --> 00:01:44,730
+Programming languages are special languages that software
+
+31
+00:01:44,730 --> 00:01:48,660
+developers use to write instructions for computers to execute,
+
+32
+00:01:48,660 --> 00:01:52,680
+larger applications like your web browser, text editors,
+
+33
+00:01:52,680 --> 00:01:57,165
+and music players are all usually written in programming languages.
+
+34
+00:01:57,165 --> 00:02:02,770
+When we use the term software it generally refers to something that was programmed,
+
+35
+00:02:02,770 --> 00:02:05,675
+we'll use these terms pretty interchangeably,
+
+36
+00:02:05,675 --> 00:02:07,520
+so don't sweat the details.
+
+37
+00:02:07,520 --> 00:02:09,580
+Now, onwards and upwards,
+
+38
+00:02:09,580 --> 00:02:13,395
+so what is software made of and who builds it?
+
+39
+00:02:13,395 --> 00:02:15,245
+That's a great question.
+
+40
+00:02:15,245 --> 00:02:20,040
+Anyone who knows a programming or scripting language can use it to write code,
+
+41
+00:02:20,040 --> 00:02:22,570
+there's a huge demand for this skill set and
+
+42
+00:02:22,570 --> 00:02:25,540
+it's becoming easier for someone to learn to code.
+
+43
+00:02:25,540 --> 00:02:28,435
+Take for example, our very own course 5,
+
+44
+00:02:28,435 --> 00:02:32,020
+which will cover the basics of using a coding language,
+
+45
+00:02:32,020 --> 00:02:34,090
+shameless product plug, I know,
+
+46
+00:02:34,090 --> 00:02:36,550
+especially since I wrote the material.
+
+47
+00:02:36,550 --> 00:02:38,425
+Anyway, moving on.
+
+48
+00:02:38,425 --> 00:02:40,405
+If you're going to be working in I.T.
+
+49
+00:02:40,405 --> 00:02:43,090
+it's important that you understand how software works,
+
+50
+00:02:43,090 --> 00:02:46,155
+and how it gets installed on your systems.
+
+51
+00:02:46,155 --> 00:02:49,220
+You might encounter software errors or just good old fashioned
+
+52
+00:02:49,220 --> 00:02:52,765
+failures and you need to understand how to deal with them.
+
+53
+00:02:52,765 --> 00:02:54,410
+By the end of this module,
+
+54
+00:02:54,410 --> 00:02:58,250
+you'll be able to understand what software is, how it works,
+
+55
+00:02:58,250 --> 00:03:00,545
+and how to install it, remove it,
+
+56
+00:03:00,545 --> 00:03:06,000
+and update it, all within the Linux and Windows operating systems.

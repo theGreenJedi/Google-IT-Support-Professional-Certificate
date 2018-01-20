@@ -1,0 +1,223 @@
+1
+00:00:11,030 --> 00:00:14,970
+Welcome back. You've learned about the basics of computing with
+
+2
+00:00:14,970 --> 00:00:18,810
+binary and the hardware layer of the computer architecture.
+
+3
+00:00:18,810 --> 00:00:22,105
+Now, it's time to move onto the next layer, the operating system.
+
+4
+00:00:22,105 --> 00:00:24,600
+By the end of this lesson, you'll know what an operating system
+
+5
+00:00:24,600 --> 00:00:27,805
+is and what makes up an operating system.
+
+6
+00:00:27,805 --> 00:00:29,640
+You'll also get some hands-on experience with
+
+7
+00:00:29,640 --> 00:00:32,430
+the three biggest operating systems used today.
+
+8
+00:00:32,430 --> 00:00:34,275
+Before we get deeper into operating systems,
+
+9
+00:00:34,275 --> 00:00:36,175
+I'd like to introduce myself to you.
+
+10
+00:00:36,175 --> 00:00:39,999
+My name is Cindy Quach and I'm a site reliability engineer at Google.
+
+11
+00:00:39,999 --> 00:00:42,660
+The team I work on is responsible for the management and
+
+12
+00:00:42,660 --> 00:00:46,335
+support of Google's entire internal mobile fleet: Android OS,
+
+13
+00:00:46,335 --> 00:00:47,845
+iOS, and Chrome OS.
+
+14
+00:00:47,845 --> 00:00:49,770
+Before focusing on mobile,
+
+15
+00:00:49,770 --> 00:00:52,385
+I was a systems administrator on the links team,
+
+16
+00:00:52,385 --> 00:00:55,350
+and before that, I was an operations engineer.
+
+17
+00:00:55,350 --> 00:00:58,570
+But like a lot of the Googlers you've met and will meet,
+
+18
+00:00:58,570 --> 00:01:00,090
+I started my career as an I.T.
+
+19
+00:01:00,090 --> 00:01:02,490
+support specialist. I've been working in I.T.
+
+20
+00:01:02,490 --> 00:01:03,806
+for seven years now.
+
+21
+00:01:03,806 --> 00:01:07,410
+The first time I can remember interacting with computers was in middle school,
+
+22
+00:01:07,410 --> 00:01:09,900
+where my teacher brought them into our classroom so we could create
+
+23
+00:01:09,900 --> 00:01:12,529
+fun video and multimedia projects.
+
+24
+00:01:12,529 --> 00:01:16,030
+It was my brother who brought technology into our house.
+
+25
+00:01:16,030 --> 00:01:19,320
+My parents were immigrants from Vietnam and we didn't have a lot of money growing up,
+
+26
+00:01:19,320 --> 00:01:22,950
+so we had to be creative if we wanted to play with a computer at home.
+
+27
+00:01:22,950 --> 00:01:25,990
+I can remember spending hours with my brother as he assembled
+
+28
+00:01:25,990 --> 00:01:28,945
+a computer and I would just ask a million questions.
+
+29
+00:01:28,945 --> 00:01:31,580
+Eventually, I wanted to try and build my own computer,
+
+30
+00:01:31,580 --> 00:01:35,740
+so I gathered up some old parts and saved money to buy new components.
+
+31
+00:01:35,740 --> 00:01:37,840
+I finally put all the parts together from what I remembered
+
+32
+00:01:37,840 --> 00:01:40,669
+my brother doing but it just didn't work.
+
+33
+00:01:40,669 --> 00:01:43,555
+It turns out that I used some incompatible parts.
+
+34
+00:01:43,555 --> 00:01:46,435
+But through a lot of trial and error, troubleshooting,
+
+35
+00:01:46,435 --> 00:01:48,688
+and long search sessions on the internet,
+
+36
+00:01:48,688 --> 00:01:50,440
+I finally got it to work.
+
+37
+00:01:50,440 --> 00:01:54,550
+The feeling I got when I heard my computer boot up for the first time was amazing,
+
+38
+00:01:54,550 --> 00:01:57,245
+and before I knew it, I was hooked on computers.
+
+39
+00:01:57,245 --> 00:02:01,240
+I really enjoyed the intense concentration and problem solving required in I.T.
+
+40
+00:02:01,240 --> 00:02:04,865
+but I didn't think a career in tech was even possible back then.
+
+41
+00:02:04,865 --> 00:02:07,090
+Once I got to college, I had to find a job to help pay
+
+42
+00:02:07,090 --> 00:02:09,460
+for tuition and that job was an I.T.
+
+43
+00:02:09,460 --> 00:02:11,800
+support specialist on campus.
+
+44
+00:02:11,800 --> 00:02:15,675
+That's when I realized that tech is actually something I could pursue as a career.
+
+45
+00:02:15,675 --> 00:02:17,830
+Operating systems are an essential part of I.T.
+
+46
+00:02:17,830 --> 00:02:21,160
+support. Everyone uses a computer to accomplish something,
+
+47
+00:02:21,160 --> 00:02:23,215
+whether that's browsing the web,
+
+48
+00:02:23,215 --> 00:02:25,135
+writing a novel, making graphics,
+
+49
+00:02:25,135 --> 00:02:26,485
+playing video games, et cetera.
+
+50
+00:02:26,485 --> 00:02:27,940
+Whatever the case may be,
+
+51
+00:02:27,940 --> 00:02:31,140
+they need to interact with their operating system to do. In I.T.
+
+52
+00:02:31,140 --> 00:02:34,120
+support, it's essential to understand how operating systems
+
+53
+00:02:34,120 --> 00:02:37,690
+work so you can help someone accomplish the task they set out to do,
+
+54
+00:02:37,690 --> 00:02:40,480
+whether that's figuring out why an application won't start,
+
+55
+00:02:40,480 --> 00:02:43,930
+why the graphics look funny on their video games, or anything else.
+
+56
+00:02:43,930 --> 00:02:49,000
+Things can get really messy and challenging and that's part of the fun. So let's begin.

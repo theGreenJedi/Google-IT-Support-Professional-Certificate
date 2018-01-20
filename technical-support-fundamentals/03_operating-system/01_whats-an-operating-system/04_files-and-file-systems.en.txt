@@ -1,0 +1,53 @@
+Imagine if you had to store
+a single file in a cabinet. That's not so bad, right? What if, instead of one file,
+you had to store 100,000? Can you see a problem here? Well, on our computers, we can easily store hundreds of
+thousands of files, if not more. Problem solved? Not quite, we have to be able to
+keep track of all these files. The kernel handles file storage and
+file systems on our machines. And in this lesson, we're going to dig
+a little deeper on how it does that. There are three main components
+to handling files on an OS, the file data, metadata, and file system. Let's start with the file system. When we have a brand new hard disk
+that we want to store data on, we need to erase and configure the disk. This way our operating system can read and
+write data to it. This is important, since it's how our
+operating system keeps track of files. So it must know what kind
+of file system is used. There are lot of file systems, and
+they're used for different purposes. Some file systems support the storage
+of large amounts of data, others only support small amounts. They can operate at different speeds, and have varying resiliency towards
+file corruption, and so on. We won't get into which
+file system is best. That's for you to decide. But the major OS manufacturers have
+their own unique file systems that they recommend. For Windows,
+the major file system that's used is NTFS. It was introduced in the previous
+version of Windows OS, Windows NT. And it includes many features,
+like encryption, faster access speeds, security, and more. Microsoft is developing another
+file system called ReFS, but it isn't quite ready for
+consumer use just yet. If you're interested in learning more, you can read more about it in
+the next supplemental reading. For Mac OS,
+the default file system is HFS+. It's journaled, which means it does a better job at saving
+your disk state in case of a failure. This is a feature on other types
+of file systems, like NTFS. For Linux, different distributions
+will use different file system types. A standard for file systems for Linux is ext4, which is compatible
+with older ext file systems. In general, different file system types
+don't play nicely with each other. You might not be able to easily move
+files across different file systems, depending on the file system type. A good guideline to use is
+just to use the file system that your operating system recommends. You can read more about
+the different types of file systems in the supplemental reading. Another important part of file management
+is the storage of actual file data. We write data to our hard drive
+in the form of data blocks. When we save something to our hard disks,
+it doesn't always sit in one piece. It can be broken down into many pieces and
+written to different parts of the disk. Block storage improves
+faster handling of data because the data isn't stored on one long
+piece and it can be accessed quicker. It's also better for
+utilizing storage space. Lastly, we need to keep the metadata that
+contains the information about our file. There's a lot of information about
+our file that we want to know, like who created it, when it was last
+modified, who has access to it, and so on. The file metadata tells us everything
+we need to know about our file. It also tells us what type of file it is. A file extension is the appended
+part of a filename that tells us what type of file it is in
+certain operating systems. Take cool_image.jpeg. Jpeg is a file extension
+associated with image files. You'll see different types
+of file extensions like this when you're working with
+your operating system. A working knowledge of file systems and
+the differences between them is a great skill to have in your IT
+support specialist toolbox. It can be super useful when you need
+to do things like recover data from damaged disks. Or explore ways to boot from two
+different kinds of operating systems, like Windows and Linux,
+on the same computer.

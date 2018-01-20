@@ -1,0 +1,26 @@
+Imagine this scenario. You're playing your favorite video game,
+and you finally get to the big boss. You spent countless
+hours finding this boss, neglecting all other responsibilities
+like your job, school, even hygiene. That's pretty gross, but I get it. So you're right about to kill
+the big boss when suddenly your game console shuts off completely. You probably freak out for a second. But then you remember, it's okay, you
+saved the game before the boss came along. So now you can turn it back on,
+and you'll be at the same spot. But then your console shuts off again,
+this happens over and over. You, like most people, are devastated. You fly into a fit of rage, but then,
+just before you toss your console out, you make one last ditch effort and
+yell, tell me what's wrong with you. Suddenly you hear a faint voice
+telling you what you want to hear. Wouldn't that be amazing? Sure, that scenario was a bit exaggerated. But my point is that our computers
+actually can talk to us and tell us what's wrong. Maybe they won't whisper answers to us,
+but they speak to us in the form of logs. Logs are files that record
+system events on our computer just like a system's diary. Our computer will record events like when
+it was turned on, when a driver was loaded and even when something isn't working
+in the form of error messages. In all operating systems, logs are kept so we can refer back to them when we need
+to find out something that happened. But logs can be hard to navigate
+because our computer will essentially record everything. Here's what a log looks like. As you can see, it can be tough
+to make your way through a log. But, with a little bit of elbow grease, we can figure out what happened on our
+computer and piece together a solution. We'll see an example of how a log
+is useful in figuring out an issue in a later lesson. We'll dive into the technical
+details of logs in a later course. For now, just be aware that we can
+investigate details about our computer that aren't obvious to us. Unfortunately, our computers,
+cars and machines don't have a little voice that tells
+us what's wrong when there's a problem. But by the end of this program, you'll
+be able to navigate and read logs, so you won't even need it.

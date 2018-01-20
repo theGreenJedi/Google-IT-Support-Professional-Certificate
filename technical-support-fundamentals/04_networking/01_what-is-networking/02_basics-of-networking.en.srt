@@ -1,0 +1,583 @@
+1
+00:00:11,070 --> 00:00:13,930
+When most people think of the Internet,
+
+2
+00:00:13,930 --> 00:00:17,395
+they think of a magical cloud that lets you access your favorite websites,
+
+3
+00:00:17,395 --> 00:00:21,490
+shop online, and you're seemingly endless stream of cat pictures.
+
+4
+00:00:21,490 --> 00:00:23,480
+But there isn't any magic involved.
+
+5
+00:00:23,480 --> 00:00:27,580
+There's no mysterious entity that grants us a cat picture on demand.
+
+6
+00:00:27,580 --> 00:00:31,255
+The Internet is just an interconnection of computers around the world,
+
+7
+00:00:31,255 --> 00:00:34,765
+like a giant spider web that brings all of us together.
+
+8
+00:00:34,765 --> 00:00:38,200
+We call the interconnection of computers a network.
+
+9
+00:00:38,200 --> 00:00:43,120
+Computers in a network can talk to each other and send data to one another.
+
+10
+00:00:43,120 --> 00:00:46,630
+You can create a simple network with just two computers.
+
+11
+00:00:46,630 --> 00:00:49,120
+In fact, you might already have your own network
+
+12
+00:00:49,120 --> 00:00:52,000
+at home connecting all of your home devices.
+
+13
+00:00:52,000 --> 00:00:54,100
+Let's think on a bigger scale.
+
+14
+00:00:54,100 --> 00:00:57,430
+What about the computers at your school or workplace?
+
+15
+00:00:57,430 --> 00:01:00,500
+Are they in a network? They sure are.
+
+16
+00:01:00,500 --> 00:01:04,020
+All of the computers there are linked together in a network.
+
+17
+00:01:04,020 --> 00:01:05,273
+Can we link your home,
+
+18
+00:01:05,273 --> 00:01:07,990
+school and workplace networks together?
+
+19
+00:01:07,990 --> 00:01:09,355
+We absolutely can.
+
+20
+00:01:09,355 --> 00:01:11,980
+Your workplace connects to a bigger network,
+
+21
+00:01:11,980 --> 00:01:14,518
+and that network connects to an even bigger network,
+
+22
+00:01:14,518 --> 00:01:15,583
+and on and on.
+
+23
+00:01:15,583 --> 00:01:19,360
+Eventually, you've got billions of computers that are interconnected,
+
+24
+00:01:19,360 --> 00:01:21,940
+making up what we call the Internet.
+
+25
+00:01:21,940 --> 00:01:23,680
+You, like most people,
+
+26
+00:01:23,680 --> 00:01:26,290
+probably access the Internet through a browser,
+
+27
+00:01:26,290 --> 00:01:29,218
+like Mozilla Firefox, Google Chrome,
+
+28
+00:01:29,218 --> 00:01:31,025
+Microsoft Edge or something else.
+
+29
+00:01:31,025 --> 00:01:33,385
+This is done through the World Wide Web.
+
+30
+00:01:33,385 --> 00:01:38,045
+But don't make the mistake of thinking the Internet is the World Wide Web.
+
+31
+00:01:38,045 --> 00:01:43,435
+The Internet is the physical connection of computers and wires around the world.
+
+32
+00:01:43,435 --> 00:01:46,818
+The Web is the information on the Internet.
+
+33
+00:01:46,818 --> 00:01:52,930
+We use it to access the Internet through a link like www.google.com.
+
+34
+00:01:52,930 --> 00:01:56,815
+The World Wide Web isn't the only way we can access the Internet.
+
+35
+00:01:56,815 --> 00:02:01,945
+Your e-mail, chat, and file-sharing programs are also ways you can access the Internet.
+
+36
+00:02:01,945 --> 00:02:04,270
+In the IT field, managing,
+
+37
+00:02:04,270 --> 00:02:07,915
+building and designing networks is known as networking.
+
+38
+00:02:07,915 --> 00:02:11,508
+Networking is a super important and large field in IT.
+
+39
+00:02:11,508 --> 00:02:14,560
+There are specialized jobs, college degree programs,
+
+40
+00:02:14,560 --> 00:02:17,865
+and tons of literature dedicated entirely to networking.
+
+41
+00:02:17,865 --> 00:02:19,546
+If you work in the IT field,
+
+42
+00:02:19,546 --> 00:02:23,070
+it's super critical that you understand the fundamentals of networking.
+
+43
+00:02:23,070 --> 00:02:24,910
+So how does it all work?
+
+44
+00:02:24,910 --> 00:02:26,285
+To answer that question,
+
+45
+00:02:26,285 --> 00:02:28,090
+we're going to need a lot more time.
+
+46
+00:02:28,090 --> 00:02:32,235
+Fortunately, we have a separate course entirely dedicated to this topic.
+
+47
+00:02:32,235 --> 00:02:35,405
+We'll only cover the high-level overview of networking here.
+
+48
+00:02:35,405 --> 00:02:39,340
+The Internet is composed of a massive network of satellites,
+
+49
+00:02:39,340 --> 00:02:42,940
+cellular networks, and physical cables buried beneath the ground.
+
+50
+00:02:42,940 --> 00:02:45,400
+We don't actually connect to the Internet directly.
+
+51
+00:02:45,400 --> 00:02:49,330
+Instead, computers called servers connect directly to the Internet.
+
+52
+00:02:49,330 --> 00:02:52,055
+Servers store the websites that we use,
+
+53
+00:02:52,055 --> 00:02:55,710
+like Wikipedia, Google, Reddit, and BBC.
+
+54
+00:02:55,710 --> 00:02:58,315
+These websites serve content.
+
+55
+00:02:58,315 --> 00:02:59,944
+The machines that we use,
+
+56
+00:02:59,944 --> 00:03:01,210
+like our mobile phones,
+
+57
+00:03:01,210 --> 00:03:04,960
+laptops, video game, consoles and more, are called clients.
+
+58
+00:03:04,960 --> 00:03:07,105
+Clients request the content,
+
+59
+00:03:07,105 --> 00:03:10,225
+like pictures, websites, from the servers.
+
+60
+00:03:10,225 --> 00:03:13,150
+Clients don't connect directly to the Internet.
+
+61
+00:03:13,150 --> 00:03:19,330
+Instead, they connect to a network run by an Internet service provider or ISP,
+
+62
+00:03:19,330 --> 00:03:21,828
+like CenturyLink, Level 3,
+
+63
+00:03:21,828 --> 00:03:24,210
+Comcast, Telefonica, and things like that.
+
+64
+00:03:24,210 --> 00:03:27,565
+ISPs have already built networks and run
+
+65
+00:03:27,565 --> 00:03:30,040
+all the necessary physical cabling that connects
+
+66
+00:03:30,040 --> 00:03:33,365
+millions of computers together in one network.
+
+67
+00:03:33,365 --> 00:03:36,980
+They also connect to other networks and other ISPs.
+
+68
+00:03:36,980 --> 00:03:41,605
+These other networks connect to the networks of Google, Reddit, and universities.
+
+69
+00:03:41,605 --> 00:03:45,505
+Basically, all the other networks in the world, together,
+
+70
+00:03:45,505 --> 00:03:49,850
+they form one giant network of computers called the Internet.
+
+71
+00:03:49,850 --> 00:03:53,530
+But how do the clients know how to get to servers?
+
+72
+00:03:53,530 --> 00:03:55,975
+Well, how would you send a letter to someone?
+
+73
+00:03:55,975 --> 00:03:58,600
+You'd put your address on the letter and send it
+
+74
+00:03:58,600 --> 00:04:01,565
+to the address of the person you're sending the letter to.
+
+75
+00:04:01,565 --> 00:04:04,390
+Computers have addresses just like houses.
+
+76
+00:04:04,390 --> 00:04:08,720
+Computers on a network have an identifier called an IP address.
+
+77
+00:04:08,720 --> 00:04:14,720
+An IP address is composed of digits and numbers like 100.1.4.3.
+
+78
+00:04:14,720 --> 00:04:19,345
+When we want to access a website like www.coursera.com,
+
+79
+00:04:19,345 --> 00:04:26,609
+we're actually going to their IP address like 172.217.6.46.
+
+80
+00:04:26,609 --> 00:04:29,050
+Devices that can connect to a network have
+
+81
+00:04:29,050 --> 00:04:32,170
+another unique identifier called a MAC address.
+
+82
+00:04:32,170 --> 00:04:37,060
+MAC addresses are generally permanent and hard-coded onto a device.
+
+83
+00:04:37,060 --> 00:04:40,330
+A sample MAC address can be something like this.
+
+84
+00:04:40,330 --> 00:04:43,794
+When you send or receive data through a network,
+
+85
+00:04:43,794 --> 00:04:47,230
+you need to have both an IP and a MAC address.
+
+86
+00:04:47,230 --> 00:04:51,901
+You might be wondering why we need to have two different numbers to identify something.
+
+87
+00:04:51,901 --> 00:04:56,095
+That's a good question. Think again of the letter analogy we used before.
+
+88
+00:04:56,095 --> 00:04:58,945
+An IP address is your house address,
+
+89
+00:04:58,945 --> 00:05:02,720
+while the MAC address is the name of this recipient of the letter.
+
+90
+00:05:02,720 --> 00:05:07,615
+He want to make sure your letter gets to the right location and to the right person.
+
+91
+00:05:07,615 --> 00:05:11,410
+A more simplified example of the letter delivery would go like this.
+
+92
+00:05:11,410 --> 00:05:12,993
+I'm in New York City,
+
+93
+00:05:12,993 --> 00:05:16,570
+and I got a letter that I want to send to a friend, Mey.
+
+94
+00:05:16,570 --> 00:05:19,105
+Mey is halfway across the world in Tokyo.
+
+95
+00:05:19,105 --> 00:05:22,595
+So our letter will go through lots of places before it reaches her.
+
+96
+00:05:22,595 --> 00:05:24,430
+I put her name and address on there,
+
+97
+00:05:24,430 --> 00:05:26,985
+and I also put my name and address on there too.
+
+98
+00:05:26,985 --> 00:05:29,245
+When I drop my letter off at the post office,
+
+99
+00:05:29,245 --> 00:05:30,820
+the mail person looks at it.
+
+100
+00:05:30,820 --> 00:05:33,268
+He thinks, "I don't know how to get to Tokyo from here,
+
+101
+00:05:33,268 --> 00:05:35,650
+but there is a truck that's headed to Texas."
+
+102
+00:05:35,650 --> 00:05:37,090
+He puts my letter in that truck.
+
+103
+00:05:37,090 --> 00:05:38,585
+At the post office in Texas,
+
+104
+00:05:38,585 --> 00:05:40,615
+a mail person looks at the letter and says,
+
+105
+00:05:40,615 --> 00:05:42,740
+"I don't know how to get to Tokyo from here,
+
+106
+00:05:42,740 --> 00:05:45,420
+but we have a truck going to San Francisco."
+
+107
+00:05:45,420 --> 00:05:47,600
+She puts my letter in that truck.
+
+108
+00:05:47,600 --> 00:05:49,315
+At the post office in San Francisco,
+
+109
+00:05:49,315 --> 00:05:51,220
+yet another mail person looks at my letter.
+
+110
+00:05:51,220 --> 00:05:54,310
+He says, "Oh, there's a plane headed to Tokyo."
+
+111
+00:05:54,310 --> 00:05:56,410
+And puts the letter on that plane.
+
+112
+00:05:56,410 --> 00:05:58,180
+When it finally reaches Tokyo,
+
+113
+00:05:58,180 --> 00:05:59,410
+the postman there says,
+
+114
+00:05:59,410 --> 00:06:03,185
+"Oh, I know where Mey lives," and delivers the letter to her.
+
+115
+00:06:03,185 --> 00:06:07,405
+Obviously, there are many more nuance to mail delivery than what I described,
+
+116
+00:06:07,405 --> 00:06:11,860
+but this process is similar to how information gets routed across the Internet.
+
+117
+00:06:11,860 --> 00:06:14,330
+One thing to call out is that data that is
+
+118
+00:06:14,330 --> 00:06:16,990
+sent through a network is sent through packets.
+
+119
+00:06:16,990 --> 00:06:19,098
+There are little bits of data,
+
+120
+00:06:19,098 --> 00:06:21,775
+and you guessed it, ones and zeros.
+
+121
+00:06:21,775 --> 00:06:23,725
+It doesn't matter if it's pictures,
+
+122
+00:06:23,725 --> 00:06:25,930
+email, music, or text.
+
+123
+00:06:25,930 --> 00:06:27,625
+When we move data through the network,
+
+124
+00:06:27,625 --> 00:06:29,890
+we break them down into packets.
+
+125
+00:06:29,890 --> 00:06:32,425
+When a packet gets to its destination,
+
+126
+00:06:32,425 --> 00:06:34,960
+it will rearrange itself back in order.
+
+127
+00:06:34,960 --> 00:06:36,855
+Think of a packet like a letter.
+
+128
+00:06:36,855 --> 00:06:39,670
+Let's actually look at this process again, but this time,
+
+129
+00:06:39,670 --> 00:06:42,415
+we'll use IP addresses and MAC addresses.
+
+130
+00:06:42,415 --> 00:06:48,261
+Natalie has a computer with IP address 113.8.81.2,
+
+131
+00:06:48,261 --> 00:06:52,435
+and she wants to go to google.com and search for pictures of cats.
+
+132
+00:06:52,435 --> 00:06:54,490
+Before she does that, her computer has to send
+
+133
+00:06:54,490 --> 00:06:57,720
+a packet to ask google.com if it can access their website.
+
+134
+00:06:57,720 --> 00:07:04,420
+Our packet knows google.com's IP address is 172.217.6.46,
+
+135
+00:07:04,420 --> 00:07:07,510
+but it doesn't know how to get there just yet.
+
+136
+00:07:07,510 --> 00:07:11,725
+The packet travels from one place to another at each destination,
+
+137
+00:07:11,725 --> 00:07:13,045
+where it asks, "Hey,
+
+138
+00:07:13,045 --> 00:07:15,130
+do you know where google.com is?"
+
+139
+00:07:15,130 --> 00:07:18,040
+Eventually, it will be routed to another destination that can
+
+140
+00:07:18,040 --> 00:07:21,095
+get the packet closer and closer to google.com.
+
+141
+00:07:21,095 --> 00:07:26,055
+Once it reaches a destination that can deliver the packet to a server at google.com,
+
+142
+00:07:26,055 --> 00:07:28,525
+Google will send Natalie a packet saying
+
+143
+00:07:28,525 --> 00:07:31,685
+she can access an unlimited number of cat pictures.
+
+144
+00:07:31,685 --> 00:07:35,140
+There are many technical details that we left out in this explanation, but don't worry.
+
+145
+00:07:35,140 --> 00:07:38,560
+You'll learn all about the nitty-gritty in the networking course of this program.
+
+146
+00:07:38,560 --> 00:07:43,000
+For now, this is what you need to know about the not so magic of the Internet.

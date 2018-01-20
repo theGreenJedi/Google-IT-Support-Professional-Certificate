@@ -1,0 +1,229 @@
+1
+00:00:11,816 --> 00:00:17,230
+Programs, software, and applications, are
+terms that are synonymous with each other.
+
+2
+00:00:17,230 --> 00:00:20,970
+For now we'll go ahead and use the term
+software to refer to any of these.
+
+3
+00:00:20,970 --> 00:00:24,350
+We've already had a rundown of
+the different types of software.
+
+4
+00:00:24,350 --> 00:00:27,670
+There are certain types of software
+that perform specific functions,
+
+5
+00:00:27,670 --> 00:00:31,310
+like drivers, which allow us
+to interact with our hardware.
+
+6
+00:00:31,310 --> 00:00:35,100
+There are applications that we use for
+our day to day job functions.
+
+7
+00:00:35,100 --> 00:00:40,220
+And there are utilities that we use like
+a calculator, settings, and other tools.
+
+8
+00:00:40,220 --> 00:00:41,890
+With the seemingly endless options for
+
+9
+00:00:41,890 --> 00:00:45,420
+software, how do we
+know which ones to use?
+
+10
+00:00:45,420 --> 00:00:49,780
+How do we deal with them in a workplace
+setting and in our personal lives?
+
+11
+00:00:49,780 --> 00:00:52,090
+Software is always changing.
+
+12
+00:00:52,090 --> 00:00:56,540
+Developers are releasing updates, software
+companies change, features are added,
+
+13
+00:00:56,540 --> 00:00:57,740
+and so on.
+
+14
+00:00:57,740 --> 00:01:01,340
+This constant change is
+completely out of our control and
+
+15
+00:01:01,340 --> 00:01:04,360
+it can cause a lot of
+headaches in the IT world.
+
+16
+00:01:04,360 --> 00:01:06,850
+Let's say the company that
+builds your payroll system
+
+17
+00:01:06,850 --> 00:01:10,770
+pushes out a software update that
+causes settings to change or
+
+18
+00:01:10,770 --> 00:01:14,970
+even worse completely breaks
+the compatibility with your own company.
+
+19
+00:01:14,970 --> 00:01:15,500
+It can happen.
+
+20
+00:01:15,500 --> 00:01:20,490
+You should always test new software
+before letting your company use it.
+
+21
+00:01:20,490 --> 00:01:23,630
+Another thing to worry
+about is old software.
+
+22
+00:01:23,630 --> 00:01:28,220
+When you run old software on your machine,
+you risk being exposed to cyber security
+
+23
+00:01:28,220 --> 00:01:31,350
+attacks that take
+advantage of software bugs.
+
+24
+00:01:31,350 --> 00:01:36,420
+A software bug is an error in software
+that causes unexpected results.
+
+25
+00:01:36,420 --> 00:01:39,780
+We'll deep dive into computer
+security in a later course.
+
+26
+00:01:39,780 --> 00:01:44,760
+For now, know that software updates
+usually contain critical security updates
+
+27
+00:01:44,760 --> 00:01:47,970
+and new features, and have better
+compatibility with your system.
+
+28
+00:01:49,080 --> 00:01:52,410
+A good guideline is to update
+your software constantly.
+
+29
+00:01:52,410 --> 00:01:56,090
+Another problem that plagues the IT
+world when it comes to software
+
+30
+00:01:56,090 --> 00:01:58,220
+is software management.
+
+31
+00:01:58,220 --> 00:02:01,145
+If you're setting up a computer for
+someone, you want to make sure that
+
+32
+00:02:01,145 --> 00:02:04,490
+they'll have all the necessary tools
+they need to hit the ground running.
+
+33
+00:02:05,540 --> 00:02:09,140
+That means you'll need to install all
+the software required for the job.
+
+34
+00:02:10,140 --> 00:02:15,380
+That also means you'll also want to remove
+software that isn't required for the job.
+
+35
+00:02:15,380 --> 00:02:19,610
+We may not realize if a piece of software
+we installed is malicious software
+
+36
+00:02:19,610 --> 00:02:21,520
+which causes harm to your computer.
+
+37
+00:02:21,520 --> 00:02:25,550
+It's always a good idea to check if
+the software comes from a repudible source
+
+38
+00:02:25,550 --> 00:02:27,080
+before you install it.
+
+39
+00:02:27,080 --> 00:02:29,760
+A common industry practice is to not allow
+
+40
+00:02:29,760 --> 00:02:32,920
+users to install software
+without administrator approval.
+
+41
+00:02:33,920 --> 00:02:36,720
+This prevents users from installing
+unwanted software because
+
+42
+00:02:36,720 --> 00:02:39,210
+they're actually blocked
+with an error message
+
+43
+00:02:39,210 --> 00:02:43,010
+that says they need an administrator
+to enter their login credentials.
+
+44
+00:02:43,010 --> 00:02:46,820
+Before we get too far ahead of ourselves,
+let's cover the basics of software
+
+45
+00:02:46,820 --> 00:02:51,370
+management which include installing,
+updating, and removing software.
+
+46
+00:02:51,370 --> 00:02:55,869
+In the videos up next, we're going to walk
+through how to do these steps in a Windows
+
+47
+00:02:55,869 --> 00:02:58,066
+environment and a Linux environment.
+
+48
+00:02:58,066 --> 00:03:01,062
+Ready, set, go.

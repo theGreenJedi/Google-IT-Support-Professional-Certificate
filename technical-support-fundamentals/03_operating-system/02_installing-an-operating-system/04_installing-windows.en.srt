@@ -1,0 +1,275 @@
+1
+00:00:10,850 --> 00:00:15,950
+The first operating system we're going to install is Windows 10 OS.
+
+2
+00:00:15,950 --> 00:00:19,440
+This is the latest iteration in the Windows family operating system.
+
+3
+00:00:19,440 --> 00:00:20,880
+If you buy the software in stores,
+
+4
+00:00:20,880 --> 00:00:23,060
+it comes in a nifty USB drive.
+
+5
+00:00:23,060 --> 00:00:25,340
+I have Windows loaded on a USB drive,
+
+6
+00:00:25,340 --> 00:00:28,555
+I'm going to go ahead and start the drive, then boot it in a minute.
+
+7
+00:00:28,555 --> 00:00:32,400
+But first, let's make sure we have our BIOS UEFI boot order,
+
+8
+00:00:32,400 --> 00:00:34,380
+set to boot from the USB drive.
+
+9
+00:00:34,380 --> 00:00:37,150
+Depending what the manufacturer of your computer uses,
+
+10
+00:00:37,150 --> 00:00:42,640
+you'll either hit F12 or some other key to access the BIOS settings.
+
+11
+00:00:51,730 --> 00:00:58,705
+Looks good. Let's just let it run and we'll see it booting from the USB drive.
+
+12
+00:00:58,705 --> 00:01:00,840
+Take note that your installation process might be
+
+13
+00:01:00,840 --> 00:01:05,480
+slightly different depending on the version of Windows.
+
+14
+00:01:08,660 --> 00:01:12,955
+Okay, I'm just going to click Next here,
+
+15
+00:01:12,955 --> 00:01:16,780
+just asking for my language preference, my time,
+
+16
+00:01:16,780 --> 00:01:21,240
+and keyboard, then I'm going to click the Install now button.
+
+17
+00:01:21,240 --> 00:01:30,000
+It's asking for product key,
+
+18
+00:01:30,000 --> 00:01:34,150
+am just going to go ahead and skip this, do that later.
+
+19
+00:01:34,150 --> 00:01:38,640
+And it's just asking me to agree to a software license term,
+
+20
+00:01:38,640 --> 00:01:42,348
+so am just going to accept, next.
+
+21
+00:01:42,348 --> 00:01:47,725
+All right, now it's asking which type of installation I want to do?
+
+22
+00:01:47,725 --> 00:01:49,360
+I'm just going to click on custom,
+
+23
+00:01:49,360 --> 00:01:50,980
+because I just want to install windows,
+
+24
+00:01:50,980 --> 00:01:56,340
+I select the drive I want to install it on.
+
+25
+00:02:08,020 --> 00:02:11,838
+Okay, looks like the computer restarted,
+
+26
+00:02:11,838 --> 00:02:14,570
+now it's just configuring updates.
+
+27
+00:02:14,570 --> 00:02:19,900
+Once it's done updating, it's going to restart one more time.
+
+28
+00:02:25,480 --> 00:02:29,290
+And now, we're launched into
+
+29
+00:02:29,290 --> 00:02:32,525
+the screen here that's asking us to enter in the product key.
+
+30
+00:02:32,525 --> 00:02:35,170
+We're just going to go ahead and skip to this for now,
+
+31
+00:02:35,170 --> 00:02:40,490
+we'll do this later, so am going to click, Do this later.
+
+32
+00:02:41,210 --> 00:02:45,520
+And now, it's asking if what kind of settings we want to use?
+
+33
+00:02:45,520 --> 00:02:48,330
+We're just going to click use express settings for now.
+
+34
+00:02:48,330 --> 00:02:53,390
+So now, we start using our machine as quickly as possible.
+
+35
+00:02:58,390 --> 00:03:04,590
+Okay, it's asking us to create an account for this PC.
+
+36
+00:03:04,590 --> 00:03:06,730
+The first field is a user name.
+
+37
+00:03:06,730 --> 00:03:10,905
+A user name is unique identifier for a user account.
+
+38
+00:03:10,905 --> 00:03:14,955
+I'm just going to go ahead and use my first name as my username.
+
+39
+00:03:14,955 --> 00:03:16,830
+Next, I'll enter a password.
+
+40
+00:03:16,830 --> 00:03:22,588
+Once that's done, we'll go ahead and finish our setup.
+
+41
+00:03:22,588 --> 00:03:30,580
+It's starting to set up everything for us,
+
+42
+00:03:30,580 --> 00:03:43,950
+perfect.
+
+43
+00:03:43,950 --> 00:03:47,650
+Now, here we are, inside the Windows 10 operating system.
+
+44
+00:03:47,650 --> 00:03:51,325
+Check it out, this is our user space.
+
+45
+00:03:51,325 --> 00:03:54,040
+We have our desktop environment here where we can
+
+46
+00:03:54,040 --> 00:03:57,940
+navigate our files, folders, and applications.
+
+47
+00:03:57,940 --> 00:04:01,075
+The main screen here is called a desktop.
+
+48
+00:04:01,075 --> 00:04:03,265
+In the bottom right corner here,
+
+49
+00:04:03,265 --> 00:04:04,848
+we have a task bar.
+
+50
+00:04:04,848 --> 00:04:09,395
+This gives us quick options and shows us information like network connectivity,
+
+51
+00:04:09,395 --> 00:04:12,820
+the date, system notifications, sound etc.
+
+52
+00:04:12,820 --> 00:04:14,905
+In the bottom left hand corner here,
+
+53
+00:04:14,905 --> 00:04:16,810
+we can access the applications,
+
+54
+00:04:16,810 --> 00:04:19,456
+files, folders, and settings.
+
+55
+00:04:19,456 --> 00:04:21,175
+You could also shut down,
+
+56
+00:04:21,175 --> 00:04:24,070
+restart, and power off your computer from here.
+
+57
+00:04:24,070 --> 00:04:26,725
+Let's move onto our system settings.
+
+58
+00:04:26,725 --> 00:04:30,761
+In the main menu, go ahead and navigate to the settings.
+
+59
+00:04:30,761 --> 00:04:35,775
+From here, you can change any of your system settings like display resolution,
+
+60
+00:04:35,775 --> 00:04:40,645
+user accounts, network, devices, etc.
+
+61
+00:04:40,645 --> 00:04:44,415
+Now, we're going to create a file in our operating system with our GUI.
+
+62
+00:04:44,415 --> 00:04:47,417
+Let's create a file here on our desktop.
+
+63
+00:04:47,417 --> 00:04:49,565
+All you need to do is right click,
+
+64
+00:04:49,565 --> 00:04:52,070
+and you'll see some options available.
+
+65
+00:04:52,070 --> 00:04:57,205
+Then select new, then text document, bam.
+
+66
+00:04:57,205 --> 00:05:00,110
+Now we have a text file on our desktop.
+
+67
+00:05:00,110 --> 00:05:02,017
+We just need to give it a name.
+
+68
+00:05:02,017 --> 00:05:06,110
+How about my super cool file?
+
+69
+00:05:06,110 --> 00:05:12,000
+And that's it. You just created a file on Windows. It wasn't so bad, was it?

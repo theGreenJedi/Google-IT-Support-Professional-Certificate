@@ -1,0 +1,743 @@
+1
+00:00:12,122 --> 00:00:18,030
+Customer service is a critical skill in IT
+support, I can't emphasize that enough.
+
+2
+00:00:18,030 --> 00:00:21,990
+You can have all the technical knowledge
+in the world, but if the user had a poor
+
+3
+00:00:21,990 --> 00:00:26,480
+experience in the process of getting
+their issue solved, you failed.
+
+4
+00:00:26,480 --> 00:00:29,817
+The techniques we'll discuss in these
+videos won't only help you with
+
+5
+00:00:29,817 --> 00:00:30,435
+your users.
+
+6
+00:00:30,435 --> 00:00:33,700
+They'll help you work better with
+your peers, you managers, and
+
+7
+00:00:33,700 --> 00:00:36,770
+maybe even your own
+personal relationships.
+
+8
+00:00:36,770 --> 00:00:41,130
+Keep in mind, these techniques
+don't work in all situations.
+
+9
+00:00:41,130 --> 00:00:45,040
+The reality is that no matter how
+great you are at customer service,
+
+10
+00:00:45,040 --> 00:00:47,960
+some situations don't
+have a good resolution.
+
+11
+00:00:47,960 --> 00:00:49,860
+Plus everyone is different, so
+
+12
+00:00:49,860 --> 00:00:53,080
+you'll need to tweak your style
+when working with users, but
+
+13
+00:00:53,080 --> 00:00:58,040
+the techniques we'll cover are intended to
+make your IT interactions more successful.
+
+14
+00:00:58,040 --> 00:01:03,020
+In IT support, you work with users to fix
+technology and improve how people use it.
+
+15
+00:01:03,020 --> 00:01:06,860
+To accomplish this, you need to develop
+a trust between you and the user.
+
+16
+00:01:06,860 --> 00:01:09,570
+Lots of employers believe
+that good customer service
+
+17
+00:01:09,570 --> 00:01:13,510
+also builds brand loyalty,
+which is a key to success.
+
+18
+00:01:13,510 --> 00:01:16,870
+These lessons are meant to give
+you the foundational skills and
+
+19
+00:01:16,870 --> 00:01:20,550
+techniques of how to deliver
+great customer service.
+
+20
+00:01:20,550 --> 00:01:24,050
+Customer service practices can
+differ from company to company.
+
+21
+00:01:24,050 --> 00:01:29,030
+So while we'll cover the key concepts of
+customer service in any IT support role,
+
+22
+00:01:29,030 --> 00:01:31,870
+it's important to talk with your
+employer to understand the company's
+
+23
+00:01:31,870 --> 00:01:33,390
+customer service approach.
+
+24
+00:01:33,390 --> 00:01:36,120
+This will also give you
+an idea of how much freedom or
+
+25
+00:01:36,120 --> 00:01:38,312
+restrictions you might have in the role.
+
+26
+00:01:38,312 --> 00:01:39,800
+Spoiler alert,
+
+27
+00:01:39,800 --> 00:01:44,800
+great customer service requires exhibiting
+empathy, being conscious of your tone,
+
+28
+00:01:44,800 --> 00:01:49,120
+acknowledging the person you're talking
+to and developing trust with the user.
+
+29
+00:01:49,120 --> 00:01:53,910
+If you remember nothing else from this
+lesson, remember those four things.
+
+30
+00:01:53,910 --> 00:01:56,430
+The most important of
+all of these is empathy.
+
+31
+00:01:56,430 --> 00:01:59,260
+What's the difference between sympathy and
+empathy?
+
+32
+00:01:59,260 --> 00:02:02,550
+People will say things like
+sympathy is saying you're sorry,
+
+33
+00:02:02,550 --> 00:02:04,370
+empathy is feeling sorry.
+
+34
+00:02:04,370 --> 00:02:06,070
+That doesn't really explain it.
+
+35
+00:02:06,070 --> 00:02:08,375
+So let's use an example
+to drive this home.
+
+36
+00:02:08,375 --> 00:02:11,959
+If someone fell into a dark,
+damp, dirty hole, and
+
+37
+00:02:11,959 --> 00:02:15,217
+you leaned over with a sad expression and
+said,
+
+38
+00:02:15,217 --> 00:02:20,760
+that must be a really tough situation,
+then you're expressing sympathy.
+
+39
+00:02:20,760 --> 00:02:25,040
+You're sharing their feelings, but
+you aren't experiencing those feelings.
+
+40
+00:02:25,040 --> 00:02:29,800
+If you crawled down into that dark, damp,
+dirty hole with the person who fell and
+
+41
+00:02:29,800 --> 00:02:35,890
+said, this is a really tough situation,
+then you're expressing empathy.
+
+42
+00:02:35,890 --> 00:02:39,760
+You're able to see something from
+someone else's perspective and
+
+43
+00:02:39,760 --> 00:02:41,630
+understand their feelings.
+
+44
+00:02:41,630 --> 00:02:45,080
+The word choice between the two
+situations is very similar.
+
+45
+00:02:45,080 --> 00:02:50,220
+But the action, the action you take by
+looking at it from their perspective,
+
+46
+00:02:50,220 --> 00:02:52,670
+is what empathy is all about.
+
+47
+00:02:52,670 --> 00:02:56,470
+Some days it's hard to empathize,
+I know from experience.
+
+48
+00:02:56,470 --> 00:02:59,162
+Maybe you had an argument
+with a loved one before work.
+
+49
+00:02:59,162 --> 00:03:02,389
+And by the end of the day,
+you find yourself getting annoyed or
+
+50
+00:03:02,389 --> 00:03:03,900
+upset with users.
+
+51
+00:03:03,900 --> 00:03:07,440
+That's the moment when empathy
+becomes the most important,
+
+52
+00:03:07,440 --> 00:03:10,750
+because anyone can showcase
+empathy when it's easy.
+
+53
+00:03:10,750 --> 00:03:16,360
+But someone who persistently displays
+empathy will stand out as a kinder human,
+
+54
+00:03:16,360 --> 00:03:18,810
+and a more professional and
+effective employee.
+
+55
+00:03:19,850 --> 00:03:23,170
+Once you have empathy down,
+you should think of your tone.
+
+56
+00:03:23,170 --> 00:03:27,270
+Tone is historically thought
+of as how you speak out loud.
+
+57
+00:03:27,270 --> 00:03:31,660
+In this technological age, when many
+of our interactions are over text, and
+
+58
+00:03:31,660 --> 00:03:34,510
+IT support is increasingly done remotely,
+
+59
+00:03:34,510 --> 00:03:38,850
+tone isn't just about how you come
+off during an in-person conversation.
+
+60
+00:03:38,850 --> 00:03:43,060
+It's expanded into how you write,
+punctuate, and even spell.
+
+61
+00:03:43,060 --> 00:03:48,610
+If your tone is short or blunt, then the
+user will feel brushed off and devalued.
+
+62
+00:03:48,610 --> 00:03:51,070
+But if your tone is friendly and curious,
+
+63
+00:03:51,070 --> 00:03:55,170
+the user is much more likely to have
+a positive experience working with you.
+
+64
+00:03:55,170 --> 00:03:57,900
+Be careful not to go overboard
+with the friendliness though,
+
+65
+00:03:57,900 --> 00:03:58,870
+it could be disingenuous.
+
+66
+00:03:59,880 --> 00:04:03,340
+Communicating a good tone
+is a delicate balance.
+
+67
+00:04:03,340 --> 00:04:07,690
+How you ask a question and how you
+respond to a user's question matters.
+
+68
+00:04:07,690 --> 00:04:11,440
+Let's say you tell a user in an email,
+turn your computer off and
+
+69
+00:04:11,440 --> 00:04:13,770
+on again and it will start working.
+
+70
+00:04:13,770 --> 00:04:15,550
+They'll probably never respond.
+
+71
+00:04:15,550 --> 00:04:20,370
+And your company may have lost a customer,
+because the tone is just too short and
+
+72
+00:04:20,370 --> 00:04:21,840
+pretty unfriendly.
+
+73
+00:04:21,840 --> 00:04:26,560
+While it gets to the point, it doesn't
+leave the door open to conversation.
+
+74
+00:04:26,560 --> 00:04:30,130
+What if instead you wrote,
+please try turning your computer off and
+
+75
+00:04:30,130 --> 00:04:31,310
+back on again.
+
+76
+00:04:31,310 --> 00:04:34,200
+This should update the change we made and
+fix the problem.
+
+77
+00:04:34,200 --> 00:04:36,560
+If that doesn't work, just let me know.
+
+78
+00:04:36,560 --> 00:04:40,830
+It's a little wordier, but it has
+a better tone of asking versus telling.
+
+79
+00:04:40,830 --> 00:04:44,960
+Inviting them back to connect with
+you in case the issue isn't resolved,
+
+80
+00:04:44,960 --> 00:04:47,070
+leaves the lines of communication open.
+
+81
+00:04:47,070 --> 00:04:49,840
+Tone can be especially difficult
+when you're supporting someone in
+
+82
+00:04:49,840 --> 00:04:51,750
+a different region or country.
+
+83
+00:04:51,750 --> 00:04:55,460
+Make sure to familiarize yourself with
+the local style, whether that's more
+
+84
+00:04:55,460 --> 00:04:59,650
+conversational or direct, and adjust
+your style depending on the audience.
+
+85
+00:05:00,740 --> 00:05:05,020
+In this day and age of text and email,
+it's easy to ignore what someone says.
+
+86
+00:05:05,020 --> 00:05:07,070
+If a comment seems like a dig, or
+
+87
+00:05:07,070 --> 00:05:11,610
+it's just too much information provided,
+we tend to shy away from responding.
+
+88
+00:05:11,610 --> 00:05:14,785
+It's also really common to forget to
+tell the user what you're doing while
+
+89
+00:05:14,785 --> 00:05:19,200
+you're troubleshooting, that might leave
+the user waiting in an awkward silence.
+
+90
+00:05:19,200 --> 00:05:22,160
+Whenever possible, acknowledge the user.
+
+91
+00:05:22,160 --> 00:05:24,550
+This reduces the tension
+that might build and
+
+92
+00:05:24,550 --> 00:05:28,190
+helps you understand how you're
+working toward a solution.
+
+93
+00:05:28,190 --> 00:05:30,580
+Let's say your chatting back and
+forth with the user,
+
+94
+00:05:30,580 --> 00:05:33,800
+you're asking a lot of questions
+to better troubleshoot the issue.
+
+95
+00:05:33,800 --> 00:05:38,270
+The user's answering them, but also makes
+comment like, jeez, I already answered
+
+96
+00:05:38,270 --> 00:05:42,700
+these in my last email, or, I just
+want to know what's causing my problem.
+
+97
+00:05:42,700 --> 00:05:46,380
+You choose to ignore this and
+continue on with your troubleshooting.
+
+98
+00:05:46,380 --> 00:05:48,820
+You think you're close to
+solving the problem and
+
+99
+00:05:48,820 --> 00:05:51,370
+these side comments
+are just a distraction.
+
+100
+00:05:51,370 --> 00:05:53,720
+But then the user stops
+fully engaging with you and
+
+101
+00:05:53,720 --> 00:05:56,230
+only gives you half-answers
+to your questions.
+
+102
+00:05:56,230 --> 00:05:58,310
+Now you're not able to
+solve the issue at all.
+
+103
+00:05:58,310 --> 00:06:01,930
+The user's unhappy, you're unhappy and
+the company's unhappy.
+
+104
+00:06:01,930 --> 00:06:03,460
+It's a bad situation.
+
+105
+00:06:03,460 --> 00:06:07,390
+Instead of ignoring the user in that
+situation, you could have said,
+
+106
+00:06:07,390 --> 00:06:09,370
+I'm sorry for asking these questions,
+
+107
+00:06:09,370 --> 00:06:12,410
+sometimes repeating them will
+help new information pop up.
+
+108
+00:06:12,410 --> 00:06:16,193
+Or, you could have said,
+sorry for the repeat questions.
+
+109
+00:06:16,193 --> 00:06:19,922
+I don't want to give you a superficial
+cause, when we could fix the root issue,
+
+110
+00:06:19,922 --> 00:06:22,310
+and you won't have to chat with us again.
+
+111
+00:06:22,310 --> 00:06:26,930
+This helps them to understand your
+method and become part of the solution.
+
+112
+00:06:26,930 --> 00:06:30,370
+It's important to acknowledge your own
+actions if you think they might otherwise
+
+113
+00:06:30,370 --> 00:06:31,510
+confuse the user.
+
+114
+00:06:31,510 --> 00:06:34,080
+Let's say a user contacts
+you to fix something.
+
+115
+00:06:34,080 --> 00:06:37,030
+After collecting some information,
+you go radio silent.
+
+116
+00:06:37,030 --> 00:06:38,621
+What's the user to do?
+
+117
+00:06:38,621 --> 00:06:40,422
+Would they ask if you're still there?
+
+118
+00:06:40,422 --> 00:06:43,700
+Would they wait awkwardly until
+you came back on the line?
+
+119
+00:06:43,700 --> 00:06:47,210
+How long would they wait before
+ending the call or saying something?
+
+120
+00:06:47,210 --> 00:06:50,940
+How would they feel about their
+interaction with you, pretty awkward.
+
+121
+00:06:50,940 --> 00:06:54,480
+But what if you said,
+I need to do some research on this issue,
+
+122
+00:06:54,480 --> 00:06:57,720
+would you mind waiting about five
+minutes or less while I do that?
+
+123
+00:06:57,720 --> 00:07:01,310
+They'd probably say, sure, and
+keep themselves occupied while they wait.
+
+124
+00:07:01,310 --> 00:07:04,580
+They'd also feel more confident in
+your ability to resolve the issue.
+
+125
+00:07:04,580 --> 00:07:08,340
+This leads to the most important thing to
+remember when working with people, and
+
+126
+00:07:08,340 --> 00:07:10,710
+that's developing trust.
+
+127
+00:07:10,710 --> 00:07:13,360
+This is easy to do if
+you have repeat users.
+
+128
+00:07:13,360 --> 00:07:15,380
+They see you every workday.
+
+129
+00:07:15,380 --> 00:07:20,010
+One bad day isn't going to stop them from
+trusting that you know what you're doing.
+
+130
+00:07:20,010 --> 00:07:24,570
+But in a transactional userbase, where
+the user only contacts the company once or
+
+131
+00:07:24,570 --> 00:07:29,850
+twice, how you interact with each
+user each time is going to break or
+
+132
+00:07:29,850 --> 00:07:31,400
+build that trust.
+
+133
+00:07:31,400 --> 00:07:33,320
+Why is trust so important?
+
+134
+00:07:33,320 --> 00:07:36,130
+Without it, the user could be
+difficult to work with and
+
+135
+00:07:36,130 --> 00:07:38,290
+could even ignore your advice completely.
+
+136
+00:07:38,290 --> 00:07:42,120
+Empathy and acknowledgement
+are a big part of building trust.
+
+137
+00:07:42,120 --> 00:07:45,190
+Without these, you'll find it
+difficult to connect with the user.
+
+138
+00:07:45,190 --> 00:07:47,870
+By seeing things from
+the user's perspective,
+
+139
+00:07:47,870 --> 00:07:52,080
+you're more likely to find the solution
+that will help them specifically.
+
+140
+00:07:52,080 --> 00:07:54,500
+This lets them know that you care, and
+
+141
+00:07:54,500 --> 00:07:57,610
+they'll be more likely to be
+engaged in the interaction.
+
+142
+00:07:57,610 --> 00:08:01,310
+It's also important to follow through
+on your commitments and promises.
+
+143
+00:08:01,310 --> 00:08:03,930
+If you tell someone you're
+going to follow up in one hour,
+
+144
+00:08:03,930 --> 00:08:05,397
+then be sure to make it happen.
+
+145
+00:08:05,397 --> 00:08:09,450
+And if you don't,
+acknowledge the oversight and apologize.
+
+146
+00:08:09,450 --> 00:08:12,450
+Be sure that any claims
+you make can be backed up.
+
+147
+00:08:12,450 --> 00:08:16,170
+Don't make something up to a user, because
+you think it'll help in the moment.
+
+148
+00:08:16,170 --> 00:08:20,060
+Be honest with the user, even if you
+think they won't be happy about it.
+
+149
+00:08:20,060 --> 00:08:22,544
+And never be afraid to
+admit when you're wrong.
+
+150
+00:08:22,544 --> 00:08:25,300
+This might be the hardest
+thing to do with a user, but
+
+151
+00:08:25,300 --> 00:08:28,460
+you'll find that your interactions
+a more successful this way.
+
+152
+00:08:28,460 --> 00:08:33,410
+Being specific and empathetic with your
+apologies will give it more meaning.
+
+153
+00:08:33,410 --> 00:08:36,829
+And remember,
+no one wakes up in the morning thinking,
+
+154
+00:08:36,829 --> 00:08:38,512
+I'm going to be a jerk today.
+
+155
+00:08:38,512 --> 00:08:40,952
+While you shouldn't
+sacrifice your self respect,
+
+156
+00:08:40,952 --> 00:08:44,340
+do your best to give the user the benefit
+of the doubt whenever possible.

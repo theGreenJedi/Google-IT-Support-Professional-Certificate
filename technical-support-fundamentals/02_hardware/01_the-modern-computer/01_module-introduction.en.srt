@@ -1,0 +1,244 @@
+1
+00:00:11,599 --> 00:00:14,100
+Isn't the history of
+computers super interesting?
+
+2
+00:00:14,100 --> 00:00:15,460
+I love going back in time and
+
+3
+00:00:15,460 --> 00:00:18,070
+seeing how we got to this
+exciting point in computing.
+
+4
+00:00:18,070 --> 00:00:21,480
+You've already taken the first few steps
+to building your foundational knowledge of
+
+5
+00:00:21,480 --> 00:00:24,920
+IT, and before we dive deeper, I'd like
+to take a moment to introduce myself.
+
+6
+00:00:24,920 --> 00:00:28,400
+My name is Devan Sri-Tharan,
+I've been working in IT for ten years.
+
+7
+00:00:28,400 --> 00:00:30,620
+I'm a Corporate Operations Engineer
+at Google,
+
+8
+00:00:30,620 --> 00:00:33,680
+where I get to tackle challenging and
+complex IT issues.
+
+9
+00:00:33,680 --> 00:00:37,110
+Thinking back, my first experience with
+tech began when I was about nine years
+
+10
+00:00:37,110 --> 00:00:40,390
+old, when my dad brought home
+the family's first computer.
+
+11
+00:00:40,390 --> 00:00:42,170
+I remember my dad holding
+a floppy disk and
+
+12
+00:00:42,170 --> 00:00:44,030
+telling me that there was a game on it.
+
+13
+00:00:44,030 --> 00:00:47,180
+To my dad's amazement I somehow
+managed to copy the game from disk
+
+14
+00:00:47,180 --> 00:00:48,900
+onto the computer's hard drive.
+
+15
+00:00:48,900 --> 00:00:52,220
+While it might seem like a trivial
+task now, this devise was just so
+
+16
+00:00:52,220 --> 00:00:53,476
+new to us back then.
+
+17
+00:00:53,476 --> 00:00:56,879
+Sure, I loved the different games I
+could play, but what I really loved was
+
+18
+00:00:56,879 --> 00:01:00,084
+tinkering with the machine, trying to
+get it to do what I want it to do.
+
+19
+00:01:00,084 --> 00:01:04,895
+While that floppy disk computer might have
+ignited my passion for technology, it
+
+20
+00:01:04,895 --> 00:01:10,650
+was actually my first few job experiences
+that really started to shape my IT career.
+
+21
+00:01:10,650 --> 00:01:13,098
+One was in retail,
+[LAUGH] selling baby furniture and
+
+22
+00:01:13,098 --> 00:01:16,990
+the other was at a postal store, where I
+helped customers ship their packages, and
+
+23
+00:01:16,990 --> 00:01:18,790
+became the one person IT crew.
+
+24
+00:01:18,790 --> 00:01:22,330
+It might sound odd that working
+in retail inspired my career, but
+
+25
+00:01:22,330 --> 00:01:25,350
+I've realized I really enjoy
+communicating with customers,
+
+26
+00:01:25,350 --> 00:01:28,430
+try to understand their needs and
+offering a solution.
+
+27
+00:01:28,430 --> 00:01:31,360
+My first experience working
+directly in IT was in college
+
+28
+00:01:31,360 --> 00:01:33,920
+as an IT support specialist intern.
+
+29
+00:01:33,920 --> 00:01:38,645
+From there, I worked as an IT consultant
+to decommission an entire IT environment.
+
+30
+00:01:38,645 --> 00:01:42,353
+This was my first experience working
+directly with large IT infrastructure, and
+
+31
+00:01:42,353 --> 00:01:45,455
+pushing myself outside my comfort
+level as a college student.
+
+32
+00:01:45,455 --> 00:01:47,995
+I bring up these few jobs for a reason.
+
+33
+00:01:47,995 --> 00:01:51,535
+These experiences helped
+shape my career in IT.
+
+34
+00:01:51,535 --> 00:01:54,703
+I knew at that time that I
+wanted to go into tech, but
+
+35
+00:01:54,703 --> 00:01:57,594
+I struggled where I wanted
+to focus my career.
+
+36
+00:01:57,594 --> 00:02:01,656
+Starting at Google as an IT journalist
+allowed me to experience many different
+
+37
+00:02:01,656 --> 00:02:02,830
+areas of technology.
+
+38
+00:02:02,830 --> 00:02:05,530
+It allowed me to figure out
+the jobs I didn't want to do,
+
+39
+00:02:05,530 --> 00:02:08,356
+before I was able to identify
+exactly what I did want to do.
+
+40
+00:02:08,356 --> 00:02:10,476
+Really passionate about IT infrastructure,
+but
+
+41
+00:02:10,476 --> 00:02:13,910
+you can't understand infrastructure
+until you understand hardware.
+
+42
+00:02:13,910 --> 00:02:14,910
+So let's dig in.
+
+43
+00:02:14,910 --> 00:02:18,180
+In IT, hardware is an essenential
+topic to understand.
+
+44
+00:02:18,180 --> 00:02:20,590
+You might find yourself
+replacing faulty components or
+
+45
+00:02:20,590 --> 00:02:23,360
+even upgrading an entire
+fleet of machines one day.
+
+46
+00:02:23,360 --> 00:02:26,558
+By the end of this lesson, you'll be able
+to describe all the physical parts of
+
+47
+00:02:26,558 --> 00:02:28,163
+a computer and how they work together.
+
+48
+00:02:28,163 --> 00:02:30,457
+You'll even be able to
+build your own computer.
+
+49
+00:02:30,457 --> 00:02:32,557
+Once you figure out how
+one computer works,
+
+50
+00:02:32,557 --> 00:02:35,810
+you'll be able to understand
+how any type of computer works.
+
+51
+00:02:35,810 --> 00:02:37,720
+Excited?
+I am, let's get started.

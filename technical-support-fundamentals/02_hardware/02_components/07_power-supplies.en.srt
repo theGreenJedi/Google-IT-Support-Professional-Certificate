@@ -1,0 +1,334 @@
+1
+00:00:11,539 --> 00:00:14,554
+In order to get our computer to work,
+let's give it some power.
+
+2
+00:00:14,554 --> 00:00:18,217
+Computers have a power supply that
+converts electricity from your volt to
+
+3
+00:00:18,217 --> 00:00:19,320
+something usable.
+
+4
+00:00:19,320 --> 00:00:23,670
+There are two types of electricity, DC,
+or direct current, which flows in one
+
+5
+00:00:23,670 --> 00:00:29,300
+direction and AC, or alternating current,
+which changes directions constantly.
+
+6
+00:00:29,300 --> 00:00:34,130
+Our computers use DC voltage, so we have
+to have a way to convert the AC voltage
+
+7
+00:00:34,130 --> 00:00:37,590
+from our power company
+to something we can use.
+
+8
+00:00:37,590 --> 00:00:39,330
+That's what our power supply does.
+
+9
+00:00:39,330 --> 00:00:42,880
+It converts the AC we get from
+the wall into low voltage DC
+
+10
+00:00:42,880 --> 00:00:46,130
+power that we can use and
+transmit throughout our computer.
+
+11
+00:00:46,130 --> 00:00:47,290
+So let's talk about power supplies.
+
+12
+00:00:47,290 --> 00:00:48,354
+I actually have one right here.
+
+13
+00:00:48,354 --> 00:00:50,293
+Let me show you how one looks like.
+
+14
+00:00:50,293 --> 00:00:52,050
+Let me take it out right here.
+
+15
+00:00:53,340 --> 00:00:57,400
+So most power supply units have a fan,
+which is right in here.
+
+16
+00:00:57,400 --> 00:01:02,577
+They also has voltage information
+just normally listed underneath or
+
+17
+00:01:02,577 --> 00:01:07,751
+on the side, and cables, like this one,
+to power your motherboard,
+
+18
+00:01:07,751 --> 00:01:13,070
+and, A power cable.
+
+19
+00:01:15,150 --> 00:01:17,590
+Have you ever plugged one of your
+devices into the wall outlet and
+
+20
+00:01:17,590 --> 00:01:18,520
+fried your device?
+
+21
+00:01:18,520 --> 00:01:20,500
+If you haven't, you're really lucky.
+
+22
+00:01:20,500 --> 00:01:24,390
+After completing this lesson, hopefully
+you will know how to avoid that situation.
+
+23
+00:01:24,390 --> 00:01:28,840
+To understand electricity,
+we must use the example of water pipes.
+
+24
+00:01:28,840 --> 00:01:32,340
+Our sinks have a faucet that's
+connected to a pressurized water tank.
+
+25
+00:01:32,340 --> 00:01:35,030
+When we turn on the faucet,
+water comes out.
+
+26
+00:01:35,030 --> 00:01:37,060
+This is sort of like
+how electricity works.
+
+27
+00:01:37,060 --> 00:01:39,400
+When we plug an appliance
+into a wall outlet and
+
+28
+00:01:39,400 --> 00:01:42,330
+turn it on,
+a flow of electricity comes out.
+
+29
+00:01:42,330 --> 00:01:46,820
+If we added more pressure to our water
+tank, would more water come out of it?
+
+30
+00:01:46,820 --> 00:01:50,390
+The higher the pressure,
+the more water there will be.
+
+31
+00:01:50,390 --> 00:01:54,430
+When it comes to electricity,
+we refer to the pressure as voltage.
+
+32
+00:01:54,430 --> 00:01:59,323
+So when I was on vacation, to my surprise,
+when I plugged in that 120 volt appliance
+
+33
+00:01:59,323 --> 00:02:04,760
+into a 220 volt outlet, the power came
+busting through and fried my charger.
+
+34
+00:02:04,760 --> 00:02:07,830
+If it was the other way around,
+and a 220 volt appliance
+
+35
+00:02:07,830 --> 00:02:12,475
+was plugged into a 120 volt outlet,
+I wouldn't have seen the same outcome.
+
+36
+00:02:12,475 --> 00:02:15,700
+I'll still be able to get electricity,
+but slowly.
+
+37
+00:02:15,700 --> 00:02:19,292
+This would be similar to if a water
+tank whose only half pressurized,
+
+38
+00:02:19,292 --> 00:02:21,660
+it will drew water, but slowly.
+
+39
+00:02:21,660 --> 00:02:25,580
+In some cases though, this can deteriorate
+the performance of the device and
+
+40
+00:02:25,580 --> 00:02:27,860
+cause damage in the long term.
+
+41
+00:02:27,860 --> 00:02:31,770
+As a general rule, be sure to use
+the proper voltage for your electronics.
+
+42
+00:02:31,770 --> 00:02:36,210
+We refer to the amount of electricity
+coming out as current or amperage, and
+
+43
+00:02:36,210 --> 00:02:37,950
+it's measured in amps.
+
+44
+00:02:37,950 --> 00:02:40,390
+We can think of amps as
+pulling electricity,
+
+45
+00:02:40,390 --> 00:02:43,310
+as opposed to voltage,
+which pushes electricity.
+
+46
+00:02:43,310 --> 00:02:49,080
+Amps will pull as much electricity needed,
+but voltage will just give you everything.
+
+47
+00:02:49,080 --> 00:02:53,818
+Look on the back of the one of your device
+charges, you might see something like 1 or
+
+48
+00:02:53,818 --> 00:02:54,780
+2.1a.
+
+49
+00:02:54,780 --> 00:02:59,600
+Charging a device with 2.1 amps will
+actually charge a device faster because
+
+50
+00:02:59,600 --> 00:03:04,580
+it's able to put current from
+a 2.1 amp than a 1 amp charger.
+
+51
+00:03:04,580 --> 00:03:08,430
+Finally, the other important part of
+the electricity that you will need to know
+
+52
+00:03:08,430 --> 00:03:09,340
+is the wattage.
+
+53
+00:03:09,340 --> 00:03:13,490
+Wattage is the amount of volts and
+amps that a device needs.
+
+54
+00:03:13,490 --> 00:03:17,230
+If your power supply has
+too low of a wattage,
+
+55
+00:03:17,230 --> 00:03:21,230
+you won't be able to power your computer,
+so make sure you have enough.
+
+56
+00:03:21,230 --> 00:03:23,680
+This doesn't mean that if you
+have a large power supply,
+
+57
+00:03:23,680 --> 00:03:25,140
+you'll overpower your computer.
+
+58
+00:03:25,140 --> 00:03:28,940
+Power supplies just give you
+the amount that your system needs.
+
+59
+00:03:28,940 --> 00:03:31,790
+It's best to error on the side
+of large power supplies.
+
+60
+00:03:31,790 --> 00:03:35,590
+You can power most basic desktops
+with a 500 watt power supply, but
+
+61
+00:03:35,590 --> 00:03:37,900
+if you're doing something more
+demanding on your computer,
+
+62
+00:03:37,900 --> 00:03:41,470
+like playing a high-resolution video game
+or doing a lot of video production and
+
+63
+00:03:41,470 --> 00:03:45,830
+rendering, you'll likely need a bigger
+power supply for your computer.
+
+64
+00:03:45,830 --> 00:03:48,850
+On the other hand, if all you're
+doing is just browsing the Web,
+
+65
+00:03:48,850 --> 00:03:51,730
+the power supply that comes with
+your computer should be fine.
+
+66
+00:03:51,730 --> 00:03:55,080
+All kinds of issues are caused
+by a bad power supply.
+
+67
+00:03:55,080 --> 00:03:58,000
+Sometimes the computer
+doesn't even turn on at all.
+
+68
+00:03:58,000 --> 00:04:02,400
+Since power supplies can fail for lots
+of reasons like burnouts, power surges,
+
+69
+00:04:02,400 --> 00:04:06,750
+or even lightning strikes, knowing how to
+diagnose power issues and replace a failed
+
+70
+00:04:06,750 --> 00:04:11,000
+power supply is a skill every IT support
+specialist should have in their toolbox.

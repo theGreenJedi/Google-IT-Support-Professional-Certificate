@@ -1,0 +1,363 @@
+1
+00:00:11,663 --> 00:00:14,660
+Let's face it, computers are everywhere.
+
+2
+00:00:14,660 --> 00:00:18,610
+You come into contact with them at home,
+work, the airport,
+
+3
+00:00:18,610 --> 00:00:22,740
+the grocery store, you're using some
+type of computer to take this course.
+
+4
+00:00:22,740 --> 00:00:23,620
+You know what?
+
+5
+00:00:23,620 --> 00:00:26,150
+There's probably one in
+your pocket right now.
+
+6
+00:00:26,150 --> 00:00:29,130
+While computers are complex and
+can seem daunting to learn,
+
+7
+00:00:29,130 --> 00:00:32,560
+they ultimately just calculate,
+process, and store data.
+
+8
+00:00:32,560 --> 00:00:36,760
+In this lesson, we're going to take
+a peek at what's inside of the computer.
+
+9
+00:00:36,760 --> 00:00:39,267
+We'll spend the next few
+lessons explaining how each of
+
+10
+00:00:39,267 --> 00:00:40,396
+these components work.
+
+11
+00:00:40,396 --> 00:00:43,995
+But for now,
+let's check out a typical desktop setup.
+
+12
+00:00:43,995 --> 00:00:47,850
+Desktops are just computers that
+can fit on or under our desks.
+
+13
+00:00:47,850 --> 00:00:52,950
+So here we have a monitor,
+a keyboard, a mouse, and a desktop.
+
+14
+00:00:54,140 --> 00:00:58,650
+Sometimes you might even add a webcam,
+speakers, or a printer set up.
+
+15
+00:00:58,650 --> 00:01:01,084
+We'll call these physical components,
+hardware.
+
+16
+00:01:01,084 --> 00:01:03,645
+Let's take a look at
+the back of the computer.
+
+17
+00:01:10,618 --> 00:01:15,049
+You can see common connectors here,
+the power outlet here, and
+
+18
+00:01:15,049 --> 00:01:17,320
+the common ports here.
+
+19
+00:01:17,320 --> 00:01:20,510
+Ports are connection points that
+we can connect devices to that
+
+20
+00:01:20,510 --> 00:01:23,190
+extend the functionality of our computer.
+
+21
+00:01:23,190 --> 00:01:26,550
+We're going to detail about the ports
+you see here in a later lesson.
+
+22
+00:01:26,550 --> 00:01:28,240
+But here's a quick rundown.
+
+23
+00:01:28,240 --> 00:01:31,810
+We have a port here to
+connect to a monitor, and
+
+24
+00:01:31,810 --> 00:01:34,740
+a few ports here to plug your keyboard and
+mouse.
+
+25
+00:01:35,900 --> 00:01:38,180
+There's another important one here for
+our network connection.
+
+26
+00:01:40,090 --> 00:01:41,830
+With just these ports,
+
+27
+00:01:41,830 --> 00:01:45,370
+we're able to have the basic functionality
+to browse the web and much more.
+
+28
+00:01:45,370 --> 00:01:47,070
+Things look pretty similar in a laptop.
+
+29
+00:01:48,330 --> 00:01:49,797
+Here are some of the same ports.
+
+30
+00:01:52,458 --> 00:01:56,670
+A built-in monitor, And a keyboard.
+
+31
+00:01:58,510 --> 00:02:02,860
+There are also physical components inside
+the laptop case that are hidden for
+
+32
+00:02:02,860 --> 00:02:04,040
+portability.
+
+33
+00:02:04,040 --> 00:02:06,330
+Once you figure out how
+one computer works,
+
+34
+00:02:06,330 --> 00:02:09,760
+you can figure out how
+any other computer works.
+
+35
+00:02:09,760 --> 00:02:11,180
+Okay, this is my favorite part.
+
+36
+00:02:11,180 --> 00:02:13,570
+Let's open up this desktop and
+take a deeper look.
+
+37
+00:02:13,570 --> 00:02:14,765
+Let me first clean up my desk.
+
+38
+00:02:22,527 --> 00:02:23,609
+Get ready for it.
+
+39
+00:02:25,480 --> 00:02:29,890
+Whoa, it looks pretty complicated,
+but that's okay.
+
+40
+00:02:29,890 --> 00:02:30,970
+We'll take you through it.
+
+41
+00:02:30,970 --> 00:02:32,660
+Let's start with a quick tour.
+
+42
+00:02:32,660 --> 00:02:37,020
+Then we'll dive deeper into each
+of these parts in the next lesson.
+
+43
+00:02:37,020 --> 00:02:41,980
+Right here, this component,
+it's a CPU or central processing unit,
+
+44
+00:02:41,980 --> 00:02:44,470
+which is covered by this heat sink.
+
+45
+00:02:44,470 --> 00:02:47,790
+You could think of the CPU as
+the brain of our computer.
+
+46
+00:02:47,790 --> 00:02:51,660
+The CPU does all the calculations and
+data processing.
+
+47
+00:02:51,660 --> 00:02:56,560
+It communicates pretty heavily
+with this component right here,
+
+48
+00:02:56,560 --> 00:02:59,420
+RAM or Random Access Memory.
+
+49
+00:02:59,420 --> 00:03:01,870
+RAM is our computer's short-term memory.
+
+50
+00:03:01,870 --> 00:03:05,077
+We use this component when we
+want to store data temporarily.
+
+51
+00:03:05,077 --> 00:03:08,557
+Like let's say,
+you're typing something into a chat or
+
+52
+00:03:08,557 --> 00:03:10,741
+a piece of text in a word processor.
+
+53
+00:03:10,741 --> 00:03:13,460
+This information is stored in the RAM.
+
+54
+00:03:13,460 --> 00:03:17,720
+Don't worry, we'll cram in more
+details on RAM in the later lesson.
+
+55
+00:03:17,720 --> 00:03:20,400
+When we want to store
+anything in long-term memory,
+
+56
+00:03:20,400 --> 00:03:24,340
+we use this component here,
+the hard drive.
+
+57
+00:03:24,340 --> 00:03:26,110
+The hard drive holds all of our data,
+
+58
+00:03:26,110 --> 00:03:31,200
+which can include music,
+pictures, applications.
+
+59
+00:03:31,200 --> 00:03:33,250
+Let me show you something
+else interesting.
+
+60
+00:03:33,250 --> 00:03:35,300
+Have you noticed this large slab here?
+
+61
+00:03:35,300 --> 00:03:37,280
+This is our motherboard.
+
+62
+00:03:38,760 --> 00:03:43,230
+It holds everything in place and lets our
+components communicate with each other.
+
+63
+00:03:43,230 --> 00:03:45,620
+It's the foundation of our computer.
+
+64
+00:03:45,620 --> 00:03:48,320
+You can think of
+the motherboard as the body or
+
+65
+00:03:48,320 --> 00:03:52,400
+circulatory system of the computer
+that connects all the pieces together.
+
+66
+00:03:52,400 --> 00:03:57,180
+The last component we'll talk about
+is our power supply, which converts
+
+67
+00:03:57,180 --> 00:04:01,750
+electricity from our wall outlet onto
+a format that our computer can use.
+
+68
+00:04:01,750 --> 00:04:02,980
+You know what's interesting?
+
+69
+00:04:02,980 --> 00:04:07,540
+All these components make up most
+computers, even a mobile phone.
+
+70
+00:04:07,540 --> 00:04:11,810
+While it might look very different from
+your laptop, a mobile phone just uses
+
+71
+00:04:11,810 --> 00:04:15,740
+a smaller version of the hardware that
+we saw in the desktop and laptop today.
+
+72
+00:04:15,740 --> 00:04:18,345
+So now that we've covered
+the basic anatomy of the computer,
+
+73
+00:04:18,345 --> 00:04:22,990
+we'll go over each of these components
+in depths in the next few lessons.
+
+74
+00:04:22,990 --> 00:04:26,630
+Understanding how computer hardware works
+is a really helpful skill set in IT
+
+75
+00:04:26,630 --> 00:04:31,410
+support, since an IT department maintains
+the hardware that a company uses.
+
+76
+00:04:31,410 --> 00:04:34,290
+A solid understanding of these computer
+internals will come in handy when
+
+77
+00:04:34,290 --> 00:04:36,900
+troubleshooting hardware related problems,
+and
+
+78
+00:04:36,900 --> 00:04:40,100
+taking things apart to see how
+they work is just super fine.

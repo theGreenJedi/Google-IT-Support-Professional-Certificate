@@ -1,0 +1,300 @@
+1
+00:00:11,758 --> 00:00:14,600
+In the last lesson you learned
+how an operating system boots up.
+
+2
+00:00:15,610 --> 00:00:18,920
+It's an important concept to understand
+since you'll be faced with troubleshooting
+
+3
+00:00:18,920 --> 00:00:20,930
+boot up issues in IT support.
+
+4
+00:00:20,930 --> 00:00:24,480
+Now we're going to walk through the steps
+to select and install an operating system.
+
+5
+00:00:25,490 --> 00:00:28,280
+We're going to focus on operating
+systems in the IT space.
+
+6
+00:00:29,290 --> 00:00:32,450
+First, we'll talk about deciding
+which operating system to install in
+
+7
+00:00:32,450 --> 00:00:33,110
+a business setting.
+
+8
+00:00:34,140 --> 00:00:37,850
+Second, we'll dive into the overall
+process of installing an operating system.
+
+9
+00:00:38,970 --> 00:00:41,350
+So how do you decide which
+operating system to install?
+
+10
+00:00:42,560 --> 00:00:44,940
+Well, you need to ask yourself
+a couple of questions.
+
+11
+00:00:44,940 --> 00:00:47,170
+Has the decision already been made?
+
+12
+00:00:47,170 --> 00:00:49,810
+The operating systems in
+use by an organization
+
+13
+00:00:49,810 --> 00:00:53,700
+have a lot to do with the applications and
+systems that they need to run.
+
+14
+00:00:53,700 --> 00:00:55,200
+Are you working with an organization or
+
+15
+00:00:55,200 --> 00:00:58,830
+service that requires the use
+of a specific operating system?
+
+16
+00:00:58,830 --> 00:01:00,560
+If so, you're done that's easy.
+
+17
+00:01:00,560 --> 00:01:04,272
+If the decision hasn't been made on
+what OS to use, or if you're looking for
+
+18
+00:01:04,272 --> 00:01:07,694
+an operating system for personal use,
+then you need to ask yourself,
+
+19
+00:01:07,694 --> 00:01:10,880
+what software will need
+to be run on this device.
+
+20
+00:01:10,880 --> 00:01:11,740
+In lots of cases,
+
+21
+00:01:11,740 --> 00:01:15,880
+the software will be designed to
+run on a specific operating system.
+
+22
+00:01:15,880 --> 00:01:19,010
+It's also possible that
+the software is cross platform,
+
+23
+00:01:19,010 --> 00:01:21,700
+meaning it can run on more
+than one operating system.
+
+24
+00:01:21,700 --> 00:01:24,300
+Another question to ask is,
+what hardware will be used?
+
+25
+00:01:24,300 --> 00:01:27,790
+Modern operating systems do a pretty
+good job of supporting common hardware.
+
+26
+00:01:28,870 --> 00:01:31,760
+You should keep in mind that
+some manufacturers allow their
+
+27
+00:01:31,760 --> 00:01:35,100
+opperating system to be only
+installed on their hardware.
+
+28
+00:01:35,100 --> 00:01:38,190
+Still a little confused about which
+operating system is best for you or
+
+29
+00:01:38,190 --> 00:01:39,780
+your organization?
+
+30
+00:01:39,780 --> 00:01:42,800
+Check out the supplemental reading
+right after this video to learn more.
+
+31
+00:01:42,800 --> 00:01:44,770
+There's one more thing I should call out.
+
+32
+00:01:44,770 --> 00:01:50,140
+Remember that we have different CPU
+architecture's, 32-bit and 64-bit.
+
+33
+00:01:50,140 --> 00:01:53,770
+Our operating systems will also be
+optimized for this architecture, so
+
+34
+00:01:53,770 --> 00:01:57,360
+make sure that the CPU and
+OS are compatible.
+
+35
+00:01:57,360 --> 00:01:58,890
+If you have a 64-bit CPU,
+
+36
+00:01:58,890 --> 00:02:03,980
+you should also install the 64-bit version
+of the operating system you choose.
+
+37
+00:02:03,980 --> 00:02:07,700
+Okay, now that you've chosen an operating
+system that you want to use,
+
+38
+00:02:07,700 --> 00:02:09,719
+let's work on getting it
+installed on our hardware.
+
+39
+00:02:10,730 --> 00:02:13,770
+Many computers come with
+an operating system pre-installed.
+
+40
+00:02:13,770 --> 00:02:15,710
+If you boot the computer
+in this condition,
+
+41
+00:02:15,710 --> 00:02:19,410
+the operating system will continue from
+whatever point the vendor left it at.
+
+42
+00:02:20,470 --> 00:02:23,370
+You'll need to do a couple of things
+to finish the installation, like
+
+43
+00:02:23,370 --> 00:02:28,150
+choosing a computer name, or host name, or
+configuring the network for the device.
+
+44
+00:02:28,150 --> 00:02:30,680
+There's more, but
+we won't worry about that now.
+
+45
+00:02:30,680 --> 00:02:33,416
+When we walk through an installation
+of an operating system,
+
+46
+00:02:33,416 --> 00:02:34,688
+you'll be able to see this.
+
+47
+00:02:34,688 --> 00:02:37,589
+If you're going to be installing
+an operating system from scratch,
+
+48
+00:02:37,589 --> 00:02:40,510
+you can use different installation media.
+
+49
+00:02:40,510 --> 00:02:44,790
+Some operating system manufacturers sell
+their operating system in disc form or
+
+50
+00:02:44,790 --> 00:02:46,440
+USB form.
+
+51
+00:02:46,440 --> 00:02:49,100
+Some let you do reinstalls
+directly over the internet.
+
+52
+00:02:49,100 --> 00:02:53,650
+As an IT support specialist, you'll
+install an operating system many times, so
+
+53
+00:02:53,650 --> 00:02:57,740
+using one single disk won't be
+time efficient or scalable.
+
+54
+00:02:57,740 --> 00:03:01,400
+Scalability is an important
+concept that we'll cover later.
+
+55
+00:03:01,400 --> 00:03:04,740
+If you want to scale or
+accommodate multiple computers,
+
+56
+00:03:04,740 --> 00:03:07,890
+the added support is something
+you need to keep in mind.
+
+57
+00:03:07,890 --> 00:03:11,920
+For now, you're only working with
+one computer so let's focus on that.
+
+58
+00:03:11,920 --> 00:03:14,690
+Let's just use a USB drive to
+install your operating system.
+
+59
+00:03:15,990 --> 00:03:19,630
+Some OS manufacturers have their own
+special USB drives with the installation
+
+60
+00:03:19,630 --> 00:03:21,530
+image like Windows.
+
+61
+00:03:21,530 --> 00:03:24,810
+For Linux we can load up
+an OS onto any USB drives.
+
+62
+00:03:24,810 --> 00:03:28,000
+You'll see what I mean by that
+in the next couple of videos.
+
+63
+00:03:28,000 --> 00:03:28,500
+See you there.

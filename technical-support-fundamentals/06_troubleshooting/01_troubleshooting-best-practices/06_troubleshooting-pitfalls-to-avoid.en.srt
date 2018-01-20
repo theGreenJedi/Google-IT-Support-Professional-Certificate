@@ -1,0 +1,154 @@
+1
+00:00:12,243 --> 00:00:16,000
+You've gained a lot of great
+foundational troubleshooting skills.
+
+2
+00:00:16,000 --> 00:00:18,920
+But there is some common pitfalls
+that you should try to avoid
+
+3
+00:00:18,920 --> 00:00:21,890
+in order to be at the top of
+your troubleshooting game.
+
+4
+00:00:21,890 --> 00:00:23,630
+As an IT support specialist,
+
+5
+00:00:23,630 --> 00:00:28,530
+you'll sometime encounter the same
+issue over and over again.
+
+6
+00:00:28,530 --> 00:00:30,330
+Before the next issue comes in,
+
+7
+00:00:30,330 --> 00:00:33,620
+you may find yourself using your
+muscle memory to fix the issue.
+
+8
+00:00:33,620 --> 00:00:36,760
+Pitfall #1, going into autopilot.
+
+9
+00:00:36,760 --> 00:00:39,240
+Make sure you don't
+default to autopilot mode,
+
+10
+00:00:39,240 --> 00:00:42,210
+moving through issues out of habit and
+without careful thought.
+
+11
+00:00:42,210 --> 00:00:45,020
+More often than not there
+are small variables that
+
+12
+00:00:45,020 --> 00:00:47,520
+change the problem you're seeing entirely.
+
+13
+00:00:47,520 --> 00:00:51,680
+Ask questions and gather data so
+you can fully understanding an issue.
+
+14
+00:00:51,680 --> 00:00:55,610
+This takes less time than having to
+redo some sloppy work you did in
+
+15
+00:00:55,610 --> 00:00:56,730
+autopilot mode.
+
+16
+00:00:56,730 --> 00:01:00,020
+Pitfall #2, not finding the root cause.
+
+17
+00:01:00,020 --> 00:01:03,600
+It's very easy to get distracted
+by small problems that pop up.
+
+18
+00:01:03,600 --> 00:01:07,840
+But it's super important to remember
+there's probably a very big problem
+
+19
+00:01:07,840 --> 00:01:09,600
+causing all these small problems.
+
+20
+00:01:09,600 --> 00:01:12,430
+Spend a little extra time
+investigating the issue
+
+21
+00:01:12,430 --> 00:01:14,970
+instead of trying to fix
+all the small holes.
+
+22
+00:01:14,970 --> 00:01:18,380
+If you're trying do a quick fix,
+it's tempting to wipe a system and
+
+23
+00:01:18,380 --> 00:01:19,480
+start from scratch.
+
+24
+00:01:19,480 --> 00:01:22,920
+This approach is kind of like using
+a hammer when a surgical scalpel might be
+
+25
+00:01:22,920 --> 00:01:24,150
+a more appropriate tool.
+
+26
+00:01:24,150 --> 00:01:27,215
+Let's say a user isn't able to
+access a particular website.
+
+27
+00:01:27,215 --> 00:01:29,840
+Re-imaging the system isn't a great solve.
+
+28
+00:01:29,840 --> 00:01:33,630
+It doesn't get to the root cause, and it
+doesn't help further your own knowledge.
+
+29
+00:01:33,630 --> 00:01:37,540
+Investigating the problem of it,
+testing out possible issues and solutions
+
+30
+00:01:37,540 --> 00:01:42,230
+incrementally, and identifying the root
+cause can end up saving a lot of time and
+
+31
+00:01:42,230 --> 00:01:46,740
+effort in the end, and it feels really
+empowering as an IT support specialist.
+
+32
+00:01:46,740 --> 00:01:49,830
+And with that, you'll be able
+to go out in the real world and
+
+33
+00:01:49,830 --> 00:01:52,550
+use your new skills to methodically
+troubleshoot an issue.

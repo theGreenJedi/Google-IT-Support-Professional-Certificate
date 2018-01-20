@@ -1,0 +1,771 @@
+1
+00:00:11,190 --> 00:00:13,930
+If you've ever worked in customer service,
+
+2
+00:00:13,930 --> 00:00:16,210
+then you've dealt with difficult situations.
+
+3
+00:00:16,210 --> 00:00:18,835
+The way you handle them in the food industry,
+
+4
+00:00:18,835 --> 00:00:20,740
+and tech world are pretty similar.
+
+5
+00:00:20,740 --> 00:00:22,225
+But before we dive into that,
+
+6
+00:00:22,225 --> 00:00:24,640
+we're going to take a step back and talk about the science
+
+7
+00:00:24,640 --> 00:00:27,520
+behind what's happening in these situations.
+
+8
+00:00:27,520 --> 00:00:29,160
+Let's say someone's yelling at you,
+
+9
+00:00:29,160 --> 00:00:32,680
+whether it's about overcooked steak or broken computer,
+
+10
+00:00:32,680 --> 00:00:36,050
+your reaction to either will probably be similar.
+
+11
+00:00:36,050 --> 00:00:37,630
+Your palms might be sweating,
+
+12
+00:00:37,630 --> 00:00:38,910
+your hands might shake,
+
+13
+00:00:38,910 --> 00:00:40,410
+or your mouth goes dry,
+
+14
+00:00:40,410 --> 00:00:42,220
+tunnel vision might kick in.
+
+15
+00:00:42,220 --> 00:00:45,475
+These are all normal physiological reactions
+
+16
+00:00:45,475 --> 00:00:48,635
+that happen in response to a perceived threat.
+
+17
+00:00:48,635 --> 00:00:51,087
+This is part of our biological make up
+
+18
+00:00:51,087 --> 00:00:54,075
+dating back to the time when people hunted for their food.
+
+19
+00:00:54,075 --> 00:00:56,065
+When you're being chased by a cougar,
+
+20
+00:00:56,065 --> 00:01:00,035
+you needed your senses to be at high alert in order to keep yourself alive.
+
+21
+00:01:00,035 --> 00:01:04,090
+Even though someone yelling at you isn't the same as the cougar attacking you,
+
+22
+00:01:04,090 --> 00:01:05,965
+it can feel similar in the moment.
+
+23
+00:01:05,965 --> 00:01:08,410
+Your brain is releasing a mix of chemicals and
+
+24
+00:01:08,410 --> 00:01:12,175
+hormones to heighten your senses and keep you alert.
+
+25
+00:01:12,175 --> 00:01:14,680
+Unfortunately, a side effect is that you may have trouble
+
+26
+00:01:14,680 --> 00:01:17,565
+focusing on a specific task. Not ideal.
+
+27
+00:01:17,565 --> 00:01:20,410
+It's in times like these that you might go on autopilot,
+
+28
+00:01:20,410 --> 00:01:24,845
+where your body has a physical reaction and it's hard to focus.
+
+29
+00:01:24,845 --> 00:01:27,610
+It's super important to recognize these moments and put
+
+30
+00:01:27,610 --> 00:01:31,475
+a plan in place to reboot yourself out of the situation.
+
+31
+00:01:31,475 --> 00:01:35,520
+Sometimes I feel this way when I'm teaching a class and someone is ignoring me.
+
+32
+00:01:35,520 --> 00:01:37,330
+They just don't pay attention.
+
+33
+00:01:37,330 --> 00:01:38,785
+I used to call them out on it.
+
+34
+00:01:38,785 --> 00:01:40,195
+The fight response.
+
+35
+00:01:40,195 --> 00:01:41,700
+But this never ended well.
+
+36
+00:01:41,700 --> 00:01:44,335
+Sometimes they had a good reason for being on their phone,
+
+37
+00:01:44,335 --> 00:01:47,220
+and calling them out never made them listen more.
+
+38
+00:01:47,220 --> 00:01:49,825
+Now when I feel myself in that situation,
+
+39
+00:01:49,825 --> 00:01:52,075
+I notice that my pulse increases.
+
+40
+00:01:52,075 --> 00:01:53,735
+When I realize that's happening,
+
+41
+00:01:53,735 --> 00:01:58,600
+I make sure to look around and focus on people who are more engaged in the lesson,
+
+42
+00:01:58,600 --> 00:02:00,550
+and make eye contact with them.
+
+43
+00:02:00,550 --> 00:02:03,600
+Soon, I feel my pulse slow down.
+
+44
+00:02:03,600 --> 00:02:08,475
+Some of your experiences in IT support might trigger similar reactions.
+
+45
+00:02:08,475 --> 00:02:12,220
+Once you've identified this reboot action, write it down.
+
+46
+00:02:12,220 --> 00:02:15,615
+Remember, your brain isn't always working well in the heat of the moment.
+
+47
+00:02:15,615 --> 00:02:18,560
+So it helps to have something to remind you what to do.
+
+48
+00:02:18,560 --> 00:02:21,360
+It could be anything from squeezing a stress ball,
+
+49
+00:02:21,360 --> 00:02:25,525
+to looking away, to taking a deep breath.
+
+50
+00:02:25,525 --> 00:02:27,785
+The first couple of times it may not work,
+
+51
+00:02:27,785 --> 00:02:29,050
+so give it time.
+
+52
+00:02:29,050 --> 00:02:31,090
+When you have a difficult situation,
+
+53
+00:02:31,090 --> 00:02:33,755
+take a moment to think about what went wrong.
+
+54
+00:02:33,755 --> 00:02:35,050
+How are you feeling?
+
+55
+00:02:35,050 --> 00:02:36,685
+What was your reaction?
+
+56
+00:02:36,685 --> 00:02:38,240
+Why did you raise your voice?
+
+57
+00:02:38,240 --> 00:02:43,495
+After a while, it becomes second nature to catch yourself and deescalate situation.
+
+58
+00:02:43,495 --> 00:02:46,005
+To really hold yourself accountable,
+
+59
+00:02:46,005 --> 00:02:48,250
+tell a coworker what you're trying to do,
+
+60
+00:02:48,250 --> 00:02:50,485
+give them a recap of the interaction,
+
+61
+00:02:50,485 --> 00:02:53,065
+and ask them for their feedback on the interaction.
+
+62
+00:02:53,065 --> 00:02:55,280
+You might get some great tips.
+
+63
+00:02:55,280 --> 00:02:57,065
+But here's the bad news.
+
+64
+00:02:57,065 --> 00:03:00,090
+Things aren't over when you get yourself back on track.
+
+65
+00:03:00,090 --> 00:03:02,165
+That's when the hard work starts.
+
+66
+00:03:02,165 --> 00:03:03,815
+Every situation is different,
+
+67
+00:03:03,815 --> 00:03:07,990
+and you'll learn the best strategies from experience and peer feedback.
+
+68
+00:03:07,990 --> 00:03:09,300
+To get you started,
+
+69
+00:03:09,300 --> 00:03:11,830
+I'll run through some tried and true techniques.
+
+70
+00:03:11,830 --> 00:03:15,400
+Keep in mind that it's fine if you don't get these right the first time.
+
+71
+00:03:15,400 --> 00:03:17,365
+It takes practice, reflection,
+
+72
+00:03:17,365 --> 00:03:20,530
+and feedback to really nail it. So don't give up.
+
+73
+00:03:20,530 --> 00:03:23,620
+The hardest and arguably the best technique,
+
+74
+00:03:23,620 --> 00:03:25,930
+is to identify where the interaction went
+
+75
+00:03:25,930 --> 00:03:29,440
+wrong in the moment and redirect the conversation.
+
+76
+00:03:29,440 --> 00:03:30,820
+This is really tough,
+
+77
+00:03:30,820 --> 00:03:35,470
+because it means remaining calm enough to objectively look at the interaction,
+
+78
+00:03:35,470 --> 00:03:38,495
+and understand what could have caused it to escalate.
+
+79
+00:03:38,495 --> 00:03:43,270
+At first, try this once the interaction is over.
+
+80
+00:04:20,100 --> 00:04:24,410
+You started your chat with the user and it's really
+
+81
+00:04:24,410 --> 00:04:27,140
+pleasant and problem solving is happening.
+
+82
+00:04:27,140 --> 00:04:29,435
+Then suddenly the tone turns dark.
+
+83
+00:04:29,435 --> 00:04:32,085
+What caused it? Where was the misstep?
+
+84
+00:04:32,085 --> 00:04:34,970
+Looking back, you might notice that the user didn't understand
+
+85
+00:04:34,970 --> 00:04:38,440
+the question about what happens when he tries to sync his phone.
+
+86
+00:04:38,440 --> 00:04:40,505
+And the tech just kept repeating it.
+
+87
+00:04:40,505 --> 00:04:43,510
+The user gets annoyed and then starts typing in all caps.
+
+88
+00:04:43,510 --> 00:04:46,310
+A clear sign they're irritated.
+
+89
+00:04:46,310 --> 00:04:48,865
+In this case, the cause seems obvious.
+
+90
+00:04:48,865 --> 00:04:51,135
+If the user didn't understand the question,
+
+91
+00:04:51,135 --> 00:04:55,895
+then they probably got frustrated when the same question was asked over and over.
+
+92
+00:04:55,895 --> 00:04:58,970
+If the IT support specialist had noticed this,
+
+93
+00:04:58,970 --> 00:05:00,950
+they could have reframed the question and
+
+94
+00:05:00,950 --> 00:05:18,709
+broken it down further.
+
+95
+00:05:18,709 --> 00:05:36,955
+Another cause of frustration in user support interactions,
+
+96
+00:05:36,955 --> 00:05:39,140
+is when people talk over each other.
+
+97
+00:05:39,140 --> 00:05:41,145
+This usually happens over the phone,
+
+98
+00:05:41,145 --> 00:05:43,000
+since there is sometimes a delay.
+
+99
+00:05:43,000 --> 00:05:45,155
+But it can happen in person too.
+
+100
+00:05:45,155 --> 00:05:47,680
+Typically, it leads to people talking louder and
+
+101
+00:05:47,680 --> 00:05:50,815
+sometimes ends up feeling like you're yelling at each other.
+
+102
+00:05:50,815 --> 00:05:54,380
+You've probably been in a situation like this with your friends or family.
+
+103
+00:05:54,380 --> 00:05:55,810
+Everyone wants to talk,
+
+104
+00:05:55,810 --> 00:05:59,750
+and the person with the loudest voice wins.
+
+105
+00:05:59,750 --> 00:06:02,250
+How can I help you today?
+
+106
+00:06:02,250 --> 00:06:04,590
+My laptop isn't working, I need a new one.
+
+107
+00:06:04,590 --> 00:06:06,410
+I have meetings I need to go to.
+
+108
+00:06:06,410 --> 00:06:10,465
+I can certainly look into this and see what we can do to fix it.
+
+109
+00:06:10,465 --> 00:06:13,600
+But I want to set context that our policy is to
+
+110
+00:06:13,600 --> 00:06:17,230
+only replace laptops if all other options have been exhausted.
+
+111
+00:06:17,230 --> 00:06:19,950
+I don't need you to go snooping around my computer.
+
+112
+00:06:19,950 --> 00:06:21,280
+Just give me a new one.
+
+113
+00:06:21,280 --> 00:06:23,500
+Gail, I'd love to do that for you, but.
+
+114
+00:06:23,500 --> 00:06:25,780
+That's ridiculous. I'm a director.
+
+115
+00:06:25,780 --> 00:06:28,120
+I should get a new one. I don't have time for this.
+
+116
+00:06:28,120 --> 00:06:31,145
+I completely understand the urgency of the situation.
+
+117
+00:06:31,145 --> 00:06:32,320
+Why don't you let me take a look at.
+
+118
+00:06:32,320 --> 00:06:33,550
+That's why I came.
+
+119
+00:06:33,550 --> 00:06:35,440
+You need to fix it.
+
+120
+00:06:35,440 --> 00:06:39,855
+It's important to try and identify why this is happening,
+
+121
+00:06:39,855 --> 00:06:41,515
+so you can course correct.
+
+122
+00:06:41,515 --> 00:06:46,075
+In this case, you can simply stop talking to calm things down,
+
+123
+00:06:46,075 --> 00:06:48,560
+and then pause for about five or ten seconds
+
+124
+00:06:48,560 --> 00:06:51,375
+to make sure they're done talking and start again.
+
+125
+00:06:51,375 --> 00:06:55,400
+This might take a few tries before the user realizes what they're doing,
+
+126
+00:06:55,400 --> 00:06:56,930
+and gives you time to talk.
+
+127
+00:06:56,930 --> 00:07:03,860
+Use that time to calm down and really listen to what the user is saying. Ask yourself.
+
+128
+00:07:03,860 --> 00:07:06,950
+Why are they talking over me? What am I missing?
+
+129
+00:07:06,950 --> 00:07:09,140
+Then, in those five to 10 seconds,
+
+130
+00:07:09,140 --> 00:07:13,895
+collect yourself and think about what you want to say.
+
+131
+00:07:13,895 --> 00:07:16,780
+How can I help you today.
+
+132
+00:07:16,780 --> 00:07:18,310
+My laptop isn't working.
+
+133
+00:07:18,310 --> 00:07:20,050
+I need a new one.
+
+134
+00:07:20,050 --> 00:07:21,965
+I have meetings I need to go to.
+
+135
+00:07:21,965 --> 00:07:26,035
+I can certainly look into this and see what we can do to fix it.
+
+136
+00:07:26,035 --> 00:07:29,870
+But I want to set context that our policy is to only replace
+
+137
+00:07:29,870 --> 00:07:33,675
+laptops if all other options have been exhausted.
+
+138
+00:07:33,675 --> 00:07:36,395
+I don't need you to go snooping around my computer.
+
+139
+00:07:36,395 --> 00:07:37,640
+Just give me a new one.
+
+140
+00:07:37,640 --> 00:07:40,880
+Gail I'd love to do that for you but.
+
+141
+00:07:40,880 --> 00:07:42,290
+That's ridiculous. I'm a director.
+
+142
+00:07:42,290 --> 00:07:44,150
+I should be able to get a new laptop.
+
+143
+00:07:44,150 --> 00:07:46,070
+I have no time for this.
+
+144
+00:07:46,070 --> 00:07:47,810
+I completely understand.
+
+145
+00:07:47,810 --> 00:07:50,933
+Can you let me have five minutes to do a quick triage,
+
+146
+00:07:50,933 --> 00:07:54,020
+and then we can discuss next steps.
+
+147
+00:07:54,020 --> 00:07:57,650
+If the user is crossing the line and making you feel uncomfortable,
+
+148
+00:07:57,650 --> 00:08:01,690
+ignoring it can feel like the easiest solution. It isn't.
+
+149
+00:08:01,690 --> 00:08:03,380
+Remember that if you do,
+
+150
+00:08:03,380 --> 00:08:05,120
+the next person they interact with,
+
+151
+00:08:05,120 --> 00:08:06,680
+will be treated the same way.
+
+152
+00:08:06,680 --> 00:08:08,290
+And that's not okay.
+
+153
+00:08:08,290 --> 00:08:12,395
+It's also easy to say the person being attacked needs to stand up for themselves.
+
+154
+00:08:12,395 --> 00:08:16,000
+But in situations like this one, that's really hard.
+
+155
+00:08:16,000 --> 00:08:19,910
+Ideally bystanders would call up this behavior in a calm way.
+
+156
+00:08:19,910 --> 00:08:23,709
+It's also important that you escalate these issues to the appropriate channel,
+
+157
+00:08:23,709 --> 00:08:25,130
+whether that's your manager,
+
+158
+00:08:25,130 --> 00:08:28,705
+the human resources department, whomever.
+
+159
+00:08:28,705 --> 00:08:32,353
+Disclaimer, I love being in the IT support field,
+
+160
+00:08:32,353 --> 00:08:34,405
+and I don't want to dwell on the negative.
+
+161
+00:08:34,405 --> 00:08:37,515
+But I do want to prepare you for what you might encounter.
+
+162
+00:08:37,515 --> 00:08:40,360
+So let me throw another tough scenario at you.
+
+163
+00:08:40,360 --> 00:08:42,980
+You might find that a user skims over what you wrote,
+
+164
+00:08:42,980 --> 00:08:47,000
+or doesn't listen to the full instructions you present before taking action.
+
+165
+00:08:47,000 --> 00:08:50,600
+When this happens, be patient.
+
+166
+00:08:50,600 --> 00:08:54,785
+You've likely been on the other end of this before when you ignored instructions.
+
+167
+00:08:54,785 --> 00:08:57,890
+Why? Were you overwhelmed with information?
+
+168
+00:08:57,890 --> 00:08:59,140
+Were you in a hurry?
+
+169
+00:08:59,140 --> 00:09:00,900
+Maybe you need reading glasses.
+
+170
+00:09:00,900 --> 00:09:02,710
+Whatever the case might be,
+
+171
+00:09:02,710 --> 00:09:05,420
+the best tactic is to break these steps down
+
+172
+00:09:05,420 --> 00:09:09,005
+into smaller more digestible pieces for the user.
+
+173
+00:09:09,005 --> 00:09:12,080
+If you sent them an article that they didn't finish reading,
+
+174
+00:09:12,080 --> 00:09:16,255
+ask where specifically in the documentation they're having issues.
+
+175
+00:09:16,255 --> 00:09:19,595
+So that you don't have to bore them with the parts they already know.
+
+176
+00:09:19,595 --> 00:09:21,805
+Sometimes you'll come across someone wanting to bend
+
+177
+00:09:21,805 --> 00:09:25,180
+a policy or push back on an established process.
+
+178
+00:09:25,180 --> 00:09:28,280
+Take this as a sign to look deeper into the situation.
+
+179
+00:09:28,280 --> 00:09:30,410
+Is it really a company policy,
+
+180
+00:09:30,410 --> 00:09:32,975
+or just a common way of doing things?
+
+181
+00:09:32,975 --> 00:09:34,440
+If it is the policy,
+
+182
+00:09:34,440 --> 00:09:35,960
+is there documentation of it?
+
+183
+00:09:35,960 --> 00:09:38,045
+You can reference that to the user.
+
+184
+00:09:38,045 --> 00:09:41,810
+If not, offer to follow up to get a definitive answer.
+
+185
+00:09:41,810 --> 00:09:44,025
+You might be surprised what you find.
+
+186
+00:09:44,025 --> 00:09:45,284
+The takeaway here is,
+
+187
+00:09:45,284 --> 00:09:49,385
+that it's important to try to see things from other people's point of view.
+
+188
+00:09:49,385 --> 00:09:53,525
+In that moment, when you're feeling riled up and frustrated,
+
+189
+00:09:53,525 --> 00:09:57,755
+take a minute to see the situation from the other person's perspective.
+
+190
+00:09:57,755 --> 00:10:00,505
+If you are them, how would you be feeling?
+
+191
+00:10:00,505 --> 00:10:02,255
+What would make you feel better?
+
+192
+00:10:02,255 --> 00:10:06,060
+If you can train yourself to see things from another's perspective,
+
+193
+00:10:06,060 --> 00:10:08,120
+you're on your way to turning things around.

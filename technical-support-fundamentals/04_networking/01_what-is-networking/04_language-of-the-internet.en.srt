@@ -1,0 +1,127 @@
+1
+00:00:11,170 --> 00:00:15,500
+We talked briefly about the networking protocols our devices use
+
+2
+00:00:15,500 --> 00:00:19,100
+to help our packets get from one destination to another destination,
+
+3
+00:00:19,100 --> 00:00:20,270
+but what are they?
+
+4
+00:00:20,270 --> 00:00:23,360
+There are lots and lots of network protocols used and they're all
+
+5
+00:00:23,360 --> 00:00:26,565
+necessary to help us get our packets in the right place.
+
+6
+00:00:26,565 --> 00:00:31,826
+Think of network protocols like a set of rules for how we transfer data in a network.
+
+7
+00:00:31,826 --> 00:00:35,640
+Imagine if you sent a letter to your friend Sasha who lives in California,
+
+8
+00:00:35,640 --> 00:00:39,965
+but your post office sends it out to another Sasha who lives out in New York.
+
+9
+00:00:39,965 --> 00:00:41,405
+That would hopefully never happen,
+
+10
+00:00:41,405 --> 00:00:44,025
+since the post office has rules that they follow
+
+11
+00:00:44,025 --> 00:00:46,746
+to make sure your letter is sent to the correct address.
+
+12
+00:00:46,746 --> 00:00:49,160
+Our networking protocols do the same thing.
+
+13
+00:00:49,160 --> 00:00:53,075
+There are rules that make sure our packets are routed efficiently,
+
+14
+00:00:53,075 --> 00:00:55,785
+aren't corrupted, are secure,
+
+15
+00:00:55,785 --> 00:00:58,775
+go to the right machine and are named appropriately.
+
+16
+00:00:58,775 --> 00:01:02,612
+You get the idea. We'll cover specific network protocols later on,
+
+17
+00:01:02,612 --> 00:01:05,700
+but there are two protocols that you need to know.
+
+18
+00:01:05,700 --> 00:01:09,305
+The Transmission Control Protocol and the Internet Protocol,
+
+19
+00:01:09,305 --> 00:01:11,420
+or TCP/IP for short,
+
+20
+00:01:11,420 --> 00:01:14,500
+which have become the predominant protocols of the Internet.
+
+21
+00:01:14,500 --> 00:01:16,805
+The Internet Protocol or IP,
+
+22
+00:01:16,805 --> 00:01:20,250
+is responsible for delivering our packets to the right computers.
+
+23
+00:01:20,250 --> 00:01:24,170
+Remember those addresses that computers use to find something on a network?
+
+24
+00:01:24,170 --> 00:01:28,100
+They're called IP addresses or Internet protocol addresses.
+
+25
+00:01:28,100 --> 00:01:31,240
+The Internet Protocol helps us route information.
+
+26
+00:01:31,240 --> 00:01:35,015
+The Transmission Control Protocol or TCP,
+
+27
+00:01:35,015 --> 00:01:40,940
+is a protocol that handles reliable delivery of information from one network to another.
+
+28
+00:01:40,940 --> 00:01:44,060
+This protocol was an important part of the creation of
+
+29
+00:01:44,060 --> 00:01:48,050
+the internet since it let us share information with other computers.
+
+30
+00:01:48,050 --> 00:01:51,866
+We'll spend a lot of time diving into these protocols in the next course,
+
+31
+00:01:51,866 --> 00:01:55,205
+the bits and bytes of computer networking, so stay tuned.
+
+32
+00:01:55,205 --> 00:02:01,000
+For now, you've got a high level understanding of how the internet works with TCP/IP.

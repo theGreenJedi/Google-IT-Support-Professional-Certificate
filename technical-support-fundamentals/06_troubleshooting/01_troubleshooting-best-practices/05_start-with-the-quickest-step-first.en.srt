@@ -1,0 +1,139 @@
+1
+00:00:11,190 --> 00:00:14,905
+We've got some great questions to understand our problem.
+
+2
+00:00:14,905 --> 00:00:19,480
+We've isolated our problem to an effective area and looked at our cookie crumbs.
+
+3
+00:00:19,480 --> 00:00:21,700
+Now it's time to start fixing the issue.
+
+4
+00:00:21,700 --> 00:00:24,010
+In the I.T. world, as in life,
+
+5
+00:00:24,010 --> 00:00:26,670
+problems don't always have one right answer.
+
+6
+00:00:26,670 --> 00:00:28,255
+When you troubleshoot an issue,
+
+7
+00:00:28,255 --> 00:00:31,470
+you're essentially trying to isolate it to the root cause.
+
+8
+00:00:31,470 --> 00:00:33,325
+To help you isolate an issue,
+
+9
+00:00:33,325 --> 00:00:35,830
+you need to try some remediation steps.
+
+10
+00:00:35,830 --> 00:00:39,370
+If they don't work, then you can rule those out as the cause.
+
+11
+00:00:39,370 --> 00:00:40,890
+So what's next?
+
+12
+00:00:40,890 --> 00:00:44,865
+Here's where the Start-with-the- quickest-step-first method comes into play.
+
+13
+00:00:44,865 --> 00:00:47,435
+We want to get to a root cause effectively.
+
+14
+00:00:47,435 --> 00:00:51,250
+But sometimes, there are multiple options we can use to isolate something.
+
+15
+00:00:51,250 --> 00:00:53,785
+So how do we know which option to try first?
+
+16
+00:00:53,785 --> 00:00:58,237
+It's pretty simple. Try whatever's fastest first.
+
+17
+00:00:58,237 --> 00:01:03,348
+I'm having a really weird issue with my software when I start it.
+
+18
+00:01:03,348 --> 00:01:05,190
+It doesn't do anything and
+
+19
+00:01:05,190 --> 00:01:14,230
+I just installed it.
+
+20
+00:01:14,230 --> 00:01:18,950
+Interesting. It might have gotten corrupted during installation.
+
+21
+00:01:18,950 --> 00:01:22,310
+Let's reinstall it again.
+
+22
+00:01:22,310 --> 00:01:26,430
+It still does the same thing.
+
+23
+00:01:26,430 --> 00:01:33,735
+I'm having a really weird issue with my software when I start it.
+
+24
+00:01:33,735 --> 00:01:35,865
+It doesn't do anything.
+
+25
+00:01:35,865 --> 00:01:38,825
+And I just installed it.
+
+26
+00:01:38,825 --> 00:01:42,760
+Do you have to remember if you restarted the computer when you installed it?
+
+27
+00:01:42,760 --> 00:01:49,095
+Oh, it works now.
+
+28
+00:01:49,095 --> 00:01:52,010
+It's possible that in this scenario,
+
+29
+00:01:52,010 --> 00:01:54,610
+a software reinstall could fix the issue.
+
+30
+00:01:54,610 --> 00:01:57,470
+It's also possible that a restart was the solution.
+
+31
+00:01:57,470 --> 00:02:00,855
+Since you can test a restart faster than a reinstall,
+
+32
+00:02:00,855 --> 00:02:02,690
+you should test the restart first.
+
+33
+00:02:02,690 --> 00:02:07,320
+You want to be able to troubleshoot and resolve issues effectively and efficiently.
+
+34
+00:02:07,320 --> 00:02:09,650
+So remember to start with the quickest of first.
+
+35
+00:02:09,650 --> 00:02:13,000
+Your time and your users time are important.

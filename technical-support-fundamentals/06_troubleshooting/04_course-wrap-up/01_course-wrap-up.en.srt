@@ -1,0 +1,187 @@
+1
+00:00:10,960 --> 00:00:13,420
+In the very beginning of this course,
+
+2
+00:00:13,420 --> 00:00:17,195
+we told you that all that computer does is calculate and process data.
+
+3
+00:00:17,195 --> 00:00:20,980
+We also told you that with that simple function we can post to social media,
+
+4
+00:00:20,980 --> 00:00:24,145
+create beautiful graphics, listen to music and more.
+
+5
+00:00:24,145 --> 00:00:25,930
+Well, in the short time we've spent
+
+6
+00:00:25,930 --> 00:00:28,870
+together you've learned how this entire process works.
+
+7
+00:00:28,870 --> 00:00:30,445
+That's an amazing accomplishment.
+
+8
+00:00:30,445 --> 00:00:35,115
+You've taken the first step on the path toward preparing for a career in IT support.
+
+9
+00:00:35,115 --> 00:00:36,565
+Think of everything you've learned.
+
+10
+00:00:36,565 --> 00:00:39,670
+You now know that software developers build the websites,
+
+11
+00:00:39,670 --> 00:00:43,000
+operating systems, tools and programs that we use.
+
+12
+00:00:43,000 --> 00:00:45,250
+These programs are compiled into machine code that
+
+13
+00:00:45,250 --> 00:00:47,930
+our computer takes and processes with the hardware.
+
+14
+00:00:47,930 --> 00:00:51,130
+The data that the computer processes is just binary data
+
+15
+00:00:51,130 --> 00:00:54,550
+that gets calculated into actual tasks the computer performs.
+
+16
+00:00:54,550 --> 00:00:58,015
+These tasks can include talking to other computers over the Internet,
+
+17
+00:00:58,015 --> 00:01:00,760
+or even just using a web browser to look at cats.
+
+18
+00:01:00,760 --> 00:01:04,825
+We also learned how our data travels across the world to different servers.
+
+19
+00:01:04,825 --> 00:01:07,045
+But these processes don't work all the time,
+
+20
+00:01:07,045 --> 00:01:10,405
+which is why IT support specialists are needed.
+
+21
+00:01:10,405 --> 00:01:12,505
+As technology gets more complex,
+
+22
+00:01:12,505 --> 00:01:15,805
+the tools needed to fix that technology also gets more complex.
+
+23
+00:01:15,805 --> 00:01:18,695
+With more and more people adopting a digital lifestyle,
+
+24
+00:01:18,695 --> 00:01:20,470
+more and more fixes are needed.
+
+25
+00:01:20,470 --> 00:01:23,270
+It's an exciting time to be working in IT.
+
+26
+00:01:23,270 --> 00:01:25,585
+Soon, we'll have self driving cars,
+
+27
+00:01:25,585 --> 00:01:28,105
+computers beating world champion Go Players,
+
+28
+00:01:28,105 --> 00:01:30,860
+virtual reality gaming and so much more.
+
+29
+00:01:30,860 --> 00:01:33,370
+Every day new technology emerges,
+
+30
+00:01:33,370 --> 00:01:37,830
+and we need more IT support specialists working in the field to keep it running.
+
+31
+00:01:37,830 --> 00:01:40,085
+But we've only scratched the surface.
+
+32
+00:01:40,085 --> 00:01:41,230
+You've worked hard to learn
+
+33
+00:01:41,230 --> 00:01:45,135
+some important skills but there's still a lot more to dive into.
+
+34
+00:01:45,135 --> 00:01:47,020
+You'll learn all the technical details of
+
+35
+00:01:47,020 --> 00:01:49,575
+the components and processes that we've covered.
+
+36
+00:01:49,575 --> 00:01:52,840
+You'll learn exactly how information is routed across the internet.
+
+37
+00:01:52,840 --> 00:01:57,180
+You'll learn how to set up and support networks large and small.
+
+38
+00:01:57,180 --> 00:01:59,200
+Not only that, you'll learn how to navigate
+
+39
+00:01:59,200 --> 00:02:01,915
+Windows and Linux operating systems like a pro.
+
+40
+00:02:01,915 --> 00:02:04,630
+Before too long, you'll be able to manage a fleet of
+
+41
+00:02:04,630 --> 00:02:08,160
+computers and administer them using industry best practices.
+
+42
+00:02:08,160 --> 00:02:11,290
+You'll even learn how to automate some of these processes.
+
+43
+00:02:11,290 --> 00:02:14,080
+Finally, you'll learn how to keep everything you've built safe and
+
+44
+00:02:14,080 --> 00:02:18,040
+secure using industry standards for computer security.
+
+45
+00:02:18,040 --> 00:02:20,740
+So, welcome to the world of IT support.
+
+46
+00:02:20,740 --> 00:02:23,380
+There's so much more exciting stuff coming up.
+
+47
+00:02:23,380 --> 00:02:25,000
+So, let's get to it.

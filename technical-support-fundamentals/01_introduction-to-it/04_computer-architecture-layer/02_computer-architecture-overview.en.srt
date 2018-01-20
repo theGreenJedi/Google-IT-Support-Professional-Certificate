@@ -1,0 +1,254 @@
+1
+00:00:11,913 --> 00:00:15,978
+In the last video I mentioned that people
+don't need to understand how a computer
+
+2
+00:00:15,978 --> 00:00:20,390
+works for them to use it, because
+abstraction makes things simpler for us.
+
+3
+00:00:20,390 --> 00:00:24,300
+That's technically true, but since
+you're stepping into the world of IT,
+
+4
+00:00:24,300 --> 00:00:27,990
+you do need to understand all the layers
+of a computer and how they work.
+
+5
+00:00:27,990 --> 00:00:31,220
+It's essential that you understand
+how the different pieces interact so
+
+6
+00:00:31,220 --> 00:00:33,445
+you can resolve any issue that may arise.
+
+7
+00:00:33,445 --> 00:00:36,417
+For the rest of this course we'll
+deep dive into the layers of
+
+8
+00:00:36,417 --> 00:00:40,045
+computer architecture, and learn all
+the parts that make up a computer.
+
+9
+00:00:40,045 --> 00:00:43,147
+A computer can be cut into
+four main layers, hardware,
+
+10
+00:00:43,147 --> 00:00:46,000
+operating system, software, and users.
+
+11
+00:00:46,000 --> 00:00:49,710
+The hardware layer is made up of
+the physical components of a computer.
+
+12
+00:00:49,710 --> 00:00:52,140
+These are objects you can
+physically hold in your hand.
+
+13
+00:00:52,140 --> 00:00:56,570
+Laptops, phones, monitors,
+keyboards, you get the idea.
+
+14
+00:00:56,570 --> 00:00:59,630
+In the next lesson you'll learn all
+of the components of the computer and
+
+15
+00:00:59,630 --> 00:01:00,832
+how they work.
+
+16
+00:01:00,832 --> 00:01:04,080
+You'll even be able to build your own
+computer by the end of this module.
+
+17
+00:01:04,080 --> 00:01:07,540
+The operating system allows hardware
+to communicate with the system.
+
+18
+00:01:07,540 --> 00:01:10,610
+Hardware is created by many
+different manufacturers.
+
+19
+00:01:10,610 --> 00:01:13,630
+The operating system allows them
+to be used with our system,
+
+20
+00:01:13,630 --> 00:01:16,020
+regardless of where it came from.
+
+21
+00:01:16,020 --> 00:01:19,150
+In the next few lessons, you'll learn
+about the major operating systems
+
+22
+00:01:19,150 --> 00:01:21,670
+that we use today, and
+you'll be able to understand
+
+23
+00:01:21,670 --> 00:01:24,930
+all of the underlying components
+that make up an operating system.
+
+24
+00:01:24,930 --> 00:01:28,580
+By the end of these lessons, you'll have
+a strong grasp on the major components of
+
+25
+00:01:28,580 --> 00:01:31,740
+any operating system,
+like Android or Windows, and
+
+26
+00:01:31,740 --> 00:01:34,790
+use that knowledge to navigate
+any operating system.
+
+27
+00:01:34,790 --> 00:01:38,960
+The software layer is how we as
+humans interact with our computers.
+
+28
+00:01:38,960 --> 00:01:42,360
+When you use a computer, you're given a
+vast amount of software that you interact
+
+29
+00:01:42,360 --> 00:01:46,620
+with, whether it's a mobile app,
+a web browser, a word processor,
+
+30
+00:01:46,620 --> 00:01:49,040
+or the operating system itself.
+
+31
+00:01:49,040 --> 00:01:53,660
+Later in this course, we'll learn how
+software is installed on our systems, and
+
+32
+00:01:53,660 --> 00:01:56,240
+how we interact with
+different types of software.
+
+33
+00:01:56,240 --> 00:01:59,230
+The last layer may not seem like
+it's part of the system, but
+
+34
+00:01:59,230 --> 00:02:03,120
+it's an essential layer of
+the computer architecture, the user.
+
+35
+00:02:03,120 --> 00:02:06,590
+The user interacts with the computer and
+she can do more than that.
+
+36
+00:02:06,590 --> 00:02:10,180
+She can operate, maintain, and
+even program the computer.
+
+37
+00:02:10,180 --> 00:02:13,690
+The user layer is one of the most
+important layers we'll learn about.
+
+38
+00:02:13,690 --> 00:02:16,910
+When you step into the field of IT,
+you may have your hands full with
+
+39
+00:02:16,910 --> 00:02:21,800
+the technical aspects, but the most
+important part of IT is the human element.
+
+40
+00:02:21,800 --> 00:02:25,800
+While we work with computers every day, it
+is the user interaction that makes up most
+
+41
+00:02:25,800 --> 00:02:29,850
+of our job, from responding to user
+emails to fixing their computers.
+
+42
+00:02:29,850 --> 00:02:30,880
+By the end of the course,
+
+43
+00:02:30,880 --> 00:02:34,020
+you'll also learn how to apply your
+knowledge of how a computer works
+
+44
+00:02:34,020 --> 00:02:38,680
+to fix real world issues that can
+sometimes seem random and obscure.
+
+45
+00:02:38,680 --> 00:02:42,910
+We'll do this by learning how to utilize
+problem solving tactics to identify
+
+46
+00:02:42,910 --> 00:02:44,350
+issues and solutions.
+
+47
+00:02:44,350 --> 00:02:45,770
+There's a lot ahead.
+
+48
+00:02:45,770 --> 00:02:49,830
+The next instructor you're going to
+meet is a friend of mine, Devon.
+
+49
+00:02:49,830 --> 00:02:53,080
+And I know there's no better person
+to teach you about hardware.
+
+50
+00:02:53,080 --> 00:02:56,355
+He'll even show you how to build
+a computer from its component parts,
+
+51
+00:02:56,355 --> 00:02:57,810
+pretty cool.
+
+52
+00:02:57,810 --> 00:03:01,143
+But before you get to building that
+computer, we've got a quiz coming up for
+
+53
+00:03:01,143 --> 00:03:02,251
+you on binary counting.

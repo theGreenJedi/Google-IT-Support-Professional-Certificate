@@ -1,0 +1,223 @@
+1
+00:00:11,440 --> 00:00:16,570
+Another effective troubleshooting method is called Follow the cookie crumbs.
+
+2
+00:00:16,570 --> 00:00:17,915
+What purpose does this serve,
+
+3
+00:00:17,915 --> 00:00:20,420
+besides making me want to devour a cookie?
+
+4
+00:00:20,420 --> 00:00:22,460
+Well, this method requires you to go back when
+
+5
+00:00:22,460 --> 00:00:25,890
+the problem first started and work forward from there.
+
+6
+00:00:25,890 --> 00:00:29,532
+You would be surprised how much information you can learn from asking,
+
+7
+00:00:29,532 --> 00:00:32,797
+when did this problem start?
+
+8
+00:00:32,797 --> 00:00:35,400
+Can you help me with my phone,
+
+9
+00:00:35,400 --> 00:00:38,640
+my fun cat app stopped working.
+
+10
+00:00:38,640 --> 00:00:40,306
+Sure.
+
+11
+00:00:40,306 --> 00:00:42,755
+Now what do you mean by stopped working?
+
+12
+00:00:42,755 --> 00:00:44,445
+Well, when I tap on the app,
+
+13
+00:00:44,445 --> 00:00:47,170
+it starts to load and then it crashes.
+
+14
+00:00:47,170 --> 00:00:52,180
+Well, take a look here.
+
+15
+00:00:52,180 --> 00:00:58,155
+Okay, let us try reinstalling the app and see if that helps.
+
+16
+00:00:58,155 --> 00:01:00,785
+It still crashes.
+
+17
+00:01:00,785 --> 00:01:05,330
+I need my fun cat app.
+
+18
+00:01:05,550 --> 00:01:09,195
+Can you help me with my phone,
+
+19
+00:01:09,195 --> 00:01:12,200
+my fun cat app stopped working?
+
+20
+00:01:12,200 --> 00:01:15,830
+Sure, I would be happy to.
+
+21
+00:01:15,830 --> 00:01:19,610
+Can you tell me a little bit more about how it stopped working.
+
+22
+00:01:19,610 --> 00:01:25,375
+Well, when I tap on the app it starts and it just crashes.
+
+23
+00:01:25,375 --> 00:01:27,830
+That is not good. When did it start?
+
+24
+00:01:27,830 --> 00:01:30,320
+Have you changed anything since that time?
+
+25
+00:01:30,320 --> 00:01:33,800
+Well, it worked last night and I was playing around
+
+26
+00:01:33,800 --> 00:01:38,155
+with it until it started to update and this morning it just didn't work.
+
+27
+00:01:38,155 --> 00:01:40,650
+It might have something to do with the update.
+
+28
+00:01:40,650 --> 00:01:44,590
+Let me take a look into it.
+
+29
+00:01:44,590 --> 00:01:46,850
+Okay, it looks like there was a bug in the update.
+
+30
+00:01:46,850 --> 00:01:50,760
+We can roll back to an earlier version and see if that helps.
+
+31
+00:01:50,760 --> 00:01:56,255
+Oh cuddlier peanut, I missed you.
+
+32
+00:01:56,255 --> 00:02:00,140
+The user can give you information about what they remember but
+
+33
+00:02:00,140 --> 00:02:04,250
+the systems you work with can also offer insightful information.
+
+34
+00:02:04,250 --> 00:02:06,770
+In the earlier lessons about operating systems,
+
+35
+00:02:06,770 --> 00:02:08,185
+we talked about logs.
+
+36
+00:02:08,185 --> 00:02:10,805
+Remember that logs are like your system's diary,
+
+37
+00:02:10,805 --> 00:02:14,530
+they keep information about dates and events that happened on the system.
+
+38
+00:02:14,530 --> 00:02:17,060
+You can dig through logs at the exact time that a failure
+
+39
+00:02:17,060 --> 00:02:21,835
+happened and you may find some defining events that could have caused your issue.
+
+40
+00:02:21,835 --> 00:02:25,380
+We will get into logs in more detail in another course.
+
+41
+00:02:25,380 --> 00:02:30,000
+Error messages are super helpful indicators that can point you in the right direction.
+
+42
+00:02:30,000 --> 00:02:33,500
+Lots of times, a single error will be lost in a sea of errors.
+
+43
+00:02:33,500 --> 00:02:38,215
+It is best to start from the very first error which may be causing a cascade of errors.
+
+44
+00:02:38,215 --> 00:02:39,972
+By fixing the root error,
+
+45
+00:02:39,972 --> 00:02:42,800
+you will correct all the other ones in the process.
+
+46
+00:02:42,800 --> 00:02:44,945
+Some errors don't require extra digging,
+
+47
+00:02:44,945 --> 00:02:47,565
+like a 404 not found error.
+
+48
+00:02:47,565 --> 00:02:49,760
+You might see on websites that have been moved or
+
+49
+00:02:49,760 --> 00:02:54,345
+deleted or permission denied error when accessing a protected file.
+
+50
+00:02:54,345 --> 00:02:56,105
+Let's take a look at this log.
+
+51
+00:02:56,105 --> 00:02:58,405
+I see an error message here at the bottom,
+
+52
+00:02:58,405 --> 00:03:02,040
+do you think it makes sense to try and figure out this error message and resolve it?
+
+53
+00:03:02,040 --> 00:03:06,110
+You might find yourself spending all day trying to fix these little holes.
+
+54
+00:03:06,110 --> 00:03:08,540
+Let us backtrack up the log a bit instead.
+
+55
+00:03:08,540 --> 00:03:11,985
+Oh look, we can see where an error first occurred.
+
+56
+00:03:11,985 --> 00:03:15,490
+Let's try to fix this and now our system is not yelling at us anymore.

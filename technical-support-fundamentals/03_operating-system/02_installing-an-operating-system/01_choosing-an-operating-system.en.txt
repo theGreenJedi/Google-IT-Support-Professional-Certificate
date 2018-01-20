@@ -1,0 +1,50 @@
+In the last lesson you learned
+how an operating system boots up. It's an important concept to understand
+since you'll be faced with troubleshooting boot up issues in IT support. Now we're going to walk through the steps
+to select and install an operating system. We're going to focus on operating
+systems in the IT space. First, we'll talk about deciding
+which operating system to install in a business setting. Second, we'll dive into the overall
+process of installing an operating system. So how do you decide which
+operating system to install? Well, you need to ask yourself
+a couple of questions. Has the decision already been made? The operating systems in
+use by an organization have a lot to do with the applications and
+systems that they need to run. Are you working with an organization or service that requires the use
+of a specific operating system? If so, you're done that's easy. If the decision hasn't been made on
+what OS to use, or if you're looking for an operating system for personal use,
+then you need to ask yourself, what software will need
+to be run on this device. In lots of cases, the software will be designed to
+run on a specific operating system. It's also possible that
+the software is cross platform, meaning it can run on more
+than one operating system. Another question to ask is,
+what hardware will be used? Modern operating systems do a pretty
+good job of supporting common hardware. You should keep in mind that
+some manufacturers allow their opperating system to be only
+installed on their hardware. Still a little confused about which
+operating system is best for you or your organization? Check out the supplemental reading
+right after this video to learn more. There's one more thing I should call out. Remember that we have different CPU
+architecture's, 32-bit and 64-bit. Our operating systems will also be
+optimized for this architecture, so make sure that the CPU and
+OS are compatible. If you have a 64-bit CPU, you should also install the 64-bit version
+of the operating system you choose. Okay, now that you've chosen an operating
+system that you want to use, let's work on getting it
+installed on our hardware. Many computers come with
+an operating system pre-installed. If you boot the computer
+in this condition, the operating system will continue from
+whatever point the vendor left it at. You'll need to do a couple of things
+to finish the installation, like choosing a computer name, or host name, or
+configuring the network for the device. There's more, but
+we won't worry about that now. When we walk through an installation
+of an operating system, you'll be able to see this. If you're going to be installing
+an operating system from scratch, you can use different installation media. Some operating system manufacturers sell
+their operating system in disc form or USB form. Some let you do reinstalls
+directly over the internet. As an IT support specialist, you'll
+install an operating system many times, so using one single disk won't be
+time efficient or scalable. Scalability is an important
+concept that we'll cover later. If you want to scale or
+accommodate multiple computers, the added support is something
+you need to keep in mind. For now, you're only working with
+one computer so let's focus on that. Let's just use a USB drive to
+install your operating system. Some OS manufacturers have their own
+special USB drives with the installation image like Windows. For Linux we can load up
+an OS onto any USB drives. You'll see what I mean by that
+in the next couple of videos. See you there.

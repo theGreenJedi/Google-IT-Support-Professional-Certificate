@@ -1,0 +1,135 @@
+1
+00:00:10,840 --> 00:00:13,985
+Now that you know how to install, update,
+
+2
+00:00:13,985 --> 00:00:16,010
+and remove software on Windows,
+
+3
+00:00:16,010 --> 00:00:18,030
+let's do the same for Linux.
+
+4
+00:00:18,030 --> 00:00:20,915
+Let's navigate back to the git download page.
+
+5
+00:00:20,915 --> 00:00:22,595
+Under the Linux page,
+
+6
+00:00:22,595 --> 00:00:26,462
+you'll actually see many different ways to install git.
+
+7
+00:00:26,462 --> 00:00:31,310
+This is because the different Linux distributions use different package installers.
+
+8
+00:00:31,310 --> 00:00:33,230
+Since we're using Ubuntu,
+
+9
+00:00:33,230 --> 00:00:37,295
+we're just going to use this command, apt install git.
+
+10
+00:00:37,295 --> 00:00:41,255
+Apt is the command we use in Ubuntu's package manager.
+
+11
+00:00:41,255 --> 00:00:44,685
+And the install option will let us install something.
+
+12
+00:00:44,685 --> 00:00:48,165
+Let's go ahead and run this in our terminal.
+
+13
+00:00:48,165 --> 00:00:52,025
+We're getting an error that says 'permission denied'.
+
+14
+00:00:52,025 --> 00:00:54,885
+Like Windows, when we install something on a machine,
+
+15
+00:00:54,885 --> 00:00:58,825
+we need to tell the computer that we're authorized to install software.
+
+16
+00:00:58,825 --> 00:01:02,977
+Right now, we can preface this command with another Linux command,
+
+17
+00:01:02,977 --> 00:01:06,575
+sudo, which stands for superuser do.
+
+18
+00:01:06,575 --> 00:01:10,925
+We'll talk more about the details of a Linux administrator in a later course.
+
+19
+00:01:10,925 --> 00:01:13,230
+So much foreshadowing.
+
+20
+00:01:13,230 --> 00:01:14,630
+It asks us for a password,
+
+21
+00:01:14,630 --> 00:01:16,725
+so let's add that in.
+
+22
+00:01:16,725 --> 00:01:18,820
+We're getting a lot of output.
+
+23
+00:01:18,820 --> 00:01:22,515
+We'll talk more about what each of these lines mean in detail soon.
+
+24
+00:01:22,515 --> 00:01:26,890
+It's just asking if we want to continue installing this application and since we do,
+
+25
+00:01:26,890 --> 00:01:29,260
+I'm going to say y and enter.
+
+26
+00:01:29,260 --> 00:01:31,136
+To update a package,
+
+27
+00:01:31,136 --> 00:01:36,230
+you do the exact same thing as we just did and install a newer software version.
+
+28
+00:01:36,230 --> 00:01:38,280
+To remove a package,
+
+29
+00:01:38,280 --> 00:01:41,895
+we could also use a command pretty similar to the install command,
+
+30
+00:01:41,895 --> 00:01:46,780
+except this time, we want to remove a package.
+
+31
+00:01:48,610 --> 00:01:53,665
+This asks us if we want to continue with these changes.
+
+32
+00:01:53,665 --> 00:01:55,620
+Let's go ahead and type y and enter.
+
+33
+00:01:55,620 --> 00:01:58,080
+That's it. Now, you know how to install,
+
+34
+00:01:58,080 --> 00:02:03,000
+update and remove software on Linux and Windows. Nice work.

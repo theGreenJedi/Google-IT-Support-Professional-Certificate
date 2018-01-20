@@ -1,0 +1,259 @@
+1
+00:00:10,780 --> 00:00:15,050
+So, let's take a look at the back of our computer again.
+
+2
+00:00:15,050 --> 00:00:18,050
+Here, you'll see lots of connectors or ports.
+
+3
+00:00:18,050 --> 00:00:21,725
+We can plug in different objects like a mouse,
+
+4
+00:00:21,725 --> 00:00:24,730
+keyboard, and a monitor.
+
+5
+00:00:24,730 --> 00:00:27,475
+These are known as peripherals.
+
+6
+00:00:27,475 --> 00:00:30,190
+A peripheral is basically anything that you connect
+
+7
+00:00:30,190 --> 00:00:33,245
+to your computer externally that adds functionality.
+
+8
+00:00:33,245 --> 00:00:35,650
+You probably used USB devices before.
+
+9
+00:00:35,650 --> 00:00:37,540
+USB, also known as
+
+10
+00:00:37,540 --> 00:00:42,790
+Universal Serial Bus devices are the most popular connections for our gadgets.
+
+11
+00:00:42,790 --> 00:00:46,765
+USB has gone through lots of changes since inception.
+
+12
+00:00:46,765 --> 00:00:49,430
+You most commonly encounter USB 2.0,
+
+13
+00:00:49,430 --> 00:00:52,690
+USB 3.0, and 3.1 in today's system.
+
+14
+00:00:52,690 --> 00:00:55,605
+Here's a quick rundown of the different versions.
+
+15
+00:00:55,605 --> 00:01:00,610
+USB 2.0 transfers speeds of 480 megabytes per second,
+
+16
+00:01:00,610 --> 00:01:05,225
+USB 3.0 transfers speeds of five gigabytes per second,
+
+17
+00:01:05,225 --> 00:01:10,155
+USB 3.1 transfers speeds of 10 gigabytes per second.
+
+18
+00:01:10,155 --> 00:01:13,890
+In the chart, let's pay attention to the details.
+
+19
+00:01:13,890 --> 00:01:18,390
+Using capital M lowercase b forward slash s instead
+
+20
+00:01:18,390 --> 00:01:23,250
+of using capital M capital B to reference transfer speed.
+
+21
+00:01:23,250 --> 00:01:25,350
+These are actually different units.
+
+22
+00:01:25,350 --> 00:01:30,226
+MB is megabyte or unit of data storage,
+
+23
+00:01:30,226 --> 00:01:36,270
+while capital M lower case b forward slash s is a megabit per second,
+
+24
+00:01:36,270 --> 00:01:39,140
+which is a unit of data transfer rate.
+
+25
+00:01:39,140 --> 00:01:43,305
+People often mistake speeds of 40 megabit per second
+
+26
+00:01:43,305 --> 00:01:47,825
+to mean that you can transfer 40 megabytes of data per second.
+
+27
+00:01:47,825 --> 00:01:51,575
+Remember, that one byte is 8 bits,
+
+28
+00:01:51,575 --> 00:01:54,300
+so to transfer a one megabyte file in a
+
+29
+00:01:54,300 --> 00:01:59,265
+second you need an 8 megabits per second connection speed.
+
+30
+00:01:59,265 --> 00:02:03,730
+So, to transfer 40 megabytes of data in a second,
+
+31
+00:02:03,730 --> 00:02:08,645
+you need a transfer speed of 240 megabits per second.
+
+32
+00:02:08,645 --> 00:02:12,780
+You'll also need comparable USB ports to go with your devices.
+
+33
+00:02:12,780 --> 00:02:17,740
+If you connect a USB 2.0 device into a USB 3.0 port,
+
+34
+00:02:17,740 --> 00:02:20,185
+you won't get 3.0 transfer speeds.
+
+35
+00:02:20,185 --> 00:02:23,774
+But you can still use the port since it's backward compatible,
+
+36
+00:02:23,774 --> 00:02:27,115
+meaning older hardware work with newer hardware.
+
+37
+00:02:27,115 --> 00:02:29,960
+The ports are easy to differentiate. Let me show you.
+
+38
+00:02:29,960 --> 00:02:38,055
+In general, USB 2.0 are black and USB 3.0 are blue and 3.1 ports are teal.
+
+39
+00:02:38,055 --> 00:02:42,075
+This may change depending on manufacturers.
+
+40
+00:02:42,075 --> 00:02:44,405
+There are lots of types of USB connectors,
+
+41
+00:02:44,405 --> 00:02:48,555
+and you can read about all of them in the supplemental reading right after this video.
+
+42
+00:02:48,555 --> 00:02:51,405
+Check it out. Back to USB connectors.
+
+43
+00:02:51,405 --> 00:02:52,730
+The most recent one is
+
+44
+00:02:52,730 --> 00:02:58,165
+the type C connector which is meant to replace many peripheral connections.
+
+45
+00:02:58,165 --> 00:03:03,115
+It's quickly becoming a universal standard for display and data transfer.
+
+46
+00:03:03,115 --> 00:03:04,875
+In addition to USB peripherals,
+
+47
+00:03:04,875 --> 00:03:07,870
+you should also be aware of display peripherals.
+
+48
+00:03:07,870 --> 00:03:10,270
+There are some common inputs standards to know.
+
+49
+00:03:10,270 --> 00:03:13,810
+Most computer monitors will have one or more of these connections,
+
+50
+00:03:13,810 --> 00:03:16,255
+but you might encounter some older standards too.
+
+51
+00:03:16,255 --> 00:03:20,565
+DVI. DVI cables generally just output video.
+
+52
+00:03:20,565 --> 00:03:22,980
+If you need to hook up a monitor or projector for
+
+53
+00:03:22,980 --> 00:03:26,990
+a slide presentation and you want audio too, you may be out of luck.
+
+54
+00:03:26,990 --> 00:03:30,610
+Instead, you want to look at one of the following cables.
+
+55
+00:03:30,610 --> 00:03:34,230
+HDMI. This has become a standard in lots of televisions
+
+56
+00:03:34,230 --> 00:03:38,660
+and computers nowadays and outputs both video and audio.
+
+57
+00:03:38,660 --> 00:03:41,580
+Another standard that's become popular among manufacturers is
+
+58
+00:03:41,580 --> 00:03:45,930
+a displayPort which also outputs audio and video.
+
+59
+00:03:45,930 --> 00:03:47,525
+In addition to audio and video,
+
+60
+00:03:47,525 --> 00:03:51,785
+USB type C can also do data transfer and power.
+
+61
+00:03:51,785 --> 00:03:54,185
+As an IT support specialist,
+
+62
+00:03:54,185 --> 00:03:58,800
+you'll work with peripherals like USB devices and display devices a lot.
+
+63
+00:03:58,800 --> 00:04:01,505
+Now, you'll be able to distinguish between the major types.
+
+64
+00:04:01,505 --> 00:04:02,880
+In the next lesson,
+
+65
+00:04:02,880 --> 00:04:07,860
+we're going to learn how our computer initializes all of the hardware we talked about.

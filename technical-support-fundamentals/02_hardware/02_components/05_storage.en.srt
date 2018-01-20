@@ -1,0 +1,348 @@
+1
+00:00:12,068 --> 00:00:15,770
+So, before we get into computer storage,
+we need to fill in some gaps.
+
+2
+00:00:15,770 --> 00:00:19,460
+I'm referring to things like gigabytes,
+bits, etc.
+
+3
+00:00:19,460 --> 00:00:23,070
+But we actually haven't talked at
+all about what those metrics mean.
+
+4
+00:00:23,070 --> 00:00:26,050
+Sorry, I kind of get
+a bit ahead of myself.
+
+5
+00:00:26,050 --> 00:00:29,580
+As you might have guessed,
+these terms refer to data sizes.
+
+6
+00:00:29,580 --> 00:00:32,840
+The smallest unit of
+a data storage is a bit.
+
+7
+00:00:32,840 --> 00:00:37,410
+A bit can store one binary digit,
+so it can store a one or zero.
+
+8
+00:00:37,410 --> 00:00:42,840
+The next largest unit of storage is called
+a byte, which is comprised of 8 bits.
+
+9
+00:00:42,840 --> 00:00:46,330
+A single byte can hold a letter,
+number or symbol.
+
+10
+00:00:46,330 --> 00:00:49,650
+The next largest unit is
+refer to as kibibyte, but
+
+11
+00:00:49,650 --> 00:00:52,110
+we typically use the term kilobyte.
+
+12
+00:00:53,330 --> 00:00:57,329
+A kilobyte is made up of 1,024 bytes.
+
+13
+00:00:57,329 --> 00:01:02,114
+If you're curious why 1 kilobyte refers
+to as 1,024 bytes and not 1,000 bytes,
+
+14
+00:01:02,114 --> 00:01:05,425
+you can read more about that in
+the next supplemental reading.
+
+15
+00:01:05,425 --> 00:01:07,936
+For now,
+here's a quick data conversion chart.
+
+16
+00:01:10,362 --> 00:01:13,305
+How much does 500 gigabytes even mean?
+
+17
+00:01:13,305 --> 00:01:15,630
+Let's take a look at the size
+of an average music file,
+
+18
+00:01:15,630 --> 00:01:17,950
+which is about three megabytes.
+
+19
+00:01:17,950 --> 00:01:23,010
+On a 500 gigabyte machine,
+that's approximately 165,000 music files.
+
+20
+00:01:23,010 --> 00:01:24,650
+That's a lot of music.
+
+21
+00:01:24,650 --> 00:01:28,114
+We store all of our computer's
+data on our hard drive,
+
+22
+00:01:28,114 --> 00:01:32,272
+which allows us to store our programs,
+music, pictures, etc.
+
+23
+00:01:32,272 --> 00:01:34,495
+Have you ever had an issue
+with your computer and
+
+24
+00:01:34,495 --> 00:01:37,070
+lost all the data that
+was on your hard drive?
+
+25
+00:01:37,070 --> 00:01:39,270
+Yeah, me too, it was the worst.
+
+26
+00:01:39,270 --> 00:01:40,860
+This actually happens a lot and
+
+27
+00:01:40,860 --> 00:01:43,910
+you'll probably encounter it
+as an IT support specialist.
+
+28
+00:01:43,910 --> 00:01:46,910
+Make sure you backup your data to be safe.
+
+29
+00:01:46,910 --> 00:01:50,330
+This means you should copy or
+save your data somewhere else,
+
+30
+00:01:50,330 --> 00:01:53,350
+just in case something goes wrong and
+your hard drive crashes.
+
+31
+00:01:53,350 --> 00:01:55,660
+That way, you won't lose all your data.
+
+32
+00:01:55,660 --> 00:01:58,740
+There are two basic hard
+drive types used today.
+
+33
+00:01:58,740 --> 00:02:01,790
+Hard disk drives, or HDDs,
+use a spinning platter and
+
+34
+00:02:01,790 --> 00:02:04,760
+a mechanical arm to read and
+write information.
+
+35
+00:02:04,760 --> 00:02:09,660
+The speed that the platter rotate allows
+you to read and write data faster.
+
+36
+00:02:09,660 --> 00:02:15,140
+This is commonly referred to as RPM,
+or revolution per minute.
+
+37
+00:02:15,140 --> 00:02:19,210
+A hard drive with a higher RPM is faster,
+so if you go out and buy a hard
+
+38
+00:02:19,210 --> 00:02:24,625
+drive today, you might see something
+like a 500 gigabyte with 5400 RPM.
+
+39
+00:02:24,625 --> 00:02:29,210
+HDDs are prone to a lot more damage
+because there are a lot of moving parts.
+
+40
+00:02:29,210 --> 00:02:33,740
+This susceptibility to damage went
+away with a new type of storage called
+
+41
+00:02:33,740 --> 00:02:37,290
+solid state drive, or SSD.
+
+42
+00:02:37,290 --> 00:02:39,530
+SSDs have no moving parts.
+
+43
+00:02:39,530 --> 00:02:41,680
+Are you familiar with a USB stick?
+
+44
+00:02:41,680 --> 00:02:43,950
+SSDs are created in a similar way.
+
+45
+00:02:43,950 --> 00:02:49,120
+The information is stored on microchips
+and data travels a lot faster than HDDs.
+
+46
+00:02:49,120 --> 00:02:54,840
+The form factor for SSDs is also
+slimmer compared to their HDD cousins.
+
+47
+00:02:54,840 --> 00:02:56,170
+Sounds great, doesn't it?
+
+48
+00:02:56,170 --> 00:02:58,470
+So why doesn't everyone use SSDs?
+
+49
+00:02:58,470 --> 00:03:00,940
+Well, both have their pros and cons.
+
+50
+00:03:00,940 --> 00:03:05,350
+HDDs are more affordable, but
+they're more prone to damage.
+
+51
+00:03:05,350 --> 00:03:08,300
+SSDs are less risky when it
+comes to losing data, but
+
+52
+00:03:08,300 --> 00:03:10,580
+they're also more expensive.
+
+53
+00:03:10,580 --> 00:03:15,990
+So you may not buy as much memory storage
+in SSDs than what you can get in HDDs.
+
+54
+00:03:15,990 --> 00:03:20,610
+Believe it or not, there are even
+hybrid SSD and HDD drives out there.
+
+55
+00:03:20,610 --> 00:03:22,730
+They offer SSD performance
+where you need it.
+
+56
+00:03:22,730 --> 00:03:25,690
+For things like system performance,
+such as booting your computer,
+
+57
+00:03:25,690 --> 00:03:29,990
+along with hard disk drives for less
+important stuff, like basic file storage.
+
+58
+00:03:29,990 --> 00:03:33,580
+There are a few interfaces that hard
+drives use to connect to our system.
+
+59
+00:03:33,580 --> 00:03:36,810
+ATA interfaces are the most common ones.
+
+60
+00:03:36,810 --> 00:03:40,050
+The most popular ATA
+drive is a serial ATA,
+
+61
+00:03:40,050 --> 00:03:44,755
+or SATA, which uses one cable for
+data transfers.
+
+62
+00:03:44,755 --> 00:03:46,405
+SATA drives are hot swappable.
+
+63
+00:03:46,405 --> 00:03:47,675
+Great term, don't you think?
+
+64
+00:03:47,675 --> 00:03:51,155
+It means you don't have to turn off
+your machine to plug in a SATA drive.
+
+65
+00:03:51,155 --> 00:03:55,032
+SATA drives move data faster and
+use a more efficient cable, like this one,
+
+66
+00:03:55,032 --> 00:03:56,755
+than it's predecessors.
+
+67
+00:03:56,755 --> 00:04:00,460
+SATA has been the de facto interface for
+HDDs today.
+
+68
+00:04:00,460 --> 00:04:04,740
+But people quickly found that using
+a SATA cable wasn't good enough for
+
+69
+00:04:04,740 --> 00:04:08,600
+some of the blazing fast SSDs
+that were coming on the market.
+
+70
+00:04:08,600 --> 00:04:12,250
+The interface couldn't keep up
+with speed of the newest SSDs.
+
+71
+00:04:12,250 --> 00:04:17,650
+So another interface standard was
+created called NVM Express, or NVMe.
+
+72
+00:04:18,670 --> 00:04:21,340
+Instead of using a cable to connect
+your drive to your machine,
+
+73
+00:04:21,340 --> 00:04:24,380
+the drive was added as an expansion slot,
+which allows for
+
+74
+00:04:24,380 --> 00:04:26,740
+greater throughput of data and
+increased efficiency.

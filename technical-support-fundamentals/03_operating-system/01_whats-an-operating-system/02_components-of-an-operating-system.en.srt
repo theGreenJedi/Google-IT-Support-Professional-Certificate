@@ -1,0 +1,487 @@
+1
+00:00:10,750 --> 00:00:15,095
+We introduced the concept of an operating system in earlier lessons.
+
+2
+00:00:15,095 --> 00:00:16,585
+But what is it exactly?
+
+3
+00:00:16,585 --> 00:00:20,000
+A lot of us hear the term operating system and think of the interfaces of
+
+4
+00:00:20,000 --> 00:00:24,110
+our desktops and phones like the menus, buttons, and backgrounds.
+
+5
+00:00:24,110 --> 00:00:26,580
+Technically, these are part of the operating system,
+
+6
+00:00:26,580 --> 00:00:28,840
+but it's a little more complex than that.
+
+7
+00:00:28,840 --> 00:00:31,670
+An operating system is the whole package that manages
+
+8
+00:00:31,670 --> 00:00:34,870
+our computers resources and lets us interact with it.
+
+9
+00:00:34,870 --> 00:00:36,920
+There are two main parts to an operating system,
+
+10
+00:00:36,920 --> 00:00:39,135
+the kernel and the user space.
+
+11
+00:00:39,135 --> 00:00:42,435
+The kernel is the main core of an operating system.
+
+12
+00:00:42,435 --> 00:00:46,385
+It talks directly to our hardware and manages our systems resources.
+
+13
+00:00:46,385 --> 00:00:49,540
+As users, we don't interact with the kernel directly.
+
+14
+00:00:49,540 --> 00:00:53,935
+Instead, we interact with the second part of an operating system the, user space.
+
+15
+00:00:53,935 --> 00:00:58,345
+The user space is basically made up of everything outside the kernel.
+
+16
+00:00:58,345 --> 00:01:00,450
+The users thinks that we interact with directly
+
+17
+00:01:00,450 --> 00:01:03,175
+like system programs, user interfaces, etcetera.
+
+18
+00:01:03,175 --> 00:01:04,660
+When we say operating system,
+
+19
+00:01:04,660 --> 00:01:07,500
+we're talking about both the kernel and the user space.
+
+20
+00:01:07,500 --> 00:01:09,660
+There are hundreds of operating systems out there,
+
+21
+00:01:09,660 --> 00:01:11,244
+but we'll focus on the major ones used in IT;
+
+22
+00:01:11,244 --> 00:01:14,220
+Windows, Mac, and Linux.
+
+23
+00:01:14,220 --> 00:01:16,425
+The Windows OS is developed by Microsoft
+
+24
+00:01:16,425 --> 00:01:19,350
+and used widely in the business and consumer space.
+
+25
+00:01:19,350 --> 00:01:23,200
+Most PCs you buy come with windows as the default operating system.
+
+26
+00:01:23,200 --> 00:01:25,080
+PC means personal computer,
+
+27
+00:01:25,080 --> 00:01:28,170
+which technically means a computer that one person uses.
+
+28
+00:01:28,170 --> 00:01:32,700
+But in today's world, PC is more commonly referred to as a Windows computer.
+
+29
+00:01:32,700 --> 00:01:36,255
+So, we'll just refer to a PC as a Windows computer from here.
+
+30
+00:01:36,255 --> 00:01:37,740
+The Mac OS by Apple,
+
+31
+00:01:37,740 --> 00:01:39,845
+is mainly used in the consumer space.
+
+32
+00:01:39,845 --> 00:01:41,370
+If you buy an Apple computer,
+
+33
+00:01:41,370 --> 00:01:43,170
+it'll come with Mac OS preloaded.
+
+34
+00:01:43,170 --> 00:01:47,310
+The last operating system we'll dive into is the Linux operating system.
+
+35
+00:01:47,310 --> 00:01:49,920
+Linux is an open source operating system,
+
+36
+00:01:49,920 --> 00:01:53,580
+which means its software is free to share, modify, and distribute.
+
+37
+00:01:53,580 --> 00:01:58,590
+Linux is used heavily in business infrastructure and in the consumer space.
+
+38
+00:01:58,590 --> 00:02:02,655
+Linux itself is actually a kernel developed by Linus Torvalds.
+
+39
+00:02:02,655 --> 00:02:04,195
+Because of the way it evolved,
+
+40
+00:02:04,195 --> 00:02:06,780
+we call the Linux kernel the Linux operating system.
+
+41
+00:02:06,780 --> 00:02:09,870
+Today, Linux has become a huge community effort with
+
+42
+00:02:09,870 --> 00:02:12,990
+developers all over the world contributing to its success.
+
+43
+00:02:12,990 --> 00:02:14,540
+Because Linux is open source,
+
+44
+00:02:14,540 --> 00:02:17,610
+lots of different organizations package their own version of it.
+
+45
+00:02:17,610 --> 00:02:20,805
+Operating systems like Windows or Macintosh on the other hand,
+
+46
+00:02:20,805 --> 00:02:23,955
+are solely developed by their respective companies.
+
+47
+00:02:23,955 --> 00:02:27,750
+We call these different Linux OSes distributions.
+
+48
+00:02:27,750 --> 00:02:30,690
+Some common Linux distributions are Ubuntu,
+
+49
+00:02:30,690 --> 00:02:32,415
+Debian, and Red Hat.
+
+50
+00:02:32,415 --> 00:02:36,780
+Another operating system that has started to gain popularity is Chrome OS,
+
+51
+00:02:36,780 --> 00:02:39,020
+but we won't go into detail on that one.
+
+52
+00:02:39,020 --> 00:02:42,240
+You can read more about it in the supplemental reading right after this video.
+
+53
+00:02:42,240 --> 00:02:43,800
+We also won't go over any of
+
+54
+00:02:43,800 --> 00:02:47,220
+the operating systems used in mobile devices like Android OS,
+
+55
+00:02:47,220 --> 00:02:49,345
+iOS, and Windows 10 mobile.
+
+56
+00:02:49,345 --> 00:02:52,680
+But you should be aware that mobile phone operating systems are
+
+57
+00:02:52,680 --> 00:02:56,265
+quickly overtaking their desktop counterparts in terms of quantity.
+
+58
+00:02:56,265 --> 00:03:00,795
+Mobile phone usage around the world is more prevalent than desktop computers.
+
+59
+00:03:00,795 --> 00:03:03,220
+You can read more about this in a supplemental reading.
+
+60
+00:03:03,220 --> 00:03:06,720
+But in this course, we're only going to focus on the Windows and Linux
+
+61
+00:03:06,720 --> 00:03:10,615
+operating systems since you'll most likely work with them in IT support.
+
+62
+00:03:10,615 --> 00:03:12,840
+One cool thing to call out is that Chrome OS and
+
+63
+00:03:12,840 --> 00:03:15,870
+Android OS both run the Linux kernel underneath the hood.
+
+64
+00:03:15,870 --> 00:03:19,335
+So, there's a chance you've already worked with Linux and don't even know it.
+
+65
+00:03:19,335 --> 00:03:23,705
+There are lots of operating systems out there and they all share common characteristics.
+
+66
+00:03:23,705 --> 00:03:26,940
+If you're able to understand the basic building blocks of one OS,
+
+67
+00:03:26,940 --> 00:03:30,980
+you can apply that to any operating system and understand how it works.
+
+68
+00:03:30,980 --> 00:03:33,150
+In IT support, it's super common to work with
+
+69
+00:03:33,150 --> 00:03:37,740
+many different operating systems from desktop OSes to smartphone OSes and more.
+
+70
+00:03:37,740 --> 00:03:39,090
+Throughout the rest of this module,
+
+71
+00:03:39,090 --> 00:03:41,615
+we're going to learn what an operating system is.
+
+72
+00:03:41,615 --> 00:03:43,290
+More specifically, we're going to learn about
+
+73
+00:03:43,290 --> 00:03:45,955
+the two components that make up an operating system,
+
+74
+00:03:45,955 --> 00:03:48,075
+the kernel space and the user space.
+
+75
+00:03:48,075 --> 00:03:51,000
+Before we get there, let's do a rundown of the basics.
+
+76
+00:03:51,000 --> 00:03:53,940
+The kernel does file storage in file management.
+
+77
+00:03:53,940 --> 00:03:57,000
+You can compare it to a physical office file where we store data in paper form.
+
+78
+00:03:57,000 --> 00:04:02,100
+A computer file is just data that we store and a file can be anything,
+
+79
+00:04:02,100 --> 00:04:03,485
+a word document, a picture,
+
+80
+00:04:03,485 --> 00:04:05,505
+a song, literally anything.
+
+81
+00:04:05,505 --> 00:04:09,660
+A file system is how we manage these files just like in an office,
+
+82
+00:04:09,660 --> 00:04:12,000
+we use a system to store our files.
+
+83
+00:04:12,000 --> 00:04:14,280
+We don't just put all our files on one cabinet,
+
+84
+00:04:14,280 --> 00:04:16,500
+that would be seriously messy.
+
+85
+00:04:16,500 --> 00:04:22,005
+Instead, we organize those files in folders or directories to make them easier to find.
+
+86
+00:04:22,005 --> 00:04:24,690
+There are lots of different types of file systems,
+
+87
+00:04:24,690 --> 00:04:27,030
+which we'll cover more in depth in future videos.
+
+88
+00:04:27,030 --> 00:04:31,550
+Another important function of the kernel is process management.
+
+89
+00:04:31,550 --> 00:04:33,863
+We have many programs that we want to run on our system.
+
+90
+00:04:33,863 --> 00:04:37,020
+To run them, we manage the order they run in,
+
+91
+00:04:37,020 --> 00:04:39,120
+how many resources they take up,
+
+92
+00:04:39,120 --> 00:04:40,815
+how long they run, etcetera.
+
+93
+00:04:40,815 --> 00:04:45,360
+Our kernel helps us do this with its process management capabilities.
+
+94
+00:04:45,360 --> 00:04:49,285
+For example, you've probably used your computer to do several tasks at once.
+
+95
+00:04:49,285 --> 00:04:53,385
+Maybe you write in a text document while listening to music or playing a video.
+
+96
+00:04:53,385 --> 00:04:57,895
+The process scheduler is part of the kernel that makes this multitasking possible.
+
+97
+00:04:57,895 --> 00:05:02,715
+It switches the execution of each different process on the CPU faster than you can blink,
+
+98
+00:05:02,715 --> 00:05:06,270
+and it gives you the illusion that things are happening simultaneously.
+
+99
+00:05:06,270 --> 00:05:08,120
+Next up is memory management.
+
+100
+00:05:08,120 --> 00:05:10,590
+Our kernel optimizes memory usage and make
+
+101
+00:05:10,590 --> 00:05:13,515
+sure our applications have enough memory to run.
+
+102
+00:05:13,515 --> 00:05:15,475
+We won't get into too much detail right now,
+
+103
+00:05:15,475 --> 00:05:18,460
+so stay tuned for more on this in the next few videos.
+
+104
+00:05:18,460 --> 00:05:24,070
+The last important function that a kernel performs is input/output or I/O management.
+
+105
+00:05:24,070 --> 00:05:26,955
+This is how our kernel talks to external devices like disks,
+
+106
+00:05:26,955 --> 00:05:30,300
+keyboards, networks, connections, audio devices, and more.
+
+107
+00:05:30,300 --> 00:05:36,975
+I/O management is anything that can give us input or that we can use for output of data.
+
+108
+00:05:36,975 --> 00:05:39,005
+If you've ever saved a file to disk,
+
+109
+00:05:39,005 --> 00:05:40,200
+click the mouse button,
+
+110
+00:05:40,200 --> 00:05:43,305
+or use a microphone when video chatting with a friend,
+
+111
+00:05:43,305 --> 00:05:46,265
+you've got the kernel's ability to manage I/O to thank.
+
+112
+00:05:46,265 --> 00:05:49,575
+And that's the basic rundown of the main functions of the kernel;
+
+113
+00:05:49,575 --> 00:05:52,110
+file management, process management,
+
+114
+00:05:52,110 --> 00:05:54,330
+memory management, and I/O management.
+
+115
+00:05:54,330 --> 00:05:59,000
+Finally, we'll talk about the other component of an operating system, the user space.
+
+116
+00:05:59,000 --> 00:06:01,675
+The user space is everything outside the kernel.
+
+117
+00:06:01,675 --> 00:06:04,540
+These are the things that we interact with directly like programs,
+
+118
+00:06:04,540 --> 00:06:06,700
+such as text editors, music players,
+
+119
+00:06:06,700 --> 00:06:09,275
+system settings, user interfaces, etcetera.
+
+120
+00:06:09,275 --> 00:06:11,230
+By the end of this module, you'll hopefully have
+
+121
+00:06:11,230 --> 00:06:14,975
+a solid understanding of all of these functions of an operating system.
+
+122
+00:06:14,975 --> 00:06:19,000
+Let's start by taking a deeper dive into the kernel's file management.

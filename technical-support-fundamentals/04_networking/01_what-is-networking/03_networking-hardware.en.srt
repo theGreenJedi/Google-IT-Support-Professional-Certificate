@@ -1,0 +1,279 @@
+1
+00:00:11,160 --> 00:00:14,050
+Now that we understand what networks are,
+
+2
+00:00:14,050 --> 00:00:16,120
+let's talk about how they're connected.
+
+3
+00:00:16,120 --> 00:00:19,270
+There are a lot of ways you can connect computers to a network.
+
+4
+00:00:19,270 --> 00:00:22,270
+We'll only cover a few of the major ones in this course.
+
+5
+00:00:22,270 --> 00:00:24,736
+First, there is an Ethernet cable,
+
+6
+00:00:24,736 --> 00:00:28,225
+which lets you physically connect to the network through a cable.
+
+7
+00:00:28,225 --> 00:00:31,003
+On the back of the desktop we worked in the previous lessons,
+
+8
+00:00:31,003 --> 00:00:34,810
+there's a network port that you plug your Ethernet cable into.
+
+9
+00:00:34,810 --> 00:00:37,435
+Another way to connect to a network is through Wi-Fi,
+
+10
+00:00:37,435 --> 00:00:39,355
+which is wireless networking.
+
+11
+00:00:39,355 --> 00:00:43,795
+Most modern computing systems have wireless capabilities like mobile phones,
+
+12
+00:00:43,795 --> 00:00:45,940
+smart televisions and laptops.
+
+13
+00:00:45,940 --> 00:00:49,390
+We connect to wireless networks through radios and antennas.
+
+14
+00:00:49,390 --> 00:00:53,980
+The last method will go over uses fiber optic cables to connect to a network.
+
+15
+00:00:53,980 --> 00:00:55,780
+This is the most expensive method since
+
+16
+00:00:55,780 --> 00:00:59,530
+fiber optic cables allow greater speeds than all the other methods.
+
+17
+00:00:59,530 --> 00:01:01,420
+Fiber optic gets its name,
+
+18
+00:01:01,420 --> 00:01:04,030
+because the cables contain glass fibers that
+
+19
+00:01:04,030 --> 00:01:07,540
+move data through light instead of electricity.
+
+20
+00:01:07,540 --> 00:01:09,970
+This means that we send ones and zeros
+
+21
+00:01:09,970 --> 00:01:12,505
+through a beam of light instead of an electrical current,
+
+22
+00:01:12,505 --> 00:01:13,900
+through a copper wire.
+
+23
+00:01:13,900 --> 00:01:15,149
+How cool is that?
+
+24
+00:01:15,149 --> 00:01:17,905
+But our cables have to connect to something.
+
+25
+00:01:17,905 --> 00:01:20,380
+We don't just have millions of cables going in and out
+
+26
+00:01:20,380 --> 00:01:22,857
+of computers to connect them together,
+
+27
+00:01:22,857 --> 00:01:24,640
+instead, computers connect to
+
+28
+00:01:24,640 --> 00:01:28,210
+a few different devices that help organize our network together.
+
+29
+00:01:28,210 --> 00:01:31,345
+The first device that your computer connects to is a router.
+
+30
+00:01:31,345 --> 00:01:36,265
+A router connects lots of different devices together and helps route network traffic.
+
+31
+00:01:36,265 --> 00:01:38,950
+Let's say we have four computers, A, B,
+
+32
+00:01:38,950 --> 00:01:44,020
+C and D, connected together through a router in the same network.
+
+33
+00:01:44,020 --> 00:01:47,315
+You want to send a file from Computer A to Computer B.
+
+34
+00:01:47,315 --> 00:01:52,585
+Our packets go through the router and the router utilizes network protocols,
+
+35
+00:01:52,585 --> 00:01:54,980
+to help determine where to send the packet.
+
+36
+00:01:54,980 --> 00:01:57,385
+We'll cover network protocols in the next video.
+
+37
+00:01:57,385 --> 00:02:00,235
+For now, just know that our router uses a set
+
+38
+00:02:00,235 --> 00:02:03,840
+of rules to figure out where to send our data.
+
+39
+00:02:03,840 --> 00:02:07,935
+So, now our packet gets routed from Computer A to Computer B.
+
+40
+00:02:07,935 --> 00:02:12,940
+What if you wanted to send a packet to a computer not in our network?
+
+41
+00:02:12,940 --> 00:02:17,480
+What if we wanted to send a packet to our friend Alejandro's computer.
+
+42
+00:02:17,480 --> 00:02:20,675
+Alejandro is on a different network altogether.
+
+43
+00:02:20,675 --> 00:02:24,230
+Fortunately, our router knows how to handle that too.
+
+44
+00:02:24,230 --> 00:02:28,525
+The packet will get routed outsider network to our ISP's network.
+
+45
+00:02:28,525 --> 00:02:33,565
+Using networking protocols, it's able to figure out where Alejandro's computer is.
+
+46
+00:02:33,565 --> 00:02:36,440
+During this process, our packet is traveling
+
+47
+00:02:36,440 --> 00:02:39,910
+across many different routers switches and hubs.
+
+48
+00:02:39,910 --> 00:02:44,410
+Switches and hubs are also devices that help our data travel.
+
+49
+00:02:44,410 --> 00:02:46,945
+Think of switches like mailrooms in a building.
+
+50
+00:02:46,945 --> 00:02:49,526
+Routers get our letters to the building.
+
+51
+00:02:49,526 --> 00:02:50,965
+But once we're inside,
+
+52
+00:02:50,965 --> 00:02:54,355
+we use the mailroom to figure out where to send a letter.
+
+53
+00:02:54,355 --> 00:02:56,870
+Hubs are like company memos.
+
+54
+00:02:56,870 --> 00:02:59,020
+They don't know who to send the memo to,
+
+55
+00:02:59,020 --> 00:03:00,565
+so they send it to everyone.
+
+56
+00:03:00,565 --> 00:03:03,385
+Working with network devices is important to understand,
+
+57
+00:03:03,385 --> 00:03:05,650
+because it's likely that one day you'll have
+
+58
+00:03:05,650 --> 00:03:08,245
+users reporting problems accessing the Internet.
+
+59
+00:03:08,245 --> 00:03:11,230
+You want to investigate your way up the network stack.
+
+60
+00:03:11,230 --> 00:03:15,400
+A technologies stack, in this case a network stack is
+
+61
+00:03:15,400 --> 00:03:20,035
+just a set of hardware or software that provides the infrastructure for a computer.
+
+62
+00:03:20,035 --> 00:03:25,060
+So, the networks stack is all the components that makes up computer networking.
+
+63
+00:03:25,060 --> 00:03:27,805
+You might need to investigate the networks stack and your job.
+
+64
+00:03:27,805 --> 00:03:31,795
+You'd start with making sure the end user computers are working properly.
+
+65
+00:03:31,795 --> 00:03:36,070
+Then you'd turn your attention to other possible points of failure like the cabling,
+
+66
+00:03:36,070 --> 00:03:39,740
+switches and routers, that work together to access the Internet.
+
+67
+00:03:39,740 --> 00:03:41,525
+We'll dive a little deeper into
+
+68
+00:03:41,525 --> 00:03:44,105
+the different networking devices in the Networking course.
+
+69
+00:03:44,105 --> 00:03:46,960
+For now, let's route ourself to the next lesson,
+
+70
+00:03:46,960 --> 00:03:48,330
+the language of the Internet.

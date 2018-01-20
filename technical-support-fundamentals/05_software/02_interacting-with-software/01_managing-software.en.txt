@@ -1,0 +1,39 @@
+Programs, software, and applications, are
+terms that are synonymous with each other. For now we'll go ahead and use the term
+software to refer to any of these. We've already had a rundown of
+the different types of software. There are certain types of software
+that perform specific functions, like drivers, which allow us
+to interact with our hardware. There are applications that we use for
+our day to day job functions. And there are utilities that we use like
+a calculator, settings, and other tools. With the seemingly endless options for software, how do we
+know which ones to use? How do we deal with them in a workplace
+setting and in our personal lives? Software is always changing. Developers are releasing updates, software
+companies change, features are added, and so on. This constant change is
+completely out of our control and it can cause a lot of
+headaches in the IT world. Let's say the company that
+builds your payroll system pushes out a software update that
+causes settings to change or even worse completely breaks
+the compatibility with your own company. It can happen. You should always test new software
+before letting your company use it. Another thing to worry
+about is old software. When you run old software on your machine,
+you risk being exposed to cyber security attacks that take
+advantage of software bugs. A software bug is an error in software
+that causes unexpected results. We'll deep dive into computer
+security in a later course. For now, know that software updates
+usually contain critical security updates and new features, and have better
+compatibility with your system. A good guideline is to update
+your software constantly. Another problem that plagues the IT
+world when it comes to software is software management. If you're setting up a computer for
+someone, you want to make sure that they'll have all the necessary tools
+they need to hit the ground running. That means you'll need to install all
+the software required for the job. That also means you'll also want to remove
+software that isn't required for the job. We may not realize if a piece of software
+we installed is malicious software which causes harm to your computer. It's always a good idea to check if
+the software comes from a repudible source before you install it. A common industry practice is to not allow users to install software
+without administrator approval. This prevents users from installing
+unwanted software because they're actually blocked
+with an error message that says they need an administrator
+to enter their login credentials. Before we get too far ahead of ourselves,
+let's cover the basics of software management which include installing,
+updating, and removing software. In the videos up next, we're going to walk
+through how to do these steps in a Windows environment and a Linux environment. Ready, set, go.

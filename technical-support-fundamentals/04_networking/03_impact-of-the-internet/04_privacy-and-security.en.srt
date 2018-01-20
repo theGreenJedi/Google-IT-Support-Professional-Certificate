@@ -1,0 +1,291 @@
+1
+00:00:11,120 --> 00:00:15,030
+The added convenience made possible by the Internet also
+
+2
+00:00:15,030 --> 00:00:18,225
+makes it harder and harder for us to maintain anonymity.
+
+3
+00:00:18,225 --> 00:00:19,893
+When you purchase something online,
+
+4
+00:00:19,893 --> 00:00:21,870
+your buying habits can be logged,
+
+5
+00:00:21,870 --> 00:00:23,730
+and you may be targeting with marketing.
+
+6
+00:00:23,730 --> 00:00:25,605
+Even when you want to do something simple,
+
+7
+00:00:25,605 --> 00:00:27,240
+like book a dinner reservation,
+
+8
+00:00:27,240 --> 00:00:29,490
+your name, phone number, email,
+
+9
+00:00:29,490 --> 00:00:32,160
+and maybe even a credit card number are required.
+
+10
+00:00:32,160 --> 00:00:34,890
+Now think about the information you post publicly.
+
+11
+00:00:34,890 --> 00:00:37,425
+Name, pictures, family, friends,
+
+12
+00:00:37,425 --> 00:00:38,760
+and even your location,
+
+13
+00:00:38,760 --> 00:00:40,725
+may be available to anyone online.
+
+14
+00:00:40,725 --> 00:00:42,990
+Be aware of what you're sharing by reviewing
+
+15
+00:00:42,990 --> 00:00:45,655
+the privacy policy of a service before you use it.
+
+16
+00:00:45,655 --> 00:00:48,270
+It's up to you to decide if the trade-offs of
+
+17
+00:00:48,270 --> 00:00:51,010
+a service are worth sharing your personal information.
+
+18
+00:00:51,010 --> 00:00:55,405
+In most cases, companies are trying to build great products that make our lives easier.
+
+19
+00:00:55,405 --> 00:00:59,190
+They may offer their products for free because you provide them with free data.
+
+20
+00:00:59,190 --> 00:01:02,610
+Just make sure your information won't fall into the wrong hands.
+
+21
+00:01:02,610 --> 00:01:05,670
+Privacy doesn't just affect us on a personal scale,
+
+22
+00:01:05,670 --> 00:01:07,890
+it's also become a concern for governments.
+
+23
+00:01:07,890 --> 00:01:11,160
+In Europe, data regulation and privacy are strictly
+
+24
+00:01:11,160 --> 00:01:16,380
+protected to help EU citizens gain more control over their personal information.
+
+25
+00:01:16,380 --> 00:01:20,175
+COPPA, or the Children's Online Privacy Protection Act,
+
+26
+00:01:20,175 --> 00:01:24,420
+also regulates the information we show to children under the age of 13.
+
+27
+00:01:24,420 --> 00:01:27,625
+There are many more examples of government regulation of privacy.
+
+28
+00:01:27,625 --> 00:01:31,225
+It's no longer something we can think of on an individual scale.
+
+29
+00:01:31,225 --> 00:01:35,400
+Another concern that's grown with the rise of the Internet is the issue of copyright.
+
+30
+00:01:35,400 --> 00:01:39,715
+Imagine you create a beautiful graphic and upload it on the web for your friends to see.
+
+31
+00:01:39,715 --> 00:01:42,135
+Then some random stranger takes your graphic,
+
+32
+00:01:42,135 --> 00:01:43,575
+claims it as their own,
+
+33
+00:01:43,575 --> 00:01:45,120
+and sells it for profit.
+
+34
+00:01:45,120 --> 00:01:49,110
+Thankfully, several companies have been founded and designed specifically
+
+35
+00:01:49,110 --> 00:01:52,950
+to help solve this issue of copyright and intellectual property theft.
+
+36
+00:01:52,950 --> 00:01:55,260
+There are also efforts in place that you've learned about,
+
+37
+00:01:55,260 --> 00:01:56,880
+like open source projects,
+
+38
+00:01:56,880 --> 00:01:58,915
+that benefit from being on the Internet.
+
+39
+00:01:58,915 --> 00:02:02,665
+In these cases, open collaboration allows the project to thrive.
+
+40
+00:02:02,665 --> 00:02:05,250
+On top of privacy and copyright considerations,
+
+41
+00:02:05,250 --> 00:02:07,680
+computer security is another issue that you
+
+42
+00:02:07,680 --> 00:02:11,005
+may face in both your personal and professional life.
+
+43
+00:02:11,005 --> 00:02:14,690
+More and more companies are being targeted in cyber security attacks.
+
+44
+00:02:14,690 --> 00:02:17,940
+For example, the WannaCry Attack that started in Europe,
+
+45
+00:02:17,940 --> 00:02:21,465
+infected hundreds of thousands of computers across the world.
+
+46
+00:02:21,465 --> 00:02:26,130
+The financial loss of that attack has been estimated at over a billion dollars.
+
+47
+00:02:26,130 --> 00:02:28,425
+Hospital computers were even infected.
+
+48
+00:02:28,425 --> 00:02:31,710
+In a critical life threatening moment, every second matters.
+
+49
+00:02:31,710 --> 00:02:34,485
+Not being able to perform basic medical duties,
+
+50
+00:02:34,485 --> 00:02:35,985
+like pulling medical records,
+
+51
+00:02:35,985 --> 00:02:41,195
+took time away from doctors and nurses and more importantly the lives of their patients.
+
+52
+00:02:41,195 --> 00:02:42,645
+Before the WannaCry Attack,
+
+53
+00:02:42,645 --> 00:02:45,005
+there were lots of other world wide attacks.
+
+54
+00:02:45,005 --> 00:02:49,080
+In 2011, the Sony PlayStation network was attacked and
+
+55
+00:02:49,080 --> 00:02:53,625
+around 77 million user accounts had personal information exposed,
+
+56
+00:02:53,625 --> 00:02:56,550
+everything from entire governments to businesses that
+
+57
+00:02:56,550 --> 00:02:59,780
+handle the data of millions of people have been compromised.
+
+58
+00:02:59,780 --> 00:03:04,035
+Computer security is no longer the job of specialized security engineers,
+
+59
+00:03:04,035 --> 00:03:08,505
+it's everyone's responsibility, and as an IT support specialist,
+
+60
+00:03:08,505 --> 00:03:12,715
+you'll need to have a fundamental understanding of computer security.
+
+61
+00:03:12,715 --> 00:03:16,005
+You'll get to learn these fundamentals in the course IT Security,
+
+62
+00:03:16,005 --> 00:03:19,410
+Defense Against the Digital Dark Arts, which I'll be teaching you.
+
+63
+00:03:19,410 --> 00:03:21,620
+I spend every day working in security.
+
+64
+00:03:21,620 --> 00:03:23,010
+I love working in the field,
+
+65
+00:03:23,010 --> 00:03:26,780
+because I get to help protect people and their devices from all over the globe.
+
+66
+00:03:26,780 --> 00:03:30,075
+The security course in this program teaches you just that.
+
+67
+00:03:30,075 --> 00:03:32,880
+You'll also learn what threats are out there and how you can
+
+68
+00:03:32,880 --> 00:03:36,325
+prevent and mitigate them and how to secure your workplace.
+
+69
+00:03:36,325 --> 00:03:38,420
+Next up, you're going to meet my buddy,
+
+70
+00:03:38,420 --> 00:03:41,700
+Phelan Vendeville, who's going to introduce you to software.
+
+71
+00:03:41,700 --> 00:03:44,075
+But before that we've got a quick quiz we've
+
+72
+00:03:44,075 --> 00:03:47,280
+cooked up for you on all the topics we've covered so far.
+
+73
+00:03:47,280 --> 00:03:49,000
+Take your time, and good luck.

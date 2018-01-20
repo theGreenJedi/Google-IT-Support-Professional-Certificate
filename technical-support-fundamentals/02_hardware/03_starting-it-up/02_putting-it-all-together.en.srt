@@ -1,0 +1,1303 @@
+1
+00:00:11,902 --> 00:00:15,403
+Now that we've learned what
+the computer components are and
+
+2
+00:00:15,403 --> 00:00:20,081
+how they work we're going to assemble our
+very own computer, a full size desktop.
+
+3
+00:00:20,081 --> 00:00:25,000
+Computers are incredibly fundamental to
+the work of an IT support specialist.
+
+4
+00:00:25,000 --> 00:00:27,700
+There used in pretty much
+every aspect of the job.
+
+5
+00:00:27,700 --> 00:00:32,220
+Aside from work, knowing how to build
+a computer might inspire you to try
+
+6
+00:00:32,220 --> 00:00:33,900
+all kinds of cool stuff.
+
+7
+00:00:33,900 --> 00:00:37,490
+You could custom build a gaming rig to
+play the most advanced game at the highest
+
+8
+00:00:37,490 --> 00:00:42,410
+setting or like me make a home media
+server for all you photos and videos.
+
+9
+00:00:42,410 --> 00:00:45,190
+Knowing how to build a computer
+is a skill that can be useful in
+
+10
+00:00:45,190 --> 00:00:46,790
+lots of interesting ways.
+
+11
+00:00:46,790 --> 00:00:50,600
+Before we get started,
+let's lay down some ground rules for
+
+12
+00:00:50,600 --> 00:00:53,930
+this ground up build, sorry,
+I cannot help myself.
+
+13
+00:00:53,930 --> 00:00:56,930
+We should think about
+electrostatic discharge and
+
+14
+00:00:56,930 --> 00:01:01,960
+try to prevent unwanted static from
+harming our very expensive components.
+
+15
+00:01:01,960 --> 00:01:06,270
+Have you ever rubbed yourself socks on a
+carpet and then accidentally zap someone?
+
+16
+00:01:06,270 --> 00:01:09,940
+That's pretty harmless, but
+if you that to your new motherboard,
+
+17
+00:01:09,940 --> 00:01:12,040
+you completely destroy it.
+
+18
+00:01:12,040 --> 00:01:14,650
+So how do we prevent static discharge?
+
+19
+00:01:14,650 --> 00:01:16,730
+We can go about this in two ways,
+
+20
+00:01:16,730 --> 00:01:21,410
+we can touch in our two device that's
+plugged in but not powered on.
+
+21
+00:01:21,410 --> 00:01:26,220
+FYI, you should do this every couple of
+minutes when assembling a new computer.
+
+22
+00:01:26,220 --> 00:01:29,713
+Another option is to wear an anti-static
+wristband like the one I have here,
+
+23
+00:01:29,713 --> 00:01:30,369
+let me get it.
+
+24
+00:01:34,490 --> 00:01:38,030
+You connect the end of the clip to
+a non-painted metal surface like your
+
+25
+00:01:38,030 --> 00:01:39,150
+computer.
+
+26
+00:01:39,150 --> 00:01:43,090
+And then you separate on to your hands and
+wallah your done.
+
+27
+00:01:43,090 --> 00:01:46,720
+While we are on the subject
+of anti-static safety,
+
+28
+00:01:46,720 --> 00:01:49,380
+I want to call out that when
+you buy computer parts,
+
+29
+00:01:49,380 --> 00:01:54,640
+they'll come in anti-static bags to
+prevent accidental static electricity.
+
+30
+00:01:54,640 --> 00:01:59,130
+Be sure to keep them inside the bags until
+you need to install them on your computer.
+
+31
+00:01:59,130 --> 00:02:03,720
+Now, let's get making this computer, we'll
+start by laying down the foundation of our
+
+32
+00:02:03,720 --> 00:02:08,530
+computer, the motherboard.
+
+33
+00:02:08,530 --> 00:02:12,230
+Remember, there are lots of different
+form factors for motherboards and
+
+34
+00:02:12,230 --> 00:02:16,470
+you want to make sure the one you
+purchase fits your computer case.
+
+35
+00:02:16,470 --> 00:02:22,390
+We purchased the full size desktop cased
+and have a full size ATX motherboard.
+
+36
+00:02:22,390 --> 00:02:25,590
+On the motherboard there
+are a lot of screw holes
+
+37
+00:02:25,590 --> 00:02:29,030
+which coincide with the holes
+in the desktop case too.
+
+38
+00:02:29,030 --> 00:02:32,760
+You want to match up the holes on the
+motherboard to the holes on the desktop.
+
+39
+00:02:33,950 --> 00:02:38,020
+Once you figure out which holes
+to use screw in standoffs.
+
+40
+00:02:38,020 --> 00:02:41,940
+Standoffs are used to raise and
+attach your motherboard to the case.
+
+41
+00:02:41,940 --> 00:02:45,340
+In this instance our case
+has built in standoffs.
+
+42
+00:02:45,340 --> 00:02:47,081
+Let's start start adding on components.
+
+43
+00:03:38,455 --> 00:03:40,630
+Let's start by adding our components in.
+
+44
+00:03:40,630 --> 00:03:44,249
+We'll start with the CPU, so let's
+take that out of our anti-static bag.
+
+45
+00:03:45,570 --> 00:03:48,216
+You want to be very careful with these
+because they're very expensive, and
+
+46
+00:03:48,216 --> 00:03:49,233
+you don't want to drop them.
+
+47
+00:03:54,817 --> 00:03:59,240
+Once we've taken out the bag, let's line
+up the CPU with the motherboard's socket.
+
+48
+00:03:59,240 --> 00:04:02,410
+Something to note is
+this marker right here.
+
+49
+00:04:02,410 --> 00:04:06,735
+This has to align with the CPU
+socket on the motherboard.
+
+50
+00:04:06,735 --> 00:04:11,240
+Also don't forget to make sure you get
+compatible CPU that fit your motherboard.
+
+51
+00:04:11,240 --> 00:04:15,740
+We have a LGA CPU and
+an LGA-compatible motherboard socket.
+
+52
+00:04:15,740 --> 00:04:19,518
+So let's go ahead and align
+the correct orientation of the CPU and
+
+53
+00:04:19,518 --> 00:04:21,244
+secure it in place like this.
+
+54
+00:04:24,367 --> 00:04:26,138
+So like mentioned before,
+
+55
+00:04:26,138 --> 00:04:31,070
+you want to make sure that the pointers
+on the CPU and the socket are aligned.
+
+56
+00:04:32,410 --> 00:04:34,690
+The easy part is putting the CPU in.
+
+57
+00:04:34,690 --> 00:04:40,690
+The fun part is securing this,
+just note that when you secure
+
+58
+00:04:40,690 --> 00:04:45,460
+the CPU in the socket you do need to use
+a bit of force so it's tightly secured in.
+
+59
+00:04:47,324 --> 00:04:54,540
+Perfect, so
+now the CPU is secured in the socket.
+
+60
+00:04:54,540 --> 00:04:59,200
+Now that our CPU is in place we need
+to add our heat sink on top of it.
+
+61
+00:04:59,200 --> 00:05:02,538
+The heat sink is used to
+dissipate heat from our CPU.
+
+62
+00:05:02,538 --> 00:05:04,663
+I want to show you some cool things.
+
+63
+00:05:04,663 --> 00:05:10,250
+This part right here, this is what
+our CPU relies on to stay cool.
+
+64
+00:05:10,250 --> 00:05:13,990
+It takes the heat from there and
+then uses this fan to blow it out.
+
+65
+00:05:15,360 --> 00:05:20,270
+Before we attach the heat sink, we need
+to apply an even amount of thermal paste.
+
+66
+00:05:20,270 --> 00:05:24,470
+Let me get that,
+this is the thermal paste.
+
+67
+00:05:24,470 --> 00:05:28,800
+Thermal paste is used to better
+connect our CPU and heat sink.
+
+68
+00:05:28,800 --> 00:05:31,270
+So the heat transfers
+from to the other better.
+
+69
+00:05:33,560 --> 00:05:37,520
+To get started,
+apply a dab of thermal paste and
+
+70
+00:05:37,520 --> 00:05:40,230
+spread evenly with a flat object.
+
+71
+00:05:40,230 --> 00:05:41,940
+Lets do that on our CPU right here.
+
+72
+00:05:43,690 --> 00:05:49,032
+So first thing that you want to
+
+73
+00:05:49,032 --> 00:05:53,929
+do is slowly apply a slight
+
+74
+00:05:53,929 --> 00:05:58,166
+dab on the CPU like so.
+
+75
+00:05:58,166 --> 00:06:02,494
+Then with the flat object,
+apply the thermal paste evenly
+
+76
+00:06:02,494 --> 00:06:07,540
+throughout your CPU to go half way
+right here, half way right here,
+
+77
+00:06:09,576 --> 00:06:13,190
+Half way right here, and
+then half way right here.
+
+78
+00:06:16,490 --> 00:06:20,590
+Just make sure that it spread
+evenly throughout the CPU.
+
+79
+00:06:20,590 --> 00:06:22,876
+You may have to do this multiple
+times to get this correct.
+
+80
+00:06:27,985 --> 00:06:33,386
+Okay, so once you have that in place,
+you're going to tank your heat sink and
+
+81
+00:06:33,386 --> 00:06:36,660
+then you're going to
+press it against the CPU.
+
+82
+00:06:37,670 --> 00:06:41,620
+And something to note is that
+these screws right here,
+
+83
+00:06:41,620 --> 00:06:43,540
+they align with the CPU socket.
+
+84
+00:06:43,540 --> 00:06:46,535
+So that can guide you while
+you put the heat sink on.
+
+85
+00:07:02,951 --> 00:07:06,259
+Great, once you have all
+four sockets aligned,
+
+86
+00:07:06,259 --> 00:07:10,946
+go ahead and get your screw driver and
+then tighten down the sockets.
+
+87
+00:07:16,995 --> 00:07:21,594
+So one thing to do, is to make sure that
+you screw the opposite sides first so
+
+88
+00:07:21,594 --> 00:07:24,665
+you know that the heat
+sink is attached securely.
+
+89
+00:07:37,203 --> 00:07:41,663
+So one thing I like to do again is
+just kind of go over my screws to
+
+90
+00:07:41,663 --> 00:07:45,082
+make sure everything
+is tightened securely.
+
+91
+00:07:59,548 --> 00:08:04,910
+Great, now that our screws are tightly
+on in our heat sink secured
+
+92
+00:08:04,910 --> 00:08:10,070
+to the CPU You have to plug
+this Molex to the motherboard.
+
+93
+00:08:10,070 --> 00:08:14,508
+This is important because this is
+what controls the fan speed via
+
+94
+00:08:14,508 --> 00:08:15,833
+the motherboard.
+
+95
+00:08:18,892 --> 00:08:19,660
+Perfect.
+
+96
+00:08:19,660 --> 00:08:25,300
+So now, you've fully installed and
+connected your CPU to the motherboard.
+
+97
+00:08:26,700 --> 00:08:28,830
+Next, lessons to our RAM.
+
+98
+00:08:28,830 --> 00:08:31,620
+Located DIMM slots on your motherboard.
+
+99
+00:08:31,620 --> 00:08:34,670
+So, these are the DIMM slots
+like we discussed before.
+
+100
+00:08:34,670 --> 00:08:37,630
+I have four slots available here and
+I have four RAM sticks.
+
+101
+00:08:37,630 --> 00:08:38,290
+Let me pick those up.
+
+102
+00:08:39,820 --> 00:08:44,545
+These are my RAM sticks, and
+of course, they're in my anti-static
+
+103
+00:08:44,545 --> 00:08:49,756
+bag Let's take them out.
+
+104
+00:09:00,346 --> 00:09:04,135
+So, as I mentioned before, this build,
+we're going to use DDR3 RAM.
+
+105
+00:09:06,304 --> 00:09:10,592
+All right, one thing I like to do before
+I install my RAM is to make sure that I
+
+106
+00:09:10,592 --> 00:09:12,704
+align these slots with my RAM slots so
+
+107
+00:09:12,704 --> 00:09:17,540
+that way I'm not going to be forcing
+those in when it's time to install.
+
+108
+00:09:17,540 --> 00:09:20,980
+So, if you see right here,
+your slots are right in the middle so
+
+109
+00:09:20,980 --> 00:09:25,040
+something I do is before I put it in,
+just visually make sure that you got
+
+110
+00:09:25,040 --> 00:09:29,270
+this right and then align the rest of your
+RAM sticks to the same position like this.
+
+111
+00:09:29,270 --> 00:09:31,107
+You just want to go like this.
+
+112
+00:09:34,205 --> 00:09:36,622
+Like this.
+
+113
+00:09:40,112 --> 00:09:41,423
+And like this.
+
+114
+00:09:41,423 --> 00:09:44,838
+That way, you're not going to be damaging
+your pins if you pick your RAM sticks up
+
+115
+00:09:44,838 --> 00:09:46,199
+and accidentally force it in.
+
+116
+00:09:51,243 --> 00:09:54,446
+So now we've got that, we're going to
+put this in this slot right here.
+
+117
+00:09:57,586 --> 00:10:01,720
+Line up the pins correctly and
+push in the RAM until you hear it click.
+
+118
+00:10:01,720 --> 00:10:04,880
+You'll know it's secure when both
+sides of the RAMs are locked in place.
+
+119
+00:10:04,880 --> 00:10:07,360
+And there's something
+else you should know.
+
+120
+00:10:07,360 --> 00:10:10,820
+Your slots right here,
+they are both black and white.
+
+121
+00:10:10,820 --> 00:10:12,836
+We're going to stick to
+using the white slots.
+
+122
+00:10:20,928 --> 00:10:22,341
+This too.
+
+123
+00:10:24,180 --> 00:10:26,801
+And we're also going to
+put this one right here.
+
+124
+00:10:45,188 --> 00:10:46,715
+There you go.
+You've securely fastened
+
+125
+00:10:46,715 --> 00:10:48,860
+your RAM inside your motherboard.
+
+126
+00:10:48,860 --> 00:10:51,030
+Next, we have our hard drive.
+
+127
+00:10:52,230 --> 00:10:58,300
+In this example, we're using an SSD SATA
+hard drive instead of a HDD.
+
+128
+00:10:59,360 --> 00:11:02,645
+We just need to use one SATA cable
+to connect it to our motherboard.
+
+129
+00:11:03,860 --> 00:11:06,761
+So, first, I'm going to go ahead and
+slot this in this cage
+
+130
+00:11:09,188 --> 00:11:13,750
+This is going to vary from case to case,
+but this one's going to be easy.
+
+131
+00:11:13,750 --> 00:11:15,515
+All we have to,
+we just slide it in like so.
+
+132
+00:11:15,515 --> 00:11:20,567
+And normally you will hear a click,
+[SOUND] Like that.
+
+133
+00:11:20,567 --> 00:11:21,618
+Once that's in,
+
+134
+00:11:21,618 --> 00:11:25,840
+we just need to use one SATA cable to
+connect our SSD to our motherboard.
+
+135
+00:11:25,840 --> 00:11:27,810
+Let me go and get that.
+
+136
+00:11:29,420 --> 00:11:30,410
+So here we go.
+
+137
+00:11:30,410 --> 00:11:31,670
+Here's a SATA cable.
+
+138
+00:11:31,670 --> 00:11:35,818
+So what I'm going to do, is I'm
+going to connect this end to our SSD.
+
+139
+00:11:37,905 --> 00:11:39,786
+I'm going to connect this
+end to our motherboard.
+
+140
+00:11:47,229 --> 00:11:48,411
+There we go, it's in.
+
+141
+00:11:50,776 --> 00:11:54,600
+Remember, SATA cables
+can only go in one way.
+
+142
+00:11:54,600 --> 00:11:58,250
+So now that we have our SSD installed,
+let's go ahead and install our case fan.
+
+143
+00:12:00,282 --> 00:12:02,600
+And this is how this looks like.
+
+144
+00:12:02,600 --> 00:12:04,580
+One thing to note is the small x.
+
+145
+00:12:04,580 --> 00:12:10,470
+You're going to go ahead and find a label
+on your motherboard that says, rear fans.
+
+146
+00:12:11,480 --> 00:12:14,005
+Not all motherboards have this, but
+in this example, we do have that, so
+
+147
+00:12:14,005 --> 00:12:14,510
+just to note.
+
+148
+00:12:19,600 --> 00:12:22,910
+We get those into the grooves,
+there you go.
+
+149
+00:12:22,910 --> 00:12:30,800
+My fan's installed, and now I'm going to
+go ahead and attach this to the Molex.
+
+150
+00:12:32,120 --> 00:12:35,290
+There we go,
+now my fan is attached to my motherboard.
+
+151
+00:12:36,835 --> 00:12:40,740
+For best practice, you want to create
+a wind tunnel that takes in air,
+
+152
+00:12:40,740 --> 00:12:44,420
+blows it over your components,
+and then pushes it all out back.
+
+153
+00:12:44,420 --> 00:12:47,980
+Check out how our heat
+sink has a fan on it too.
+
+154
+00:12:47,980 --> 00:12:51,130
+That's pretty normal,
+since our CPU generates a lot of heat, and
+
+155
+00:12:51,130 --> 00:12:53,490
+we want to help cool it
+off as best as we can.
+
+156
+00:12:54,610 --> 00:12:55,850
+We're almost done.
+
+157
+00:12:55,850 --> 00:12:59,670
+Now, we're going to connect our power and
+test to see if everything's working.
+
+158
+00:12:59,670 --> 00:13:01,000
+So let's grab our power supply.
+
+159
+00:13:02,930 --> 00:13:03,430
+Here we are.
+
+160
+00:13:06,955 --> 00:13:09,790
+First, let's secure our
+power supply to our case.
+
+161
+00:13:09,790 --> 00:13:12,310
+Be careful not to damage
+the motherboard when you install it.
+
+162
+00:13:13,800 --> 00:13:19,767
+What you're going to do is you're going to
+put this in slowly like that, And
+
+163
+00:13:19,767 --> 00:13:22,641
+then just slide it in.
+
+164
+00:13:22,641 --> 00:13:23,800
+There you go.
+
+165
+00:13:23,800 --> 00:13:27,140
+One thing I like to do, is I'd like to put
+my cables all the way out to the side, so
+
+166
+00:13:27,140 --> 00:13:30,740
+like I mentioned before, it's not going to
+go ahead and damage the motherboard.
+
+167
+00:13:30,740 --> 00:13:34,660
+So now, I'm going to go ahead and
+start securing our power supply.
+
+168
+00:13:37,330 --> 00:13:39,383
+Its always fun getting in.
+
+169
+00:13:39,383 --> 00:13:41,891
+There we go
+
+170
+00:13:49,337 --> 00:13:52,508
+So as you can see, I normally like
+to go and start with my fingers, so
+
+171
+00:13:52,508 --> 00:13:53,630
+it's easier to get in.
+
+172
+00:13:54,900 --> 00:13:59,715
+And once I put all my screws in,
+I'm going to go ahead and
+
+173
+00:13:59,715 --> 00:14:04,222
+use my screw driver and
+fasten it, tighten that.
+
+174
+00:14:19,109 --> 00:14:20,940
+There you go.
+
+175
+00:14:20,940 --> 00:14:23,290
+So let's go ahead and
+tighten our screws right here.
+
+176
+00:14:23,290 --> 00:14:32,283
+[INAUDIBLE] And four.
+
+177
+00:14:32,283 --> 00:14:33,275
+Great.
+
+178
+00:14:33,275 --> 00:14:36,213
+So now, we've secured our
+power supply to the case so
+
+179
+00:14:36,213 --> 00:14:38,400
+it's not going to move anywhere.
+
+180
+00:14:38,400 --> 00:14:41,900
+And just another note,
+you can also install the power supply
+
+181
+00:14:41,900 --> 00:14:45,120
+before adding it to the motherboard,
+depending on how your case is laid out.
+
+182
+00:14:47,090 --> 00:14:48,718
+Lets go back to our massive connectors.
+
+183
+00:14:51,390 --> 00:14:52,870
+There are a few things I
+would like to highlight.
+
+184
+00:14:55,240 --> 00:14:59,810
+This big one right here, this is
+the one that powers our motherboard.
+
+185
+00:15:01,120 --> 00:15:06,020
+Another one that we have, it's more of
+a legacy one is this four pin Molex.
+
+186
+00:15:06,020 --> 00:15:08,550
+These connectors were used
+heavily before SATA came out.
+
+187
+00:15:09,720 --> 00:15:14,709
+Now, we use these connectors to power
+majority of the SATA devices today.
+
+188
+00:15:17,422 --> 00:15:21,518
+Most modern machines today will
+probably use SATA power connectors for
+
+189
+00:15:21,518 --> 00:15:25,220
+your hard drives so that it may
+come with Molex to SATA adapters.
+
+190
+00:15:25,220 --> 00:15:27,080
+Now, it's time for the fun part.
+
+191
+00:15:27,080 --> 00:15:31,490
+First, let's go ahead and connect
+our power supply to our motherboard.
+
+192
+00:15:31,490 --> 00:15:33,760
+So that's this big pin
+as we discussed earlier.
+
+193
+00:15:33,760 --> 00:15:36,050
+It's going to go in right here.
+
+194
+00:15:40,290 --> 00:15:42,703
+And plug that in like so.
+
+195
+00:15:45,866 --> 00:15:53,405
+Next, we're going to go ahead and power
+the CPU, with this A pin Molex right here.
+
+196
+00:15:53,405 --> 00:15:56,770
+It's [INAUDIBLE] pretty tight, but
+you should be able to get it in.
+
+197
+00:16:05,852 --> 00:16:07,360
+There you go.
+
+198
+00:16:07,360 --> 00:16:12,190
+So what we just did was we have the power
+supply that is powering the motherboard
+
+199
+00:16:12,190 --> 00:16:13,980
+and the CPU.
+
+200
+00:16:13,980 --> 00:16:17,410
+So now that we've hooked up the cable
+to our CPU and motherboard,
+
+201
+00:16:17,410 --> 00:16:21,990
+the next thing that we need to hook up are
+these cables that are sitting in our case.
+
+202
+00:16:21,990 --> 00:16:25,240
+This is going to vary from case to case,
+but let's go through it.
+
+203
+00:16:25,240 --> 00:16:30,976
+Some of these cables are used for
+your case's patterns and lights.
+
+204
+00:16:30,976 --> 00:16:32,826
+So for this one,
+I'm going to plug these in.
+
+205
+00:16:44,517 --> 00:16:45,690
+Okay.
+
+206
+00:17:04,442 --> 00:17:07,563
+Okay, so our case cables are now
+secured to our motherboard.
+
+207
+00:17:07,563 --> 00:17:11,470
+One good idea is sometimes your
+motherboard will come with some guides.
+
+208
+00:17:11,470 --> 00:17:16,360
+This will help you fasten your cables
+to your motherboard so it's clean and
+
+209
+00:17:16,360 --> 00:17:18,540
+tight on your case.
+
+210
+00:17:18,540 --> 00:17:19,537
+I'm just going to go ahead and
+do that right here.
+
+211
+00:17:25,260 --> 00:17:27,857
+Now that we have our cables
+securely fastened to our case,
+
+212
+00:17:27,857 --> 00:17:30,460
+let's don't forget one more thing,
+our graphics card.
+
+213
+00:17:32,255 --> 00:17:35,240
+We'll need that so
+that we can upload video to our monitor.
+
+214
+00:17:35,240 --> 00:17:38,131
+We're going to plug this graphics
+card into our PCI-Express slot on our
+
+215
+00:17:38,131 --> 00:17:38,770
+motherboard.
+
+216
+00:17:41,383 --> 00:17:42,219
+Just like the RAM,
+
+217
+00:17:42,219 --> 00:17:45,100
+you are going to put a little bit of
+pressure when you insert this in.
+
+218
+00:17:45,100 --> 00:17:48,343
+So don't feel bad by putting
+a little bit of pressure and
+
+219
+00:17:48,343 --> 00:17:50,213
+you'll hear a click like this.
+
+220
+00:17:54,567 --> 00:17:57,860
+Once you've done it,
+you can tightly secure it to your case.
+
+221
+00:17:57,860 --> 00:17:59,110
+This is going to vary from case to case.
+
+222
+00:18:03,368 --> 00:18:06,210
+And there you go,
+your graphics card has been installed.
+
+223
+00:18:06,210 --> 00:18:08,080
+All right, I think that's it.
+
+224
+00:18:08,080 --> 00:18:09,140
+Let's cover up our computer.
+
+225
+00:18:11,636 --> 00:18:14,875
+First make sure you take your
+anti-static brace right away.
+
+226
+00:18:17,859 --> 00:18:19,425
+Get our case.
+
+227
+00:18:24,117 --> 00:18:29,425
+Put that in like so, and
+just plug, and that's it.
+
+228
+00:18:35,102 --> 00:18:38,280
+There you go,
+we finally built our machine.
+
+229
+00:18:38,280 --> 00:18:42,240
+Last but not least,
+let's connect our monitor, keyboard, and
+
+230
+00:18:42,240 --> 00:18:43,520
+mouse to the desktop.
+
+231
+00:18:43,520 --> 00:18:45,822
+So first, let's get our keyboard.
+
+232
+00:18:45,822 --> 00:18:48,749
+What we're going to do is we're going to
+connect this USB to the USB port on
+
+233
+00:18:48,749 --> 00:18:49,363
+our desktop.
+
+234
+00:18:53,066 --> 00:18:55,540
+Then we'll going to get our mouse,
+do the same thing.
+
+235
+00:18:55,540 --> 00:18:56,771
+Connect this to our USB port.
+
+236
+00:19:01,853 --> 00:19:04,862
+And then finally we're going to
+go ahead and connect our monitor.
+
+237
+00:19:04,862 --> 00:19:08,890
+For this monitor, we're going to go
+ahead and use a display port cable.
+
+238
+00:19:08,890 --> 00:19:16,030
+I want to connect one end to our desktop,
+like so.
+
+239
+00:19:16,030 --> 00:19:17,851
+Next, I want to plug this into my monitor.
+
+240
+00:19:28,833 --> 00:19:31,410
+All right,
+this is the most interesting part.
+
+241
+00:19:31,410 --> 00:19:32,810
+Let's see if all this works.
+
+242
+00:19:33,980 --> 00:19:34,480
+So I'm going to power it on.
+
+243
+00:19:37,818 --> 00:19:39,501
+I got a blue light, which is good.
+
+244
+00:19:39,501 --> 00:19:42,490
+And of course it's going to
+vary from system to system.
+
+245
+00:19:42,490 --> 00:19:44,530
+Let's see if something
+shows up on the monitor.
+
+246
+00:19:46,270 --> 00:19:46,935
+So computer is booting up.
+
+247
+00:19:49,896 --> 00:19:54,704
+Let's see, okay it looks like the monitor
+is receiving signal, which is good.
+
+248
+00:19:54,704 --> 00:19:59,100
+There we have messages, success,
+there we go, it's working, perfect.
+
+249
+00:19:59,100 --> 00:20:03,110
+If you're having issues with your
+computer not starting up, that's okay.
+
+250
+00:20:03,110 --> 00:20:06,930
+Check that your power supply can supply
+the correct amount of wattage or
+
+251
+00:20:06,930 --> 00:20:09,100
+make sure your connectors
+are in the right place.
+
+252
+00:20:10,580 --> 00:20:11,165
+What's this?
+
+253
+00:20:11,165 --> 00:20:15,785
+Non-system disk or disk error,
+replace and strike any key when ready.
+
+254
+00:20:15,785 --> 00:20:20,250
+It looks like our disk doesn't have an
+operating system to boot into, no worries.
+
+255
+00:20:20,250 --> 00:20:22,796
+That's what we'll be discussing
+in the next set of lessons.
+
+256
+00:20:22,796 --> 00:20:24,700
+We'll learn what
+an operating system is and
+
+257
+00:20:24,700 --> 00:20:27,710
+what the main operating systems are and
+how to install one.
+
+258
+00:20:27,710 --> 00:20:30,760
+Well good job, you've got your
+computer up and running and
+
+259
+00:20:30,760 --> 00:20:33,820
+the monitor is receiving signal,
+so that's it.
+
+260
+00:20:33,820 --> 00:20:36,090
+Let's take a moment and
+think about what you just did,
+
+261
+00:20:36,090 --> 00:20:39,644
+not only did you learn about each
+component of a computer, but
+
+262
+00:20:39,644 --> 00:20:43,990
+you figured out how they work individually
+and then we built one together.
+
+263
+00:20:43,990 --> 00:20:45,500
+It's quite an accomplishment.
+
+264
+00:20:45,500 --> 00:20:48,910
+For your next assignment, we build
+a widget that will let you assemble
+
+265
+00:20:48,910 --> 00:20:52,280
+a computer digitally, putting all
+the different parts together or
+
+266
+00:20:52,280 --> 00:20:54,860
+if you have all the computer
+parts already, you can assemble
+
+267
+00:20:54,860 --> 00:20:58,410
+one in real life and then write a short
+review process of how you did it.
+
+268
+00:20:58,410 --> 00:21:00,340
+If you get stuck, don't worry, go back and
+
+269
+00:21:00,340 --> 00:21:03,270
+review the different videos
+covering the various components.
+
+270
+00:21:03,270 --> 00:21:04,780
+I know you can do it.
+
+271
+00:21:04,780 --> 00:21:08,110
+I've had lots of fun teaching you
+all about hardware and don't worry,
+
+272
+00:21:08,110 --> 00:21:11,150
+we'll meet again soon when you make
+it to the system administration
+
+273
+00:21:11,150 --> 00:21:13,510
+IT infrastructure services course.
+
+274
+00:21:13,510 --> 00:21:14,760
+Next up, my good friend,
+
+275
+00:21:14,760 --> 00:21:18,430
+Cindy Quach, is going to introduce
+you to operating systems.
+
+276
+00:21:18,430 --> 00:21:22,970
+Operating systems are absolutely essential
+in IT considering that without them
+
+277
+00:21:22,970 --> 00:21:26,760
+none of this hardware we've discussed
+would be able to accomplish anything.
+
+278
+00:21:26,760 --> 00:21:27,670
+Tell Cindy I said hi.

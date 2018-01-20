@@ -1,0 +1,235 @@
+1
+00:00:10,950 --> 00:00:15,025
+Binary is the fundamental communication block of computers,
+
+2
+00:00:15,025 --> 00:00:19,070
+but it's used to represent more than just text and images.
+
+3
+00:00:19,070 --> 00:00:22,075
+It's used in many aspects of computing like computer networking,
+
+4
+00:00:22,075 --> 00:00:23,710
+which you'll learn about in a later course.
+
+5
+00:00:23,710 --> 00:00:26,890
+It's important that you understand how computers count in binary.
+
+6
+00:00:26,890 --> 00:00:31,030
+We've shown you simple lookup tables that you can use like the ASCII to binary table,
+
+7
+00:00:31,030 --> 00:00:33,010
+but as an IT support specialist,
+
+8
+00:00:33,010 --> 00:00:35,845
+whether you're working on networking or security,
+
+9
+00:00:35,845 --> 00:00:37,925
+you'll need to know how binary works.
+
+10
+00:00:37,925 --> 00:00:41,635
+So let's get started. You'll probably need a trusty pen and paper,
+
+11
+00:00:41,635 --> 00:00:45,630
+a calculator, and some good old-fashioned brain power to help you in this video.
+
+12
+00:00:45,630 --> 00:00:49,729
+The binary system is how our computers count using ones and zeros,
+
+13
+00:00:49,729 --> 00:00:51,180
+but humans don't count like that.
+
+14
+00:00:51,180 --> 00:00:54,905
+When you were a child, you may have counted using ten fingers on your hand.
+
+15
+00:00:54,905 --> 00:01:00,010
+That innate counting system is called the decimal form or base-10 system.
+
+16
+00:01:00,010 --> 00:01:01,169
+In the decimal system,
+
+17
+00:01:01,169 --> 00:01:04,775
+there are 10 possible numbers you can use ranging from zero to nine.
+
+18
+00:01:04,775 --> 00:01:06,195
+When we count binary,
+
+19
+00:01:06,195 --> 00:01:08,280
+which only uses zero and one,
+
+20
+00:01:08,280 --> 00:01:11,425
+we convert it to a system that we can understand, decimal.
+
+21
+00:01:11,425 --> 00:01:15,235
+330, 250, 2, 40,
+
+22
+00:01:15,235 --> 00:01:18,280
+4 million, they're all decimal numbers.
+
+23
+00:01:18,280 --> 00:01:23,005
+We use the decimal system to help us figure out what bits our computer can use.
+
+24
+00:01:23,005 --> 00:01:27,683
+We can represent any number in existence just by using bits. That's right.
+
+25
+00:01:27,683 --> 00:01:31,300
+And we can represent this number just using ones and zeros.
+
+26
+00:01:31,300 --> 00:01:32,815
+So how does that work?
+
+27
+00:01:32,815 --> 00:01:36,145
+Let's consider these numbers: 128, 64,
+
+28
+00:01:36,145 --> 00:01:41,575
+32, 16, 8, 4, 2, and 1.
+
+29
+00:01:41,575 --> 00:01:43,175
+What patterns do you see?
+
+30
+00:01:43,175 --> 00:01:45,100
+Hopefully, you'll see that each number is a
+
+31
+00:01:45,100 --> 00:01:47,795
+double of the previous number going right to left.
+
+32
+00:01:47,795 --> 00:01:49,435
+What happens if you add them all up?
+
+33
+00:01:49,435 --> 00:01:50,875
+You get 255.
+
+34
+00:01:50,875 --> 00:01:56,320
+That's kind of weird. I thought we could have 256 values for a byte. Well, we do.
+
+35
+00:01:56,320 --> 00:01:58,343
+The zero is counted as a value,
+
+36
+00:01:58,343 --> 00:02:02,350
+so the maximum decimal number you can have is 255.
+
+37
+00:02:02,350 --> 00:02:05,185
+What do you think the number is represented here?
+
+38
+00:02:05,185 --> 00:02:07,710
+See where the ones and the zeros are represented.
+
+39
+00:02:07,710 --> 00:02:09,925
+Remember, if our computer sees a one,
+
+40
+00:02:09,925 --> 00:02:11,470
+then the value was on.
+
+41
+00:02:11,470 --> 00:02:14,335
+If it sees a zero, then the value is off.
+
+42
+00:02:14,335 --> 00:02:15,610
+If you add these numbers up,
+
+43
+00:02:15,610 --> 00:02:17,230
+you'll get a decimal value.
+
+44
+00:02:17,230 --> 00:02:19,030
+If you guessed 10, then you're right.
+
+45
+00:02:19,030 --> 00:02:21,010
+Good job. If you didn't get it,
+
+46
+00:02:21,010 --> 00:02:23,340
+that's okay too. Take another look.
+
+47
+00:02:23,340 --> 00:02:24,646
+The 2 and 8 are on,
+
+48
+00:02:24,646 --> 00:02:27,345
+and if we add them up, we get 10.
+
+49
+00:02:27,345 --> 00:02:29,775
+Let's look at our ASCII to binary table again.
+
+50
+00:02:29,775 --> 00:02:35,830
+The letter h in binary is 01101000.
+
+51
+00:02:35,830 --> 00:02:38,320
+Now, let's look at an ASCII to decimal table.
+
+52
+00:02:38,320 --> 00:02:42,170
+The letter h in decimal is 104.
+
+53
+00:02:42,170 --> 00:02:44,135
+Now, let's try our conversion chart again.
+
+54
+00:02:44,135 --> 00:02:48,770
+64 plus 32 plus 8 equals 104.
+
+55
+00:02:48,770 --> 00:02:52,215
+Look at that. The math checks out. Now, we're cooking.
+
+56
+00:02:52,215 --> 00:02:55,290
+Wow! We've gone over all the essentials of
+
+57
+00:02:55,290 --> 00:02:58,380
+the basic building blocks of computing and machine language.
+
+58
+00:02:58,380 --> 00:03:00,900
+Next, you're going to learn how we build on top of this layer of
+
+59
+00:03:00,900 --> 00:03:05,000
+computing to perform the task you'll do day to day.

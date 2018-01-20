@@ -1,0 +1,343 @@
+1
+00:00:11,080 --> 00:00:16,530
+Okay. Now we've seen all the key components to get our computer running.
+
+2
+00:00:16,530 --> 00:00:19,990
+The last thing we'll go over is how our devices talk to each other.
+
+3
+00:00:19,990 --> 00:00:23,260
+We know how programs execute from our hard drive to our CPU,
+
+4
+00:00:23,260 --> 00:00:25,620
+but how do other things like a mouse click,
+
+5
+00:00:25,620 --> 00:00:29,160
+or a keyboard press get sent to our CPU for processing?
+
+6
+00:00:29,160 --> 00:00:30,715
+These are fairly basic devices.
+
+7
+00:00:30,715 --> 00:00:34,730
+They don't contain any instructions that our CPU knows how to read.
+
+8
+00:00:34,730 --> 00:00:36,635
+If you just clicked on a key from your keyboard,
+
+9
+00:00:36,635 --> 00:00:38,960
+you'd only be sending a bite to the CPU.
+
+10
+00:00:38,960 --> 00:00:41,300
+The CPU doesn't know what this is,
+
+11
+00:00:41,300 --> 00:00:44,385
+because it doesn't have instructions on how to deal with it.
+
+12
+00:00:44,385 --> 00:00:48,735
+Turns out our devices also use programs to tell the CPU how to run them.
+
+13
+00:00:48,735 --> 00:00:51,770
+These programs are called services or drivers.
+
+14
+00:00:51,770 --> 00:00:56,180
+The drivers contain the instructions our CPU needs to understand external devices,
+
+15
+00:00:56,180 --> 00:00:58,910
+like keyboards, webcams, printers.
+
+16
+00:00:58,910 --> 00:01:02,585
+Our CPU doesn't know that there is a device that it can talk to,
+
+17
+00:01:02,585 --> 00:01:05,450
+so it has to connect to something called the BIOS,
+
+18
+00:01:05,450 --> 00:01:08,625
+or Basic Input Output Services.
+
+19
+00:01:08,625 --> 00:01:11,960
+The BIOS is software that helps initialize the hardware in
+
+20
+00:01:11,960 --> 00:01:15,446
+our computer and gets our operating system up and running.
+
+21
+00:01:15,446 --> 00:01:17,815
+Unlike the programs, you're probably used to
+
+22
+00:01:17,815 --> 00:01:20,490
+running like a web browser or operating system,
+
+23
+00:01:20,490 --> 00:01:23,245
+the BIOS isn't stored on a hard drive.
+
+24
+00:01:23,245 --> 00:01:26,550
+Our motherboard stores the BIOS in a special type of
+
+25
+00:01:26,550 --> 00:01:30,700
+memory called the read only memory chip or ROM chip.
+
+26
+00:01:30,700 --> 00:01:34,290
+Unlike RAM, ROM is non-volatile,
+
+27
+00:01:34,290 --> 00:01:37,560
+meaning it won't erase the data if the computer is turned off.
+
+28
+00:01:37,560 --> 00:01:39,570
+Once the operating system loads,
+
+29
+00:01:39,570 --> 00:01:44,120
+we're able to load drivers from non essential devices directly from the hard drive.
+
+30
+00:01:44,120 --> 00:01:48,090
+In today's system, there's another player for BIOS called UEFI,
+
+31
+00:01:48,090 --> 00:01:52,980
+which stands for Unified Extensible Firmware Interface.
+
+32
+00:01:52,980 --> 00:01:58,995
+UEFI performs the same function of starting your computer as a traditional BIOS.
+
+33
+00:01:58,995 --> 00:02:04,140
+But it's more modern and has better compatibility and support for new hardware.
+
+34
+00:02:04,140 --> 00:02:07,410
+Most hardware out there today comes with UEFI built in.
+
+35
+00:02:07,410 --> 00:02:11,985
+Eventually, UEFI will become the predominant BIOS.
+
+36
+00:02:11,985 --> 00:02:13,666
+When you turn on a computer,
+
+37
+00:02:13,666 --> 00:02:16,230
+you might notice a beeping from time to time.
+
+38
+00:02:16,230 --> 00:02:20,605
+Our computers run a test to make sure all the hardware is working correctly.
+
+39
+00:02:20,605 --> 00:02:24,680
+This is called a power-on self-test or POST,
+
+40
+00:02:24,680 --> 00:02:27,700
+and a BIOS runs it when you boot up your computer.
+
+41
+00:02:27,700 --> 00:02:31,380
+The POST figures out what hardware is on the computer.
+
+42
+00:02:31,380 --> 00:02:36,190
+So it happens before the BIOS initializes any hardware or loads up essential drivers.
+
+43
+00:02:36,190 --> 00:02:38,411
+If there's an issue with anything at that point,
+
+44
+00:02:38,411 --> 00:02:40,695
+there is no way to display on the screen,
+
+45
+00:02:40,695 --> 00:02:43,680
+since things like the video driver haven't been loaded.
+
+46
+00:02:43,680 --> 00:02:47,025
+Instead, the computer can usually produce a series of beeps,
+
+47
+00:02:47,025 --> 00:02:48,675
+almost like Morse code,
+
+48
+00:02:48,675 --> 00:02:51,370
+which will help identify the problem.
+
+49
+00:02:51,370 --> 00:02:53,625
+Different manufacturers have different beep codes.
+
+50
+00:02:53,625 --> 00:02:56,520
+So, if your computer successfully boots up,
+
+51
+00:02:56,520 --> 00:02:58,845
+you may hear a single beep.
+
+52
+00:02:58,845 --> 00:03:01,460
+If you hear two beeps,
+
+53
+00:03:01,460 --> 00:03:04,715
+it could mean a POST error.
+
+54
+00:03:04,715 --> 00:03:06,760
+It's best to refer to your motherboard manual,
+
+55
+00:03:06,760 --> 00:03:09,460
+to find out what each code means.
+
+56
+00:03:09,460 --> 00:03:11,155
+Also, you should know that,
+
+57
+00:03:11,155 --> 00:03:13,645
+not all machines have built in speakers.
+
+58
+00:03:13,645 --> 00:03:17,470
+So, don't worry if your computer boots without a beep.
+
+59
+00:03:17,470 --> 00:03:19,780
+If it does have a built in speaker,
+
+60
+00:03:19,780 --> 00:03:22,735
+being able to distinguish what the beep codes mean
+
+61
+00:03:22,735 --> 00:03:26,560
+is an extremely helpful tool when troubleshooting boot issues.
+
+62
+00:03:26,560 --> 00:03:30,040
+One last thing, we'll discuss our BIOS settings.
+
+63
+00:03:30,040 --> 00:03:33,930
+There's a special chip on our motherboard called the CMOS chip.
+
+64
+00:03:33,930 --> 00:03:37,585
+It stores basic data about booting your computer,
+
+65
+00:03:37,585 --> 00:03:40,755
+like the date, time and how you want it to start up.
+
+66
+00:03:40,755 --> 00:03:46,230
+You can change these settings by booting into CMOS or BIOS settings menu.
+
+67
+00:03:46,230 --> 00:03:47,605
+It varies on different computers,
+
+68
+00:03:47,605 --> 00:03:49,990
+but usually, when you boot the computer,
+
+69
+00:03:49,990 --> 00:03:51,520
+there will be a quick screen that tells you
+
+70
+00:03:51,520 --> 00:03:54,475
+what buttons to push to get into the settings.
+
+71
+00:03:54,475 --> 00:03:59,427
+From there,you can change the basic BIOS settings of your machine.
+
+72
+00:03:59,427 --> 00:04:01,245
+Then I.T. support role.
+
+73
+00:04:01,245 --> 00:04:04,200
+You might interact with the BIOS more often than you think.
+
+74
+00:04:04,200 --> 00:04:08,410
+BIOS settings control which devices to boot to, and in an I.T.
+
+75
+00:04:08,410 --> 00:04:10,980
+role, you might need to change the settings more often than not.
+
+76
+00:04:10,980 --> 00:04:12,750
+A frequently performed I.T.
+
+77
+00:04:12,750 --> 00:04:15,750
+task is the re-imaging of a computer.
+
+78
+00:04:15,750 --> 00:04:17,550
+The term refers to a disk image,
+
+79
+00:04:17,550 --> 00:04:19,935
+which is a copy of an operating system.
+
+80
+00:04:19,935 --> 00:04:22,860
+So the process of re-imaging involves wiping,
+
+81
+00:04:22,860 --> 00:04:25,650
+and reinstalling an operating system.
+
+82
+00:04:25,650 --> 00:04:29,035
+This procedure is typically performed using a program that stored on
+
+83
+00:04:29,035 --> 00:04:32,535
+some external device like a USP memory steak,
+
+84
+00:04:32,535 --> 00:04:36,420
+or CD-ROM, or even a server accessible through the network.
+
+85
+00:04:36,420 --> 00:04:39,325
+To access these programs and perform the re-image,
+
+86
+00:04:39,325 --> 00:04:44,970
+you need to use the BIOS to tell the computer to boot up from that external device.

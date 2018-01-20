@@ -1,0 +1,41 @@
+The last operating system we'll
+go over is Apple's Mac OS. We won't go into too many details
+about how to use this OS. Instead, we'll focus on the ins and
+outs of Windows and Linux OSs'. But if you know one operating system, you'll be able to navigate
+any operating system. Fortunately, all Apple computers
+come with Mac OS pre-installed, so we'll just go through the important
+parts of the operating system. Okay, here's the desktop environment for
+our Mac. At the bottom here, you'll see a doc
+with shortcuts to your applications. In the top right, you've got the system
+information like the time and date, network connectivity, battery life, if you have a laptop and
+some other quick settings. In the top left here,
+you can see the Apple icon. This bar will change menu options
+depending on what application is open. But if you click on the Apple icon,
+you'll see more options. You can tell your computer to Sleep,
+Restart and power off from here. The most important thing we want to look
+at is at the System Preferences menu item. This launches our system settings. From here,
+we can change any of our computer settings like setting the orientation of our
+mouse scroll, adding and removing users. Setting up printers, changing our screen
+savers, adding Bluetooth devices and more. I'm going to click on the desktop now. You'll notice our top-left setting changed
+from our System Preferences to Finder. Finder is the file manager for all Macs. If you open a new Finder window,
+you can navigate the files and folders on your Mac. If you right click on a file,
+or if you're using a Mac laptop you can use a two-finger click on
+a file to view more information and perform lots of different tasks. The Mac, which is a completely different
+operating system than Windows or Linux, operates in a very similar way,
+with similar menu options. Wow, you've really come a long way. You've been introduced to the major
+operating systems used today, gotten to play around with the system,
+and even performed some common tasks. Nice work. It's important in any IT
+role to know the ins and outs of operating systems, because you'll
+be interacting with them every single day. We have a separate course that teaches you
+all the essentials you need to navigate the Windows and Linux OSs'. But for now, pat yourself on the back. You just took the first step
+towards understanding OSs'. Installing, managing and
+navigating operating systems, are all tasks that you'll have to do
+daily as an IT support specialist. You may even find yourself doing this for hundreds, if not thousands of
+machines in your fleet one day. Before we send you to the next module,
+we have two assessments for you. Which will test you on creating files,
+with both Windows and Linux. You can always go back and review
+the videos again, if you need a refresher. Otherwise, I'll sign off for now, and
+we'll meet again in Course Three, Operating Systems and You,
+Becoming a Power User. In the next module,
+you'll meet my friend and colleague Victor Escobido who's going to
+dig into the Internet and networking.

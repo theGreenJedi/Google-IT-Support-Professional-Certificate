@@ -1,0 +1,159 @@
+1
+00:00:11,010 --> 00:00:13,740
+Remember that when a process runs,
+
+2
+00:00:13,740 --> 00:00:16,800
+it needs CPU time, but it also needs memory.
+
+3
+00:00:16,800 --> 00:00:18,490
+When processes are run,
+
+4
+00:00:18,490 --> 00:00:20,600
+they have to take up space in memory,
+
+5
+00:00:20,600 --> 00:00:23,360
+so that the computer can read and load them quickly.
+
+6
+00:00:23,360 --> 00:00:26,084
+However, compared to our hard disk drives,
+
+7
+00:00:26,084 --> 00:00:28,335
+memory comes in smaller quantities.
+
+8
+00:00:28,335 --> 00:00:30,655
+So to give us more memory than we physically have,
+
+9
+00:00:30,655 --> 00:00:33,130
+we use something called virtual memory.
+
+10
+00:00:33,130 --> 00:00:35,590
+Virtual memory is a combination of
+
+11
+00:00:35,590 --> 00:00:40,030
+hard drive space and RAM that acts like memory that our processes can use.
+
+12
+00:00:40,030 --> 00:00:41,630
+When we execute a process,
+
+13
+00:00:41,630 --> 00:00:45,325
+we take the data of the program in chunks we call pages.
+
+14
+00:00:45,325 --> 00:00:48,115
+We store these pages in virtual memory.
+
+15
+00:00:48,115 --> 00:00:50,750
+If we want to read and execute these pages,
+
+16
+00:00:50,750 --> 00:00:53,920
+they have to be sent to physical memory or RAM.
+
+17
+00:00:53,920 --> 00:00:57,925
+Why don't we just store the entire program in RAM so we can execute it quickly?
+
+18
+00:00:57,925 --> 00:01:00,890
+Well, you could if it was small enough,
+
+19
+00:01:00,890 --> 00:01:03,940
+but for large applications, it would be wasteful.
+
+20
+00:01:03,940 --> 00:01:05,750
+Have you ever worked in a word processor,
+
+21
+00:01:05,750 --> 00:01:08,150
+and then gone to a menu you don't normally use,
+
+22
+00:01:08,150 --> 00:01:10,383
+and notice the application slow down a little?
+
+23
+00:01:10,383 --> 00:01:12,890
+It's because your computer had to load the page
+
+24
+00:01:12,890 --> 00:01:16,040
+for that menu from virtual memory into RAM.
+
+25
+00:01:16,040 --> 00:01:18,850
+We don't use all the features of our application at once.
+
+26
+00:01:18,850 --> 00:01:20,905
+So why load it up at once?
+
+27
+00:01:20,905 --> 00:01:24,100
+It's similar to cooking a recipe from a cookbook.
+
+28
+00:01:24,100 --> 00:01:27,080
+You don't need to read the whole book just to make one recipe.
+
+29
+00:01:27,080 --> 00:01:30,980
+You only need to read the pages of the recipe you're currently using.
+
+30
+00:01:30,980 --> 00:01:33,623
+When we store our virtual memory on our hard drive,
+
+31
+00:01:33,623 --> 00:01:36,890
+we call the allocated space, swap space.
+
+32
+00:01:36,890 --> 00:01:40,055
+When we get into practical applications of disk partitioning,
+
+33
+00:01:40,055 --> 00:01:41,645
+we'll allocate space for swap.
+
+34
+00:01:41,645 --> 00:01:44,495
+The kernel takes care of all of this for us, of course.
+
+35
+00:01:44,495 --> 00:01:46,910
+It handles the process of taking pages of
+
+36
+00:01:46,910 --> 00:01:49,850
+data and swapping them between RAM and virtual memory.
+
+37
+00:01:49,850 --> 00:01:53,485
+But, the kernel isn't the only hard worker around.
+
+38
+00:01:53,485 --> 00:01:56,030
+You've done great getting through the lessons so far.
+
+39
+00:01:56,030 --> 00:01:58,175
+Nice work. Up next,
+
+40
+00:01:58,175 --> 00:02:02,670
+we'll tackle I/O management. See you there.

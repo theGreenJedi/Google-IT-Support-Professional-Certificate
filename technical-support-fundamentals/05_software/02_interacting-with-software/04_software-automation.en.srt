@@ -1,0 +1,127 @@
+1
+00:00:10,720 --> 00:00:15,440
+You're doing awesome. By now you've learned what software is,
+
+2
+00:00:15,440 --> 00:00:18,955
+how it integrates with our computer, and how we manage it.
+
+3
+00:00:18,955 --> 00:00:20,315
+It was easy to install,
+
+4
+00:00:20,315 --> 00:00:23,135
+update, and remove software on one machine.
+
+5
+00:00:23,135 --> 00:00:26,145
+But what if you had to do that for multiple machines?
+
+6
+00:00:26,145 --> 00:00:28,205
+That would take up a lot of time.
+
+7
+00:00:28,205 --> 00:00:32,180
+If only there was a way we could have it done automatically for us.
+
+8
+00:00:32,180 --> 00:00:34,910
+Spoiler alert, there is.
+
+9
+00:00:34,910 --> 00:00:37,215
+We use software to help us with this.
+
+10
+00:00:37,215 --> 00:00:41,640
+There are lots of tools out there that help make managing computers easier.
+
+11
+00:00:41,640 --> 00:00:43,415
+We use automation for this.
+
+12
+00:00:43,415 --> 00:00:46,520
+Automation makes processes work automatically.
+
+13
+00:00:46,520 --> 00:00:49,400
+You can even use the tools of automation like programs
+
+14
+00:00:49,400 --> 00:00:52,595
+and scripts to help you with troubleshooting issues.
+
+15
+00:00:52,595 --> 00:00:55,670
+So instead of reading hundreds of lines of log files
+
+16
+00:00:55,670 --> 00:00:59,495
+manually to discover when a particular error occurred on a computer,
+
+17
+00:00:59,495 --> 00:01:05,220
+you could write a script to read the log for you and print out only the relevant line,
+
+18
+00:01:05,220 --> 00:01:07,754
+we'll learn a lot more about automation later.
+
+19
+00:01:07,754 --> 00:01:10,235
+Just know that software has many uses
+
+20
+00:01:10,235 --> 00:01:14,140
+including making processes more efficient and easier.
+
+21
+00:01:14,140 --> 00:01:17,562
+You made it all the way through software, nice work.
+
+22
+00:01:17,562 --> 00:01:21,011
+We'll meet again in course five, IT Automation,
+
+23
+00:01:21,011 --> 00:01:23,613
+it's not that scary, really it's not.
+
+24
+00:01:23,613 --> 00:01:25,960
+I'm excited to show you the power of
+
+25
+00:01:25,960 --> 00:01:29,950
+automation and teach you some of the actual coding in Ruby.
+
+26
+00:01:29,950 --> 00:01:32,370
+Next, you'll meet Marty Clark,
+
+27
+00:01:32,370 --> 00:01:35,260
+she's your instructor for troubleshooting and will talk to you
+
+28
+00:01:35,260 --> 00:01:39,268
+about how good customer service is critical to IT support.
+
+29
+00:01:39,268 --> 00:01:41,170
+In the meantime, work hard,
+
+30
+00:01:41,170 --> 00:01:42,940
+soak up a ton of knowledge,
+
+31
+00:01:42,940 --> 00:01:44,795
+and have some fun along the way.
+
+32
+00:01:44,795 --> 00:01:47,000
+I'll see you back here later on.

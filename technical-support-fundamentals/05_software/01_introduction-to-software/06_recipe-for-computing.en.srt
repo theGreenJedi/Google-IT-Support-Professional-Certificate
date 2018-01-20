@@ -1,0 +1,239 @@
+1
+00:00:10,820 --> 00:00:13,485
+Remember that in the 1950s,
+
+2
+00:00:13,485 --> 00:00:16,650
+computer scientists use punch cards to store programs.
+
+3
+00:00:16,650 --> 00:00:20,250
+These punch cards represented bits that the CPU would read and
+
+4
+00:00:20,250 --> 00:00:24,300
+then perform a series of instructions based on what the program was.
+
+5
+00:00:24,300 --> 00:00:27,360
+The binary code, could look like this,
+
+6
+00:00:27,360 --> 00:00:31,370
+and the instructions would be translated to this.
+
+7
+00:00:31,370 --> 00:00:34,965
+Grab some input data from this location in memory,
+
+8
+00:00:34,965 --> 00:00:36,878
+using the input data,
+
+9
+00:00:36,878 --> 00:00:42,200
+do some math, then put some output data into this location in memory.
+
+10
+00:00:42,200 --> 00:00:48,050
+But storing programs on punch cards was a long and tedious task.
+
+11
+00:00:48,050 --> 00:00:51,740
+The programs had to be kept on stacks and stacks of punch cards.
+
+12
+00:00:51,740 --> 00:00:57,625
+Computer scientists needed a better way to send instructions to a machine, but how?
+
+13
+00:00:57,625 --> 00:01:02,625
+Eventually, a language was invented called Assembly language,
+
+14
+00:01:02,625 --> 00:01:06,810
+that allowed computer scientists to use human readable instructions,
+
+15
+00:01:06,810 --> 00:01:10,355
+assembled into code that the machines could understand.
+
+16
+00:01:10,355 --> 00:01:12,600
+Instead of generating binary code,
+
+17
+00:01:12,600 --> 00:01:16,020
+computer scientists could program using machine instructions,
+
+18
+00:01:16,020 --> 00:01:17,685
+it is like this,
+
+19
+00:01:17,685 --> 00:01:20,290
+take integer from register one,
+
+20
+00:01:20,290 --> 00:01:22,830
+take integer from register two,
+
+21
+00:01:22,830 --> 00:01:28,795
+add integer from register one and register two and output to register four.
+
+22
+00:01:28,795 --> 00:01:32,120
+This example makes it look like a human can read it,
+
+23
+00:01:32,120 --> 00:01:33,835
+but don't be fooled.
+
+24
+00:01:33,835 --> 00:01:37,140
+Let's take an example of saying something simple like,
+
+25
+00:01:37,140 --> 00:01:40,060
+hello world, in Assembly language.
+
+26
+00:01:40,060 --> 00:01:42,355
+It looks pretty robotic.
+
+27
+00:01:42,355 --> 00:01:46,910
+Don't get me wrong, that's still an improvement over it's binary code cousin.
+
+28
+00:01:46,910 --> 00:01:52,065
+But Assembly language will still register thin veil from machine code.
+
+29
+00:01:52,065 --> 00:01:56,820
+It's still didn't let computer programmers use real human words to build a program.
+
+30
+00:01:56,820 --> 00:01:59,620
+And a program that was written for a specific CPU,
+
+31
+00:01:59,620 --> 00:02:03,650
+could only be run on that CPU or family of CPUs.
+
+32
+00:02:03,650 --> 00:02:08,100
+A program was needed that could run on many types of CPUs.
+
+33
+00:02:08,100 --> 00:02:10,875
+Enter compiled programming languages.
+
+34
+00:02:10,875 --> 00:02:15,605
+A compiled programming language uses human readable instructions,
+
+35
+00:02:15,605 --> 00:02:18,015
+then sends them through a compiler.
+
+36
+00:02:18,015 --> 00:02:23,315
+The compiler takes the human instructions and compiles them into machine instructions.
+
+37
+00:02:23,315 --> 00:02:27,140
+Admiral Grace Hopper, invented this back in 1959,
+
+38
+00:02:27,140 --> 00:02:28,812
+to help make programming easier.
+
+39
+00:02:28,812 --> 00:02:32,825
+Compilers are a key component to programming,
+
+40
+00:02:32,825 --> 00:02:36,585
+and helped to pave the road that led us to today's modern computing.
+
+41
+00:02:36,585 --> 00:02:40,595
+Thanks to compilers, we can now use something like this,
+
+42
+00:02:40,595 --> 00:02:44,285
+and it will be the same thing as this.
+
+43
+00:02:44,285 --> 00:02:48,080
+Computer scientists have developed hundreds of programming languages in
+
+44
+00:02:48,080 --> 00:02:51,035
+the past couple of decades to try and abstract
+
+45
+00:02:51,035 --> 00:02:54,590
+the different CPU instructions into it's simpler commands.
+
+46
+00:02:54,590 --> 00:02:57,095
+Along the way, another type of language emerged
+
+47
+00:02:57,095 --> 00:03:00,245
+that was interpreted rather than compiled.
+
+48
+00:03:00,245 --> 00:03:03,795
+Interpreted languages aren't compiled ahead of time.
+
+49
+00:03:03,795 --> 00:03:08,590
+A file that has code written in one of these languages is usually called a Script.
+
+50
+00:03:08,590 --> 00:03:10,740
+The script is run by an interpreter,
+
+51
+00:03:10,740 --> 00:03:16,345
+which interprets the code into CPU instructions just in time to run them.
+
+52
+00:03:16,345 --> 00:03:19,695
+You'll learn how to write code using a scripting language later in this program.
+
+53
+00:03:19,695 --> 00:03:21,780
+As an IT support specialist,
+
+54
+00:03:21,780 --> 00:03:24,720
+scripting can help you by harnessing the power of
+
+55
+00:03:24,720 --> 00:03:27,660
+a computer to perform tasks on your behalf,
+
+56
+00:03:27,660 --> 00:03:31,820
+allowing you to solve a problem once and then move on to the next thing.
+
+57
+00:03:31,820 --> 00:03:34,860
+Programming languages are used to create programs
+
+58
+00:03:34,860 --> 00:03:38,755
+that can be run to perform a task or many tasks.
+
+59
+00:03:38,755 --> 00:03:42,195
+There are lots of types of programs and in the next lesson,
+
+60
+00:03:42,195 --> 00:03:45,000
+we'll talk about how to manage them.

@@ -1,0 +1,243 @@
+1
+00:00:10,750 --> 00:00:15,035
+Let's talk about RAM, our computers' short term memory.
+
+2
+00:00:15,035 --> 00:00:18,625
+We use RAM to store data that we want to access quickly.
+
+3
+00:00:18,625 --> 00:00:22,400
+This data changes all the time so it isn't permanent.
+
+4
+00:00:22,400 --> 00:00:24,275
+Almost all RAM is volatile,
+
+5
+00:00:24,275 --> 00:00:26,480
+which means that once we power off our machines,
+
+6
+00:00:26,480 --> 00:00:28,805
+the data stored in RAM is cleared.
+
+7
+00:00:28,805 --> 00:00:32,690
+Remember that our computer is comprised of programs.
+
+8
+00:00:32,690 --> 00:00:33,956
+To run a program,
+
+9
+00:00:33,956 --> 00:00:38,740
+we need to make a copy of it in RAM so our CPU can process it.
+
+10
+00:00:38,740 --> 00:00:42,495
+When you see a new phone or laptop that's says it has 16 gigs of RAM,
+
+11
+00:00:42,495 --> 00:00:45,755
+that means it can run up to 16 gigs of programs,
+
+12
+00:00:45,755 --> 00:00:48,825
+meaning you can run lots of programs at the same time.
+
+13
+00:00:48,825 --> 00:00:51,610
+When you type in a document, you're using RAM.
+
+14
+00:00:51,610 --> 00:00:53,960
+If you've ever had the misfortune of working on
+
+15
+00:00:53,960 --> 00:00:57,133
+an important presentation of paper and losing power,
+
+16
+00:00:57,133 --> 00:01:00,890
+you know the feeling you get when all of the work you've done is lost.
+
+17
+00:01:00,890 --> 00:01:05,600
+It's a total bummer. This happens to anything with RAM, even video games.
+
+18
+00:01:05,600 --> 00:01:08,435
+Have you ever gone on a long campaign without saving,
+
+19
+00:01:08,435 --> 00:01:10,535
+then right as you get to a safe point,
+
+20
+00:01:10,535 --> 00:01:15,370
+the power goes off on the console and all the progress you've made is lost forever?
+
+21
+00:01:15,370 --> 00:01:18,950
+It's not fun at all. You spend the next hour or so deciding whether or
+
+22
+00:01:18,950 --> 00:01:22,820
+not just to rage quit the game completely and start all over from scratch.
+
+23
+00:01:22,820 --> 00:01:24,705
+Not that this happened to me or anything,
+
+24
+00:01:24,705 --> 00:01:26,260
+that was just a friend.
+
+25
+00:01:26,260 --> 00:01:30,225
+Anyway, all of this happens because frankly as it's data when powered off.
+
+26
+00:01:30,225 --> 00:01:31,800
+There are lots of types of RAM.
+
+27
+00:01:31,800 --> 00:01:33,800
+And the one is commonly found in computers,
+
+28
+00:01:33,800 --> 00:01:37,265
+is DRAM or dynamic random access memory.
+
+29
+00:01:37,265 --> 00:01:39,870
+Where no one or zero is sent to DRAM,
+
+30
+00:01:39,870 --> 00:01:43,350
+it source each bit in a microscopic capacitor.
+
+31
+00:01:43,350 --> 00:01:47,785
+This is either the charge or discharge represented by one or zero.
+
+32
+00:01:47,785 --> 00:01:52,705
+These semiconductors are put into chips that are on the RAM and store our data.
+
+33
+00:01:52,705 --> 00:01:56,385
+There are also different types of memory states that DRAM chips can be put on.
+
+34
+00:01:56,385 --> 00:01:58,261
+The more modern DIMM sticks,
+
+35
+00:01:58,261 --> 00:02:01,760
+which usually stands for Dual Inline Memory Module,
+
+36
+00:02:01,760 --> 00:02:04,350
+have different sizes of pins on them.
+
+37
+00:02:04,350 --> 00:02:09,445
+I should call out, we don't really buy RAM based on the number of DRAM chips they have.
+
+38
+00:02:09,445 --> 00:02:11,830
+They are labeled by the capacity of RAM on a stake,
+
+39
+00:02:11,830 --> 00:02:13,780
+like an 8 gig stick of RAM.
+
+40
+00:02:13,780 --> 00:02:15,330
+After DRAM was created,
+
+41
+00:02:15,330 --> 00:02:21,150
+RAM manufacturers build something called SDRAM which stands for Synchronous DRAM.
+
+42
+00:02:21,150 --> 00:02:22,860
+This type of RAM is synchronized to
+
+43
+00:02:22,860 --> 00:02:26,025
+our systems' clock speed allowing quicker processing of data.
+
+44
+00:02:26,025 --> 00:02:28,714
+In today's system, we use another type of RAM,
+
+45
+00:02:28,714 --> 00:02:30,960
+called double data rate SDRAM,
+
+46
+00:02:30,960 --> 00:02:35,025
+or DDR SDRAM for short.
+
+47
+00:02:35,025 --> 00:02:39,650
+Most people refer to this RAM as DDR, even shorter.
+
+48
+00:02:39,650 --> 00:02:43,170
+There were lots of iterations of DDR, from DDR1,
+
+49
+00:02:43,170 --> 00:02:47,130
+DDR2, DDR3 and now, DDR4.
+
+50
+00:02:47,130 --> 00:02:49,530
+DDR is faster, takes up less power,
+
+51
+00:02:49,530 --> 00:02:52,950
+and has a larger capacity than earlier SDRAM versions.
+
+52
+00:02:52,950 --> 00:02:54,990
+The latest version, DDR4,
+
+53
+00:02:54,990 --> 00:02:59,250
+is the fastest type of short term memory currently available for your computer.
+
+54
+00:02:59,250 --> 00:03:01,410
+And faster RAM means that programs can be run
+
+55
+00:03:01,410 --> 00:03:04,585
+faster and that more programs can run at the same time.
+
+56
+00:03:04,585 --> 00:03:06,990
+Keep in mind that any RAM sticks you use
+
+57
+00:03:06,990 --> 00:03:09,660
+need a compatible motherboard with a different number of
+
+58
+00:03:09,660 --> 00:03:15,920
+pins aligned with the motherboard RAM slots.
+
+59
+00:03:15,920 --> 00:03:20,270
+Just like with the CPU,
+
+60
+00:03:20,270 --> 00:03:24,560
+make sure that your motherboard is compatible with any RAM sticks that you buy.
+
+61
+00:03:24,560 --> 00:03:28,000
+Up next, we'll take a deep dive into motherboards.

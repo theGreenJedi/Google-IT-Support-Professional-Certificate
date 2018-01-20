@@ -1,0 +1,243 @@
+1
+00:00:11,895 --> 00:00:14,770
+Remember when I said that a computer
+is a device that stores and
+
+2
+00:00:14,770 --> 00:00:17,140
+processes data by performing calculations?
+
+3
+00:00:17,140 --> 00:00:21,240
+Whether you're creating an artificial
+intelligence that can beat humans at chess
+
+4
+00:00:21,240 --> 00:00:23,450
+or something more simple,
+like running a video game,
+
+5
+00:00:23,450 --> 00:00:27,360
+the more computing power you have
+access to, the more you can accomplish.
+
+6
+00:00:27,360 --> 00:00:28,400
+By the end of this lesson,
+
+7
+00:00:28,400 --> 00:00:31,710
+you'll understand what
+a computer calculates, and how.
+
+8
+00:00:31,710 --> 00:00:33,499
+Let's look at this simple math problem.
+
+9
+00:00:33,499 --> 00:00:35,736
+0 +1 equals what?
+
+10
+00:00:35,736 --> 00:00:38,158
+It only takes a moment to come
+up with the answer 1, but
+
+11
+00:00:38,158 --> 00:00:41,810
+imagine that you needed to do 100
+calculations that were this simple.
+
+12
+00:00:41,810 --> 00:00:44,732
+You could do it, and if you were careful,
+you might not make any mistakes.
+
+13
+00:00:44,732 --> 00:00:47,970
+Well, what if you needed to do
+1,000 of these calculations?
+
+14
+00:00:47,970 --> 00:00:50,620
+How about 1 million?
+How about 1 billion?
+
+15
+00:00:50,620 --> 00:00:52,820
+This is exactly what a computer does.
+
+16
+00:00:52,820 --> 00:00:58,410
+A computer simply compares 1s and 0s, but
+millions or billions of times per second.
+
+17
+00:00:58,410 --> 00:00:59,700
+Wowza!
+
+18
+00:00:59,700 --> 00:01:04,400
+The communication that a computer
+uses is referred to as binary system,
+
+19
+00:01:04,400 --> 00:01:07,330
+also known as base-2 numeral system.
+
+20
+00:01:07,330 --> 00:01:09,890
+This means that it only talks in 1s and
+0s.
+
+21
+00:01:09,890 --> 00:01:13,155
+You may be thinking, okay,
+my computer only talks in 1s and 0s.
+
+22
+00:01:13,155 --> 00:01:14,570
+How do I communicate with it?
+
+23
+00:01:14,570 --> 00:01:15,890
+Think of it like this.
+
+24
+00:01:15,890 --> 00:01:19,960
+We use the letters of the alphabet to form
+words and we give those words meaning.
+
+25
+00:01:19,960 --> 00:01:23,660
+We use them to create sentences,
+paragraphs, and whole stories.
+
+26
+00:01:23,660 --> 00:01:28,062
+The same thing applies to binary,
+except instead of A, B, C, and so on,
+
+27
+00:01:28,062 --> 00:01:32,620
+we only have 0 and
+1 to create words that we give meaning to.
+
+28
+00:01:32,620 --> 00:01:36,790
+In computing terms,
+we group binary into 8 numbers, or bits.
+
+29
+00:01:36,790 --> 00:01:39,310
+Technically, a bit is a binary digit.
+
+30
+00:01:39,310 --> 00:01:43,150
+Historically, we used 8 bits because
+in the early days of computing,
+
+31
+00:01:43,150 --> 00:01:46,670
+hardware utilized the base-2
+numeral system to move bits around.
+
+32
+00:01:46,670 --> 00:01:50,780
+2 to the 8th numbers offered
+us a large enough range
+
+33
+00:01:50,780 --> 00:01:53,230
+of values to do the computing we needed.
+
+34
+00:01:53,230 --> 00:01:55,750
+Back then,
+any number of bits was used, but
+
+35
+00:01:55,750 --> 00:02:00,210
+eventually the grouping of 8 bits became
+the industry standard that we use today.
+
+36
+00:02:00,210 --> 00:02:04,202
+You should know that a group of
+8 bits is referred to as a byte.
+
+37
+00:02:04,202 --> 00:02:09,941
+So a byte of zeroes and
+ones could look like 10011011.
+
+38
+00:02:09,941 --> 00:02:15,383
+Each byte can store one character,
+and we can have 256 possible values,
+
+39
+00:02:15,383 --> 00:02:18,820
+thanks to the base-2 system, 2 to the 8th.
+
+40
+00:02:18,820 --> 00:02:21,660
+In computer talk, this byte could
+mean something like the letter C.
+
+41
+00:02:22,660 --> 00:02:24,800
+And this is how computer
+language was born.
+
+42
+00:02:24,800 --> 00:02:28,981
+Let's make a quick table to translate
+something a computer might see into
+
+43
+00:02:28,981 --> 00:02:31,220
+something we'd be able to recognize.
+
+44
+00:02:31,220 --> 00:02:32,720
+What does the following translate to?
+
+45
+00:02:35,200 --> 00:02:36,920
+Did you get hello?
+
+46
+00:02:36,920 --> 00:02:37,580
+Pretty cool, right?
+
+47
+00:02:38,680 --> 00:02:42,510
+By using binary, we can have unlimited
+communication with our computer.
+
+48
+00:02:42,510 --> 00:02:45,620
+Everything you see on your computer
+right now, whether it's a video,
+
+49
+00:02:45,620 --> 00:02:50,580
+an image, text or anything else,
+is nothing more than a 1 or a 0.
+
+50
+00:02:50,580 --> 00:02:53,870
+It is important you
+understand how binary works.
+
+51
+00:02:53,870 --> 00:02:56,520
+It is the basis for everything
+else we'll do in this course, so
+
+52
+00:02:56,520 --> 00:02:59,070
+make sure you understand
+the concept before moving on.

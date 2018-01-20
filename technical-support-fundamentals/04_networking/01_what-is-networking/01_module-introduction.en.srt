@@ -1,0 +1,283 @@
+1
+00:00:11,050 --> 00:00:14,420
+Hi, my name is Victor Escobedo,
+
+2
+00:00:14,420 --> 00:00:16,610
+and I'm a corporate operations engineer.
+
+3
+00:00:16,610 --> 00:00:18,770
+I'm excited to spend the next few lessons with you,
+
+4
+00:00:18,770 --> 00:00:20,166
+before my colleague and friend,
+
+5
+00:00:20,166 --> 00:00:24,135
+Geon, takes the reins and wraps up the rest of the lessons on the Internet.
+
+6
+00:00:24,135 --> 00:00:25,325
+Before we dive in though,
+
+7
+00:00:25,325 --> 00:00:27,635
+I'd like to tell you a little bit about myself.
+
+8
+00:00:27,635 --> 00:00:30,815
+My passion for I.T. began way back when I was nine years old,
+
+9
+00:00:30,815 --> 00:00:33,075
+and my dad brought home our first computer.
+
+10
+00:00:33,075 --> 00:00:35,270
+He was a mechanical engineer and started using
+
+11
+00:00:35,270 --> 00:00:37,670
+the computer to help him with his CAD work.
+
+12
+00:00:37,670 --> 00:00:39,860
+This was the first time I was exposed to computers,
+
+13
+00:00:39,860 --> 00:00:43,850
+and later realized you can install new software on it, including computer games.
+
+14
+00:00:43,850 --> 00:00:45,305
+As I tinkered with the computer,
+
+15
+00:00:45,305 --> 00:00:46,805
+surely to my dad's dismay,
+
+16
+00:00:46,805 --> 00:00:49,820
+I became more and more interested in how it worked
+
+17
+00:00:49,820 --> 00:00:53,020
+and eventually started to open up the case and peek inside.
+
+18
+00:00:53,020 --> 00:00:56,690
+I found pieces that could be removed and even some that shouldn't,
+
+19
+00:00:56,690 --> 00:00:58,895
+learning through trial and error along the way.
+
+20
+00:00:58,895 --> 00:01:00,785
+I couldn't really explain what it was,
+
+21
+00:01:00,785 --> 00:01:04,745
+but I just found the mechanics of how it all worked together so fascinating.
+
+22
+00:01:04,745 --> 00:01:08,060
+Looking back, these were the seeds that inspired my career.
+
+23
+00:01:08,060 --> 00:01:09,995
+But you see where I grew up,
+
+24
+00:01:09,995 --> 00:01:12,320
+going to college and pursuing a career,
+
+25
+00:01:12,320 --> 00:01:15,245
+wasn't exactly talked about or heavily encouraged.
+
+26
+00:01:15,245 --> 00:01:17,600
+I'm a first generation Mexican-American and there
+
+27
+00:01:17,600 --> 00:01:20,920
+weren't a lot of people I knew pursuing a career in tech.
+
+28
+00:01:20,920 --> 00:01:23,195
+My friends and family were mostly worrying about
+
+29
+00:01:23,195 --> 00:01:25,755
+graduating high school and making sure they had jobs,
+
+30
+00:01:25,755 --> 00:01:27,835
+not really thinking about careers.
+
+31
+00:01:27,835 --> 00:01:31,025
+My school didn't have the resources to offer many technical classes,
+
+32
+00:01:31,025 --> 00:01:34,115
+and even though my father was working in mechanical engineering,
+
+33
+00:01:34,115 --> 00:01:35,615
+computers were a tool to him,
+
+34
+00:01:35,615 --> 00:01:38,840
+like a mill, ruler, or a hammer.
+
+35
+00:01:38,840 --> 00:01:41,870
+My parents encouraged me to work hard and pursue computers but
+
+36
+00:01:41,870 --> 00:01:45,420
+they couldn't really give advice about college or a career in tech.
+
+37
+00:01:45,420 --> 00:01:46,715
+To no real fault of their own,
+
+38
+00:01:46,715 --> 00:01:49,310
+they just didn't have the necessary experience.
+
+39
+00:01:49,310 --> 00:01:50,825
+When I decided to go to college,
+
+40
+00:01:50,825 --> 00:01:54,170
+I decided to try my hand at computer science since it could
+
+41
+00:01:54,170 --> 00:01:58,125
+feed my curiosity for how computers worked at a more fundamental level.
+
+42
+00:01:58,125 --> 00:02:01,730
+I realized that having this foundational knowledge really allowed me to
+
+43
+00:02:01,730 --> 00:02:05,885
+understand some of the higher level concepts that were important in a career in tech.
+
+44
+00:02:05,885 --> 00:02:08,515
+So, while in school I took on my first I.T.
+
+45
+00:02:08,515 --> 00:02:10,340
+job for a local small company.
+
+46
+00:02:10,340 --> 00:02:12,770
+I've been working in I.T. now for 12 years,
+
+47
+00:02:12,770 --> 00:02:15,195
+with the last seven years being here at Google.
+
+48
+00:02:15,195 --> 00:02:18,050
+I now work on managing deployments of large internal I.T.
+
+49
+00:02:18,050 --> 00:02:19,146
+projects for the company,
+
+50
+00:02:19,146 --> 00:02:22,310
+applying the knowledge I picked up over the years in my initial I.T.
+
+51
+00:02:22,310 --> 00:02:27,155
+help desk roles, to make sure that I understand how I'm impacting our users,
+
+52
+00:02:27,155 --> 00:02:28,695
+and various support teams.
+
+53
+00:02:28,695 --> 00:02:30,480
+Now that you know a little bit about me,
+
+54
+00:02:30,480 --> 00:02:32,593
+let's dig in to the Internet.
+
+55
+00:02:32,593 --> 00:02:37,550
+The Internet made it possible for us to connect with almost anyone in the world.
+
+56
+00:02:37,550 --> 00:02:40,700
+Before the Internet, you had to use paper maps
+
+57
+00:02:40,700 --> 00:02:44,360
+and write down step by step directions to get where you wanted to go.
+
+58
+00:02:44,360 --> 00:02:46,965
+If you wanted to see what your friends were up to,
+
+59
+00:02:46,965 --> 00:02:48,230
+you'd have to call them,
+
+60
+00:02:48,230 --> 00:02:50,015
+actually talk to them.
+
+61
+00:02:50,015 --> 00:02:52,100
+If you wanted to learn something new,
+
+62
+00:02:52,100 --> 00:02:56,445
+you had to go to a library and hope they have a book on the subject you wanted to learn.
+
+63
+00:02:56,445 --> 00:02:59,120
+People didn't really discover new restaurants unless
+
+64
+00:02:59,120 --> 00:03:02,600
+they heard about it from someone else or it was advertised.
+
+65
+00:03:02,600 --> 00:03:06,635
+There was no Yelp or other website that rates restaurants like we have today.
+
+66
+00:03:06,635 --> 00:03:10,270
+For some of us, life without the internet seems unimaginable.
+
+67
+00:03:10,270 --> 00:03:13,620
+We get it, it's become an integral part of our lives.
+
+68
+00:03:13,620 --> 00:03:14,900
+In the next few lessons,
+
+69
+00:03:14,900 --> 00:03:17,975
+you'll be learning about what the Internet is,
+
+70
+00:03:17,975 --> 00:03:19,430
+how it came to be,
+
+71
+00:03:19,430 --> 00:03:24,000
+and how it has impacted us both in negative and positive ways.

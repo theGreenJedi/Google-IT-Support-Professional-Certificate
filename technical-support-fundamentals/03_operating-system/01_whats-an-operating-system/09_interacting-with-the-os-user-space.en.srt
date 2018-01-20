@@ -1,0 +1,275 @@
+1
+00:00:10,740 --> 00:00:15,460
+Okay, we've covered the colonel's major responsibilities.
+
+2
+00:00:15,460 --> 00:00:19,430
+Now, let's discuss the final major aspect of an operating system,
+
+3
+00:00:19,430 --> 00:00:21,435
+how humans interact with it.
+
+4
+00:00:21,435 --> 00:00:23,960
+This is what we call, the userspace.
+
+5
+00:00:23,960 --> 00:00:26,425
+When we interact with an operating system,
+
+6
+00:00:26,425 --> 00:00:29,480
+we want to do certain functions like create files and folders,
+
+7
+00:00:29,480 --> 00:00:33,325
+open applications, delete items, you get the idea.
+
+8
+00:00:33,325 --> 00:00:35,990
+There are two ways that we can interact with our OS,
+
+9
+00:00:35,990 --> 00:00:39,350
+with a shell or a graphical user interface.
+
+10
+00:00:39,350 --> 00:00:42,320
+There are also some shells that use graphical user interfaces,
+
+11
+00:00:42,320 --> 00:00:47,285
+but we'll work with the command line interface or CLIA shell for the most part.
+
+12
+00:00:47,285 --> 00:00:50,170
+This just means that we'll use text commands.
+
+13
+00:00:50,170 --> 00:00:53,195
+A graphical user interface or GUI,
+
+14
+00:00:53,195 --> 00:00:56,665
+is a visual way to interact with a computer.
+
+15
+00:00:56,665 --> 00:00:58,490
+We use our mouse to click and drag,
+
+16
+00:00:58,490 --> 00:01:00,395
+to open folders etc.
+
+17
+00:01:00,395 --> 00:01:02,975
+We can see everything we do with it.
+
+18
+00:01:02,975 --> 00:01:07,205
+You probably use a GUI every day without realizing you're using one.
+
+19
+00:01:07,205 --> 00:01:09,555
+To watch this video, you probably used a GUI.
+
+20
+00:01:09,555 --> 00:01:12,410
+Clicking icons and navigating menus to
+
+21
+00:01:12,410 --> 00:01:15,615
+open your web browser and navigate to the Coursera website.
+
+22
+00:01:15,615 --> 00:01:19,430
+People usually recognize a device or product based on its GUI.
+
+23
+00:01:19,430 --> 00:01:22,400
+You might be able to spot the difference between a computer running
+
+24
+00:01:22,400 --> 00:01:28,155
+Microsoft Windows or Mac OS based on the design of the windows, menus and icons.
+
+25
+00:01:28,155 --> 00:01:29,995
+You've probably seen GUIs in other places too,
+
+26
+00:01:29,995 --> 00:01:31,835
+like mobile phones and tablets,
+
+27
+00:01:31,835 --> 00:01:34,250
+ATM machines and airport kiosks.
+
+28
+00:01:34,250 --> 00:01:36,830
+A shell is basically a program that interprets
+
+29
+00:01:36,830 --> 00:01:39,920
+text commands and sends them to the OS to execute.
+
+30
+00:01:39,920 --> 00:01:42,140
+Before we had fancy visual interfaces,
+
+31
+00:01:42,140 --> 00:01:45,380
+commands like create a file had to be typed out.
+
+32
+00:01:45,380 --> 00:01:47,170
+While we have GUIs today,
+
+33
+00:01:47,170 --> 00:01:49,595
+the shell is still commonly used to run commands,
+
+34
+00:01:49,595 --> 00:01:51,815
+especially by power users.
+
+35
+00:01:51,815 --> 00:01:55,340
+Power users are above average computer users.
+
+36
+00:01:55,340 --> 00:02:00,610
+In Linux especially, it's essential that you actually know commands, not just a GUI.
+
+37
+00:02:00,610 --> 00:02:04,520
+This is because most of the Linux machines you interact with in IT support,
+
+38
+00:02:04,520 --> 00:02:06,655
+will be accessed remotely.
+
+39
+00:02:06,655 --> 00:02:09,155
+Most of the time, you won't be given a GUI.
+
+40
+00:02:09,155 --> 00:02:11,330
+There are lots of different types of shells.
+
+41
+00:02:11,330 --> 00:02:12,755
+Some have different features,
+
+42
+00:02:12,755 --> 00:02:15,020
+some handle performance differently,
+
+43
+00:02:15,020 --> 00:02:18,125
+it's the same concept behind different operating systems.
+
+44
+00:02:18,125 --> 00:02:22,115
+For our purposes, we'll just be using the most common shell,
+
+45
+00:02:22,115 --> 00:02:26,115
+Basch or Bourne Again Shell in Linux.
+
+46
+00:02:26,115 --> 00:02:28,865
+There's also a shelf for Windows called Powershell,
+
+47
+00:02:28,865 --> 00:02:30,740
+but we won't be covering it here.
+
+48
+00:02:30,740 --> 00:02:35,020
+You'll learn more about Windows power shell and the third course of this program.
+
+49
+00:02:35,020 --> 00:02:38,330
+Operating systems and you becoming a power user.
+
+50
+00:02:38,330 --> 00:02:40,490
+Throughout this program, we'll learn how to use
+
+51
+00:02:40,490 --> 00:02:44,165
+the Windows GUI and Windows shell, Powershell.
+
+52
+00:02:44,165 --> 00:02:46,730
+You might be thinking, but it's easier for me to
+
+53
+00:02:46,730 --> 00:02:50,125
+navigate a GUI,than it is to use commands to do the same thing.
+
+54
+00:02:50,125 --> 00:02:51,785
+So why would I want to learn both?
+
+55
+00:02:51,785 --> 00:02:53,775
+I can't stress this enough,
+
+56
+00:02:53,775 --> 00:02:58,205
+it's vital for you to know how to use a shell in an IT support role.
+
+57
+00:02:58,205 --> 00:03:00,980
+Some tasks can only be completed through commands.
+
+58
+00:03:00,980 --> 00:03:02,975
+In more advanced IT roles,
+
+59
+00:03:02,975 --> 00:03:05,605
+you might have to manage thousands of machines.
+
+60
+00:03:05,605 --> 00:03:08,210
+You don't want to have to click a button or drag a window
+
+61
+00:03:08,210 --> 00:03:11,435
+on every machine when you can just run a command once.
+
+62
+00:03:11,435 --> 00:03:14,945
+You're actually going to learn how to automate this in a later course.
+
+63
+00:03:14,945 --> 00:03:18,075
+Using a GUI and shell isn't all you'll be doing,
+
+64
+00:03:18,075 --> 00:03:22,075
+we'll also interact with our operating system through applications.
+
+65
+00:03:22,075 --> 00:03:26,390
+There are system applications and libraries that we use on a day-to-day basis,
+
+66
+00:03:26,390 --> 00:03:27,935
+like the log in application,
+
+67
+00:03:27,935 --> 00:03:29,345
+system settings and more.
+
+68
+00:03:29,345 --> 00:03:33,465
+Throughout this course, you learn more about how to use system applications.
+
+69
+00:03:33,465 --> 00:03:38,000
+And we'll even get hands-on with the applications used in your operating system.

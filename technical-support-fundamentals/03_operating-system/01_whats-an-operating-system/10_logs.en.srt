@@ -1,0 +1,188 @@
+1
+00:00:11,837 --> 00:00:13,641
+Imagine this scenario.
+
+2
+00:00:13,641 --> 00:00:17,210
+You're playing your favorite video game,
+and you finally get to the big boss.
+
+3
+00:00:17,210 --> 00:00:19,800
+You spent countless
+hours finding this boss,
+
+4
+00:00:19,800 --> 00:00:24,480
+neglecting all other responsibilities
+like your job, school, even hygiene.
+
+5
+00:00:24,480 --> 00:00:26,390
+That's pretty gross, but I get it.
+
+6
+00:00:26,390 --> 00:00:29,160
+So you're right about to kill
+the big boss when suddenly
+
+7
+00:00:29,160 --> 00:00:31,210
+your game console shuts off completely.
+
+8
+00:00:31,210 --> 00:00:33,087
+You probably freak out for a second.
+
+9
+00:00:33,087 --> 00:00:37,710
+But then you remember, it's okay, you
+saved the game before the boss came along.
+
+10
+00:00:37,710 --> 00:00:40,660
+So now you can turn it back on,
+and you'll be at the same spot.
+
+11
+00:00:40,660 --> 00:00:45,030
+But then your console shuts off again,
+this happens over and over.
+
+12
+00:00:45,030 --> 00:00:47,390
+You, like most people, are devastated.
+
+13
+00:00:47,390 --> 00:00:51,610
+You fly into a fit of rage, but then,
+just before you toss your console out,
+
+14
+00:00:51,610 --> 00:00:56,310
+you make one last ditch effort and
+yell, tell me what's wrong with you.
+
+15
+00:00:56,310 --> 00:01:00,220
+Suddenly you hear a faint voice
+telling you what you want to hear.
+
+16
+00:01:00,220 --> 00:01:01,630
+Wouldn't that be amazing?
+
+17
+00:01:01,630 --> 00:01:04,880
+Sure, that scenario was a bit exaggerated.
+
+18
+00:01:04,880 --> 00:01:07,770
+But my point is that our computers
+actually can talk to us and
+
+19
+00:01:07,770 --> 00:01:08,590
+tell us what's wrong.
+
+20
+00:01:09,760 --> 00:01:14,580
+Maybe they won't whisper answers to us,
+but they speak to us in the form of logs.
+
+21
+00:01:14,580 --> 00:01:18,040
+Logs are files that record
+system events on our computer
+
+22
+00:01:18,040 --> 00:01:20,060
+just like a system's diary.
+
+23
+00:01:20,060 --> 00:01:24,085
+Our computer will record events like when
+it was turned on, when a driver was loaded
+
+24
+00:01:24,085 --> 00:01:28,300
+and even when something isn't working
+in the form of error messages.
+
+25
+00:01:28,300 --> 00:01:30,830
+In all operating systems, logs are kept so
+
+26
+00:01:30,830 --> 00:01:34,580
+we can refer back to them when we need
+to find out something that happened.
+
+27
+00:01:34,580 --> 00:01:37,290
+But logs can be hard to navigate
+because our computer will
+
+28
+00:01:37,290 --> 00:01:39,170
+essentially record everything.
+
+29
+00:01:39,170 --> 00:01:40,860
+Here's what a log looks like.
+
+30
+00:01:40,860 --> 00:01:44,380
+As you can see, it can be tough
+to make your way through a log.
+
+31
+00:01:44,380 --> 00:01:46,030
+But, with a little bit of elbow grease,
+
+32
+00:01:46,030 --> 00:01:50,660
+we can figure out what happened on our
+computer and piece together a solution.
+
+33
+00:01:50,660 --> 00:01:53,880
+We'll see an example of how a log
+is useful in figuring out an issue
+
+34
+00:01:53,880 --> 00:01:55,160
+in a later lesson.
+
+35
+00:01:55,160 --> 00:01:58,480
+We'll dive into the technical
+details of logs in a later course.
+
+36
+00:01:58,480 --> 00:02:02,440
+For now, just be aware that we can
+investigate details about our computer
+
+37
+00:02:02,440 --> 00:02:04,220
+that aren't obvious to us.
+
+38
+00:02:04,220 --> 00:02:06,890
+Unfortunately, our computers,
+cars and machines
+
+39
+00:02:06,890 --> 00:02:10,650
+don't have a little voice that tells
+us what's wrong when there's a problem.
+
+40
+00:02:10,650 --> 00:02:14,173
+But by the end of this program, you'll
+be able to navigate and read logs, so
+
+41
+00:02:14,173 --> 00:02:15,345
+you won't even need it.

@@ -1,0 +1,627 @@
+1
+00:00:12,165 --> 00:00:16,470
+Now that we've covered the main customer
+service techniques, we're going to dive in
+
+2
+00:00:16,470 --> 00:00:20,830
+to some of the nitty gritty by looking
+at the anatomy of an interaction.
+
+3
+00:00:20,830 --> 00:00:25,265
+These apply to any channel of IT
+support email, phone, chat, or
+
+4
+00:00:25,265 --> 00:00:27,250
+in-person interactions.
+
+5
+00:00:27,250 --> 00:00:30,640
+From the first moment you
+interact with someone
+
+6
+00:00:30,640 --> 00:00:34,050
+it's important to think
+about how you say hello.
+
+7
+00:00:34,050 --> 00:00:36,210
+Do you make sure to tell them your name?
+
+8
+00:00:36,210 --> 00:00:39,550
+Do you incorporate information you
+know about them in your greeting?
+
+9
+00:00:39,550 --> 00:00:41,247
+Do you ensure a positive tone?
+
+10
+00:00:41,247 --> 00:00:43,640
+Are your spelling and grammar on point?
+
+11
+00:00:43,640 --> 00:00:47,540
+These are all ways to create a really
+good start to the interaction.
+
+12
+00:00:47,540 --> 00:00:49,940
+Some of these things
+are hard to achieve though.
+
+13
+00:00:49,940 --> 00:00:53,500
+I'm a horrible speller,
+especially when I'm in a hurry.
+
+14
+00:00:53,500 --> 00:00:56,320
+But knowing some of these
+trouble spots ahead of time
+
+15
+00:00:56,320 --> 00:00:59,970
+will let you find ways to address
+them before the interaction.
+
+16
+00:00:59,970 --> 00:01:02,620
+For me, I know that when I'm in a hurry
+
+17
+00:01:02,620 --> 00:01:04,960
+I need to re check my
+spelling before hitting send.
+
+18
+00:01:05,980 --> 00:01:09,474
+Have you ever heard the phrase
+first impressions last a lifetime.
+
+19
+00:01:09,474 --> 00:01:14,240
+While that may be a bit of
+an exaggeration it touches on some truth.
+
+20
+00:01:14,240 --> 00:01:17,510
+How you first interact with someone
+will influence how the rest of
+
+21
+00:01:17,510 --> 00:01:18,710
+the interaction plays out.
+
+22
+00:01:19,750 --> 00:01:22,830
+I'm not saying it has to
+be over the top gushy and
+
+23
+00:01:22,830 --> 00:01:25,300
+nice, that might have the opposite effect.
+
+24
+00:01:25,300 --> 00:01:29,980
+Just be professional, acknowledge
+the user, and show them some respect.
+
+25
+00:01:29,980 --> 00:01:34,104
+Taking the time to get the interaction off
+to a good start will make everything that
+
+26
+00:01:34,104 --> 00:01:35,193
+comes after easier.
+
+27
+00:01:35,193 --> 00:01:38,000
+Let's check out two scenarios
+to see how this plays out.
+
+28
+00:01:41,060 --> 00:01:42,630
+>> Hi Gayle, how are you doing?
+
+29
+00:01:42,630 --> 00:01:45,870
+>> Not great, it's been a bad day
+trying to get my phone fixed.
+
+30
+00:01:46,890 --> 00:01:51,765
+>> What's wrong with your phone?
+
+31
+00:01:51,765 --> 00:01:53,920
+>> Hi Gayle, how are you today.
+
+32
+00:01:53,920 --> 00:01:57,650
+>> Not great, it's been a bad day
+trying to get my phone fixed.
+
+33
+00:01:57,650 --> 00:01:59,340
+>> Sorry to hear that.
+
+34
+00:01:59,340 --> 00:02:00,810
+Let's see what we can
+do to turn that around.
+
+35
+00:02:02,740 --> 00:02:06,800
+>> Just by acknowledging their feelings
+and demonstrat your desire to help them,
+
+36
+00:02:06,800 --> 00:02:10,440
+you've started to build
+a relationship with the user.
+
+37
+00:02:10,440 --> 00:02:13,570
+Of course you have to keep up the good
+work throughout the interaction, but
+
+38
+00:02:13,570 --> 00:02:16,530
+laying the ground work is
+an important first step.
+
+39
+00:02:16,530 --> 00:02:20,260
+And remember that while you might have
+a hundred issues in the ticket queue that
+
+40
+00:02:20,260 --> 00:02:21,760
+need your attention.
+
+41
+00:02:21,760 --> 00:02:27,220
+This is the only one that matters to the
+user, so show them it's your priority too.
+
+42
+00:02:27,220 --> 00:02:32,540
+The next critical step in an interaction
+is how you respond to the users questions.
+
+43
+00:02:32,540 --> 00:02:36,660
+If they are taking the time to explain to
+you what happened, but you brush off their
+
+44
+00:02:36,660 --> 00:02:40,900
+concerns by acting uninterested,
+things are going to go south fast.
+
+45
+00:02:40,900 --> 00:02:45,390
+Remember to integrate the information
+you've been given into your conversation.
+
+46
+00:02:45,390 --> 00:02:47,380
+This will show you're
+actively listening and
+
+47
+00:02:47,380 --> 00:02:50,530
+can help them feel more
+connected to the interaction.
+
+48
+00:02:50,530 --> 00:02:51,590
+Let's look at an example.
+
+49
+00:02:54,070 --> 00:02:57,460
+Which one of these greetings do
+you think is the most effective?
+
+50
+00:02:57,460 --> 00:02:58,740
+Greeting one.
+
+51
+00:02:58,740 --> 00:03:00,460
+Hi Rhori, how are you today?
+
+52
+00:03:00,460 --> 00:03:02,310
+What can I help you with?
+
+53
+00:03:02,310 --> 00:03:03,660
+Or greeting number two.
+
+54
+00:03:03,660 --> 00:03:06,410
+Hi Rhori, I hope you're having a good day,
+
+55
+00:03:06,410 --> 00:03:08,910
+despite your computer
+randomly turning off.
+
+56
+00:03:08,910 --> 00:03:10,450
+Let's see what we can
+do to fix your issue.
+
+57
+00:03:12,120 --> 00:03:14,900
+It's important to be
+transparent with the user.
+
+58
+00:03:14,900 --> 00:03:17,540
+If they start asking you a bunch
+of questions while you're still
+
+59
+00:03:17,540 --> 00:03:20,010
+troubleshooting, you can do two things.
+
+60
+00:03:20,010 --> 00:03:24,050
+First option, you could ignore them
+because they're just talking out loud.
+
+61
+00:03:24,050 --> 00:03:29,040
+Second option, you can pause and
+say something like, I'd be happy to answer
+
+62
+00:03:29,040 --> 00:03:32,310
+all of your questions but
+I want to look up this one first.
+
+63
+00:03:32,310 --> 00:03:33,450
+I've written them all down though.
+
+64
+00:03:33,450 --> 00:03:35,100
+So I won't forget them.
+
+65
+00:03:35,100 --> 00:03:38,650
+If you say that,
+make sure to write the questions down.
+
+66
+00:03:38,650 --> 00:03:42,570
+To really build a rapport, try to remember
+a personal fact that they've mentioned and
+
+67
+00:03:42,570 --> 00:03:44,090
+bring it up later.
+
+68
+00:03:44,090 --> 00:03:46,150
+Maybe they mentioned they loved cats.
+
+69
+00:03:46,150 --> 00:03:50,320
+Later while you're waiting for something
+to load, ask them if they have any cats or
+
+70
+00:03:50,320 --> 00:03:51,850
+what their cats name is.
+
+71
+00:03:51,850 --> 00:03:56,400
+This shouldn't be forced so if you're not
+the type to engage in small talk, skip it.
+
+72
+00:03:56,400 --> 00:03:59,330
+Now you're getting to the point
+where you're ready to troubleshoot.
+
+73
+00:03:59,330 --> 00:04:03,490
+Just make sure you clarify the person's
+issue before you start to troubleshoot.
+
+74
+00:04:03,490 --> 00:04:06,510
+If you don't, you might find
+yourself going down a rabbit hole.
+
+75
+00:04:06,510 --> 00:04:10,350
+Imagine that a user tells you
+their computer can't get online.
+
+76
+00:04:10,350 --> 00:04:12,960
+So you look at the IP address,
+DNS configuration,
+
+77
+00:04:12,960 --> 00:04:16,250
+and you start paying things with no luck.
+
+78
+00:04:16,250 --> 00:04:17,920
+Everything seems fine.
+
+79
+00:04:17,920 --> 00:04:22,050
+Then, 20 minutes later you find
+out their machine is online,
+
+80
+00:04:22,050 --> 00:04:24,510
+they just can't access a particular page.
+
+81
+00:04:24,510 --> 00:04:28,070
+Had you clarified this at the start
+you would have saved yourself, and
+
+82
+00:04:28,070 --> 00:04:29,980
+the user 20 minutes.
+
+83
+00:04:29,980 --> 00:04:34,330
+It seems simple to clarify the problem
+space, but it's often overlooked.
+
+84
+00:04:34,330 --> 00:04:35,330
+Take this example.
+
+85
+00:04:36,820 --> 00:04:39,600
+>> Thank you for calling, this is Lian.
+
+86
+00:04:39,600 --> 00:04:41,000
+How can I help you?
+
+87
+00:04:41,000 --> 00:04:43,670
+>> Hi Lian, my computer isn't working.
+
+88
+00:04:43,670 --> 00:04:44,810
+>> That doesn't sound fun.
+
+89
+00:04:44,810 --> 00:04:47,890
+What do you mean by
+the computer isn't working?
+
+90
+00:04:47,890 --> 00:04:49,910
+>> It won't connect to the Internet.
+
+91
+00:04:49,910 --> 00:04:52,700
+>> Do you have the corporate password for
+the wifi?
+
+92
+00:04:52,700 --> 00:04:54,390
+>> No, why do I need that?
+
+93
+00:04:54,390 --> 00:04:56,470
+>> In order to connect to
+the wifi in the building,
+
+94
+00:04:56,470 --> 00:04:58,660
+you need to use the corporate password.
+
+95
+00:04:58,660 --> 00:05:00,040
+>> Well, I'm not in the building.
+
+96
+00:05:00,040 --> 00:05:00,576
+I'm at a cafe.
+
+97
+00:05:04,915 --> 00:05:09,740
+>> That's odd, your computer seems to
+be different than what we normally use.
+
+98
+00:05:09,740 --> 00:05:12,700
+Can I get your name so
+I can look up your configuration?
+
+99
+00:05:12,700 --> 00:05:16,064
+>> Ling Chan.
+
+100
+00:05:16,064 --> 00:05:17,420
+>> Do you work at this company?
+
+101
+00:05:18,630 --> 00:05:20,680
+>> No, my friend gave me the number.
+
+102
+00:05:22,390 --> 00:05:27,090
+>> Problem solving is a super important
+aspect of an IT support interaction.
+
+103
+00:05:27,090 --> 00:05:31,808
+Being an IT support specialist means that
+you could can be asked about anything.
+
+104
+00:05:31,808 --> 00:05:35,358
+Even though you aren't expected to know
+the answer off the top of your head,
+
+105
+00:05:35,358 --> 00:05:38,290
+you should know where to
+start looking to find it.
+
+106
+00:05:38,290 --> 00:05:42,140
+People are coming to you because they
+have a problem they can't fix themselves.
+
+107
+00:05:42,140 --> 00:05:45,390
+Sometimes they feel self-conscious
+about asking for help, so
+
+108
+00:05:45,390 --> 00:05:47,930
+be aware of how you probe for information.
+
+109
+00:05:47,930 --> 00:05:50,820
+Pummeling the user with
+question after question
+
+110
+00:05:50,820 --> 00:05:53,910
+will probably create
+frustration on both sides.
+
+111
+00:05:53,910 --> 00:05:58,110
+Make sure to set context and
+explain why you're asking the question.
+
+112
+00:05:58,110 --> 00:06:02,880
+Saying something simple like, in order for
+me to figure out what' really going on,
+
+113
+00:06:02,880 --> 00:06:06,600
+I need to ask you some question,
+can make all the difference.
+
+114
+00:06:06,600 --> 00:06:10,820
+When you're in person things are a lot
+easier because you can see each other, and
+
+115
+00:06:10,820 --> 00:06:15,200
+read each other's expression but
+you might find yourself too comfortable.
+
+116
+00:06:15,200 --> 00:06:18,660
+Imagine you're asking for help with
+your phone, you wouldn't want the person
+
+117
+00:06:18,660 --> 00:06:21,940
+helping you to just take it out
+of your hands without asking.
+
+118
+00:06:21,940 --> 00:06:25,810
+So make sure you tell the user what
+you're doing before you do it.
+
+119
+00:06:25,810 --> 00:06:29,600
+If you're supporting a user remotely and
+need them to run some commands,
+
+120
+00:06:29,600 --> 00:06:33,060
+don't forget to tell them why you
+need them to execute the commands.
+
+121
+00:06:33,060 --> 00:06:35,480
+There's no need to go
+into a ton of detail But
+
+122
+00:06:35,480 --> 00:06:39,220
+without some context you could
+strain the trust you've built.
+
+123
+00:06:39,220 --> 00:06:42,370
+Make sure that when you're
+asking these questions or
+
+124
+00:06:42,370 --> 00:06:46,910
+asking the user to run a command you're
+really listening to the response.
+
+125
+00:06:46,910 --> 00:06:50,880
+Those little nuggets of information
+may help solve the issue.
+
+126
+00:06:50,880 --> 00:06:54,200
+The last five minutes of
+the interaction will set the tone for
+
+127
+00:06:54,200 --> 00:06:57,360
+how the user feels walking
+away from the interaction.
+
+128
+00:06:57,360 --> 00:06:59,860
+So, make sure to end on a positive note.
+
+129
+00:06:59,860 --> 00:07:03,580
+You might have solved their issue, but
+if they don't feel it was resolved or
+
+130
+00:07:03,580 --> 00:07:05,580
+their unsure of the next steps,
+
+131
+00:07:05,580 --> 00:07:09,160
+then they're going to walk away
+feeling like it was a poor solution.
+
+132
+00:07:09,160 --> 00:07:11,690
+So how do you make
+a good final impression?
+
+133
+00:07:11,690 --> 00:07:14,250
+Simple, reiterate the resolution.
+
+134
+00:07:14,250 --> 00:07:15,910
+State the next steps.
+
+135
+00:07:15,910 --> 00:07:17,834
+Then, ask the user if
+they have any questions.

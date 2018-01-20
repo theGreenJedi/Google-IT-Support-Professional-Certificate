@@ -1,0 +1,42 @@
+There are lots of different ways to
+use the Internet, we all know that. But I want to cover one of the more
+prevalent ways that people access the Internet, through the Web. All websites can be
+accessed through the Web. Websites are basically text
+documents that we format with HTML, or hypertext markup language. It's a coding language
+used by web browsers. Web pages are generally made
+up of very basic components. They contain multimedia content like text,
+images, audio and video. When you want to navigate to a website, you would type in a URL
+like www.reddit.com. A URL, which stands for
+Uniform Resource Locator, is just a web address
+similar to a home address. Notice the www in the URL? It stands for World Wide Web. The second portion, reddit.com,
+is something we call a domain name. Anyone can register a domain name. It's just our website name. Once a name is taken, it'll be registered
+to ICANN, the Internet Corporation for Assigned Names and Numbers. Once a domain name is
+registered with ICANN, no one else can take that name
+unless it becomes available again. The last part of the URL
+in this case is .com. But you can also use different domain
+endings like reddit.net or reddit.org. The different domain name
+endings are standards for what type of website it might be. So a domain that ends in .edu is mainly
+used for educational institutions. Remember how computers use IP
+addresses to find another computer? Well, you can do the same if you wanted
+to find a computer on the Internet. Let's go ahead and type 172.217.6.46
+into a web browser and hit Enter. Wait a minute. What happened? How come we're at Google's homepage? It turns out the IP address,
+172.217.6.46 maps to Google's homepage through a critical
+web protocol, Domain Name System, or DNS. DNS acts like our Internet's directory and lets us use human readable
+words to map to an IP address. The computer doesn't
+know what google.com is. It only knows how to get to an IP address. With DNS, it's able to map
+Google's IP address with google.com. Every time you go on a website,
+your computer is performing a DNS lookup to find the IP address of
+the website name you typed in. This trick can be a good first step in
+diagnosing certain kinds of DNS issues. So if you're able to access
+a website by its IP address but not its human readable domain name, then
+there's a good bet that there's probably a problem somewhere in the DNS
+configuration your network is using. Understanding IP addresses
+can come in handy in all sorts of other situations you might
+encounter as an IT support specialist. The source of Internet requests
+are usually identified by IP addresses and server logs. Many pieces of IT infrastructure need to
+have some kind of IP address configuration applied to them in order to work. DNS is a huge system, and
+we'll be discussing more about it later. Now that you understand the basics of how
+the Internet works, I'll sign off for now, and leave you in the very capable hands
+of my friend and colleague, Gian Becuza. I'll see you again in course two,
+The Bits and Bytes of Computer Networking. But in the next lessons, Gian is going to talk about
+the incredible boom of the Internet age.

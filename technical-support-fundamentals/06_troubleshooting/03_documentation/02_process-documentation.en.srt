@@ -1,0 +1,103 @@
+1
+00:00:11,000 --> 00:00:16,355
+Let us take a look at examples of good and not-so-good documentation.
+
+2
+00:00:16,355 --> 00:00:20,660
+Here is the deal. You encounter a strange issue when helping a user out.
+
+3
+00:00:20,660 --> 00:00:27,190
+This issue happens so often that you and your colleagues have encountered it.
+
+4
+00:00:27,190 --> 00:00:32,730
+No documentation is the worse documentation.
+
+5
+00:00:32,730 --> 00:00:34,815
+Imagine if it took you hours to figure out
+
+6
+00:00:34,815 --> 00:00:38,125
+an issue to a problem and you didn't write it down.
+
+7
+00:00:38,125 --> 00:00:42,300
+Your colleague encounters the same issue and takes hours to figure it out.
+
+8
+00:00:42,300 --> 00:00:44,780
+Then, he also does not write it down.
+
+9
+00:00:44,780 --> 00:00:47,090
+This can go on and on.
+
+10
+00:00:47,090 --> 00:00:50,755
+It only takes a little bit of effort to create documentation,
+
+11
+00:00:50,755 --> 00:00:53,355
+and it can save you so much of your time,
+
+12
+00:00:53,355 --> 00:00:58,007
+your company's time, and your users time.
+
+13
+00:00:58,007 --> 00:01:00,749
+Okay.
+
+14
+00:01:00,749 --> 00:01:06,960
+This is not the best example of documentation.
+
+15
+00:01:06,960 --> 00:01:10,685
+The problem the IT support specialist stated is not specific,
+
+16
+00:01:10,685 --> 00:01:13,990
+and it leaves you with more questions than answers.
+
+17
+00:01:13,990 --> 00:01:16,715
+And while it tells you what will fix an issue,
+
+18
+00:01:16,715 --> 00:01:18,395
+it does not tell you how.
+
+19
+00:01:18,395 --> 00:01:21,720
+Documentation should be straight and clear-cut.
+
+20
+00:01:21,720 --> 00:01:27,562
+Your reader should not have any questions when following the instructions you listed.
+
+21
+00:01:27,562 --> 00:01:36,076
+Now, this is a good example of documentation.
+
+22
+00:01:36,076 --> 00:01:40,765
+It starts off with a very specific and clear problem.
+
+23
+00:01:40,765 --> 00:01:44,065
+It gives you background information on what the issue is.
+
+24
+00:01:44,065 --> 00:01:48,375
+It even gives you the exact instructions on how to fix the issue,
+
+25
+00:01:48,375 --> 00:01:51,715
+including which settings to navigate to and where.
+
+26
+00:01:51,715 --> 00:01:56,120
+Remember, always write documentation that makes it easy for your reader to follow.

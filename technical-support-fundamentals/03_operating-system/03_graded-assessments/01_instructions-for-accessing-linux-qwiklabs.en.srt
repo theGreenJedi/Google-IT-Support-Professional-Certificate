@@ -1,0 +1,319 @@
+1
+00:00:00,760 --> 00:00:04,130
+In this video, we're going to learn how to access the
+
+2
+00:00:04,130 --> 00:00:07,675
+Linux virtual machines from the Coursera platform.
+
+3
+00:00:07,675 --> 00:00:12,066
+As you can see here, there's some information about what you'll be doing in the lab,
+
+4
+00:00:12,066 --> 00:00:14,560
+it's learning objectives, and how much time you
+
+5
+00:00:14,560 --> 00:00:18,070
+have to complete it before you can access the lab itself.
+
+6
+00:00:18,070 --> 00:00:22,840
+First, you'll need to click the checkbox and provide an electronic signature,
+
+7
+00:00:22,840 --> 00:00:25,736
+adhering to Coursera's Honor Code.
+
+8
+00:00:25,736 --> 00:00:30,838
+Then you will click the Open Tool button.
+
+9
+00:00:30,838 --> 00:00:33,155
+After you click the button,
+
+10
+00:00:33,155 --> 00:00:35,840
+you'll be navigated to a new browser tab,
+
+11
+00:00:35,840 --> 00:00:39,185
+which you see here is the Qwiklabs environment.
+
+12
+00:00:39,185 --> 00:00:41,120
+Each Qwiklab comes with
+
+13
+00:00:41,120 --> 00:00:46,035
+detailed step-by-step instructions about what you need to do to complete the lab.
+
+14
+00:00:46,035 --> 00:00:49,110
+To start the lab, go to the top right-hand of
+
+15
+00:00:49,110 --> 00:00:52,365
+the screen and click the green button that says, Start Lab.
+
+16
+00:00:52,365 --> 00:00:54,205
+After you click the button,
+
+17
+00:00:54,205 --> 00:00:57,780
+it will take some time to load and set up the lab and the environment.
+
+18
+00:00:57,780 --> 00:01:00,540
+While it's loading, this a good time to read
+
+19
+00:01:00,540 --> 00:01:03,500
+through the instructions about what you'll need to do.
+
+20
+00:01:03,500 --> 00:01:06,755
+After the loading bar has filled up completely,
+
+21
+00:01:06,755 --> 00:01:11,070
+you're now ready to access the Google Cloud Console.
+
+22
+00:01:11,070 --> 00:01:16,385
+Google's Cloud Console technology powers the Qwiklab environments.
+
+23
+00:01:16,385 --> 00:01:19,280
+So, in order to access your Linux virtual machine,
+
+24
+00:01:19,280 --> 00:01:22,625
+first, we need to sign into the Google Console.
+
+25
+00:01:22,625 --> 00:01:25,250
+To do this, click the orange button on
+
+26
+00:01:25,250 --> 00:01:29,445
+the left-hand side of the screen that says, Open Google Console.
+
+27
+00:01:29,445 --> 00:01:33,080
+This will open a new web browser tab that you'll need to sign into.
+
+28
+00:01:33,080 --> 00:01:38,625
+You will not use your own personal Gmail account to access the Google Console.
+
+29
+00:01:38,625 --> 00:01:41,530
+If you're using a Gmail account right now,
+
+30
+00:01:41,530 --> 00:01:44,910
+make sure to sign out of it before moving onto the next step.
+
+31
+00:01:44,910 --> 00:01:47,680
+Let's go back to the previous tab.
+
+32
+00:01:47,680 --> 00:01:50,520
+You're going to use the username and password that you see under
+
+33
+00:01:50,520 --> 00:01:54,455
+the orange Open Google Console button to authenticate.
+
+34
+00:01:54,455 --> 00:01:57,810
+To do this, copy the username by clicking the copy button on
+
+35
+00:01:57,810 --> 00:02:02,585
+the right-hand side then paste it into Gmail in the other tab.
+
+36
+00:02:02,585 --> 00:02:06,970
+Then we're going to do this for the password too.
+
+37
+00:02:06,970 --> 00:02:12,055
+Copy the password and paste it into Gmail.
+
+38
+00:02:12,055 --> 00:02:16,850
+After you pasted the password, click Next.
+
+39
+00:02:16,850 --> 00:02:20,355
+Next, you'll see a Terms of Service agreement from Gmail.
+
+40
+00:02:20,355 --> 00:02:23,555
+To continue on, click Accept.
+
+41
+00:02:23,555 --> 00:02:26,080
+After you click Accept,
+
+42
+00:02:26,080 --> 00:02:30,455
+Gmail will ask you to provide a recovery phone number and email address.
+
+43
+00:02:30,455 --> 00:02:33,055
+You don't need to add a recovery phone number
+
+44
+00:02:33,055 --> 00:02:36,340
+or email because each time you access Qwiklabs,
+
+45
+00:02:36,340 --> 00:02:39,865
+you'll use a new Gmail username and password to sign in.
+
+46
+00:02:39,865 --> 00:02:43,925
+So, for now, just click Done.
+
+47
+00:02:43,925 --> 00:02:48,660
+Next, you'll see the Google Cloud platform interface.
+
+48
+00:02:48,660 --> 00:02:51,480
+A pop-up with the Terms of Service agreement will appear.
+
+49
+00:02:51,480 --> 00:02:56,250
+And you don't need to sign up for updates because this isn't your email address.
+
+50
+00:02:56,250 --> 00:03:01,455
+Make sure you do click Yes to agree to the Terms of Service, then click Accept.
+
+51
+00:03:01,455 --> 00:03:05,220
+Now, you have access to the Google Cloud platform.
+
+52
+00:03:05,220 --> 00:03:08,665
+What we'll want to do now is access our Linux virtual machine.
+
+53
+00:03:08,665 --> 00:03:12,460
+To do this, navigate to the menu on the left-hand side of the screen.
+
+54
+00:03:12,460 --> 00:03:17,223
+Go to Compute Engine and then click on VM Instances.
+
+55
+00:03:17,223 --> 00:03:20,470
+You'll now see a virtual machine instance of
+
+56
+00:03:20,470 --> 00:03:25,285
+the Linux operating system called Linux-Instance.
+
+57
+00:03:25,285 --> 00:03:28,725
+There are a couple of ways you can access the Linux virtual machine.
+
+58
+00:03:28,725 --> 00:03:30,585
+You can click on the project name,
+
+59
+00:03:30,585 --> 00:03:34,970
+click on the drop-down arrow under connect or click SSH.
+
+60
+00:03:34,970 --> 00:03:37,030
+I'm going to click SSH.
+
+61
+00:03:37,030 --> 00:03:39,875
+This will pop up a new screen.
+
+62
+00:03:39,875 --> 00:03:43,780
+Let the screen load for a bit, and after a while,
+
+63
+00:03:43,780 --> 00:03:49,050
+you'll see the Linux operating system appear in the pop up screen.
+
+64
+00:03:50,150 --> 00:03:59,160
+How cool is that? This is a working instance of Linux OS.
+
+65
+00:03:59,160 --> 00:04:02,230
+Now, you're ready to complete the tasks in the lab.
+
+66
+00:04:02,230 --> 00:04:08,170
+You can input Linux commands and continue on with the exercises.
+
+67
+00:04:13,310 --> 00:04:17,710
+When you're done completing the lab exercises,
+
+68
+00:04:17,710 --> 00:04:21,280
+simply close the window with the Linux operating system.
+
+69
+00:04:21,280 --> 00:04:24,535
+You should also close the tab with the Google Cloud platform.
+
+70
+00:04:24,535 --> 00:04:28,570
+Next, go back to the tab in your browser with Qwiklabs.
+
+71
+00:04:28,570 --> 00:04:29,780
+When you're done, click
+
+72
+00:04:29,780 --> 00:04:33,635
+the red End Lab button in the top right-hand corner of the screen.
+
+73
+00:04:33,635 --> 00:04:37,220
+You'll see a warning asking you if you want to end this lab.
+
+74
+00:04:37,220 --> 00:04:39,405
+After you choose to end the lab,
+
+75
+00:04:39,405 --> 00:04:41,750
+you won't be able to access your previous work.
+
+76
+00:04:41,750 --> 00:04:46,390
+So, only end the lab when you're sure you're done.
+
+77
+00:04:46,790 --> 00:04:52,775
+You can also provide a star rating or a comment about the lab itself.
+
+78
+00:04:52,775 --> 00:04:59,065
+This will help the Google team improve labs for the future. And that does it.
+
+79
+00:04:59,065 --> 00:05:03,580
+Go back to the Coursera platform and continue with your learning experience.
+
+80
+00:05:03,580 --> 00:05:07,250
+This graded assessment will now be marked as complete.

@@ -1,0 +1,81 @@
+1
+00:00:11,890 --> 00:00:15,445
+Now that we've talked a little
+bit about documenting processes,
+
+2
+00:00:15,445 --> 00:00:19,712
+let's talk about how you'll write
+documentation in ticketing or bug system.
+
+3
+00:00:19,712 --> 00:00:23,219
+You don't have to leave a full
+example of process documentation for
+
+4
+00:00:23,219 --> 00:00:25,130
+every ticket you handle.
+
+5
+00:00:25,130 --> 00:00:28,670
+If you encounter the same issue,
+just write the documentation once,
+
+6
+00:00:28,670 --> 00:00:30,270
+then refer back to it.
+
+7
+00:00:30,270 --> 00:00:34,110
+One of the more important aspects of
+writing documentation in a ticket or
+
+8
+00:00:34,110 --> 00:00:39,620
+bug is that you leave an audit trail
+to see what worked and what didn't.
+
+9
+00:00:39,620 --> 00:00:43,248
+Let's take a look at some examples
+of awesome documentation and
+
+10
+00:00:43,248 --> 00:00:46,954
+not-so-awesome documentation
+in ticketing and bug systems.
+
+11
+00:00:50,175 --> 00:00:54,509
+This isn't helpful at all,
+since we don't know what the issue was, or
+
+12
+00:00:54,509 --> 00:00:57,830
+what the IT support
+specialist did to fix it.
+
+13
+00:00:57,830 --> 00:01:01,141
+If someone stumbled upon this
+ticket with the same issue,
+
+14
+00:01:01,141 --> 00:01:02,772
+it would be pretty useless.
+
+15
+00:01:09,128 --> 00:01:13,322
+This is an example of
+a great ticket documentation.
+
+16
+00:01:13,322 --> 00:01:18,273
+A tech described what the issue is,
+what caused the issue,
+
+17
+00:01:18,273 --> 00:01:22,242
+and the specific steps
+they took to resolve it.

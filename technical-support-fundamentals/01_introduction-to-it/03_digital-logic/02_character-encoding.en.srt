@@ -1,0 +1,235 @@
+1
+00:00:10,900 --> 00:00:16,370
+Remember from the earlier video that a byte can store only zeros and ones.
+
+2
+00:00:16,370 --> 00:00:19,775
+That means we can have 256 possible values.
+
+3
+00:00:19,775 --> 00:00:21,020
+By the end of this video,
+
+4
+00:00:21,020 --> 00:00:24,215
+you'll learn how we can represent the words, numbers,
+
+5
+00:00:24,215 --> 00:00:26,490
+emojis and more we see on our screens,
+
+6
+00:00:26,490 --> 00:00:30,015
+from only these 256 possible values.
+
+7
+00:00:30,015 --> 00:00:32,195
+It's all thanks to character encoding.
+
+8
+00:00:32,195 --> 00:00:34,310
+Character encoding is used to assign
+
+9
+00:00:34,310 --> 00:00:38,200
+our binary values to characters so that we as humans can read them.
+
+10
+00:00:38,200 --> 00:00:41,060
+We definitely wouldn't want to see all the text in our emails and
+
+11
+00:00:41,060 --> 00:00:45,130
+Web pages rendered in complex sequences of zeros and ones.
+
+12
+00:00:45,130 --> 00:00:47,620
+This is where character encodings come in handy.
+
+13
+00:00:47,620 --> 00:00:50,415
+You can think of character encoding as a dictionary.
+
+14
+00:00:50,415 --> 00:00:52,490
+It's a way for your computers to look up
+
+15
+00:00:52,490 --> 00:00:56,420
+which human characters should be represented by a given binary value.
+
+16
+00:00:56,420 --> 00:00:59,650
+The oldest character encoding standard used this ASCII.
+
+17
+00:00:59,650 --> 00:01:01,550
+It represents the English alphabet,
+
+18
+00:01:01,550 --> 00:01:03,605
+digits, and punctuation marks.
+
+19
+00:01:03,605 --> 00:01:07,730
+The first character in ASCII to binary table, a lowercase a,
+
+20
+00:01:07,730 --> 00:01:13,250
+maps to 0 1 1 0 0 0 0 1 in binary.
+
+21
+00:01:13,250 --> 00:01:15,330
+This is done for all the characters you can find in
+
+22
+00:01:15,330 --> 00:01:19,245
+the English alphabet as well as numbers and some special symbols.
+
+23
+00:01:19,245 --> 00:01:22,190
+The great thing with ASCII was that we only needed to use
+
+24
+00:01:22,190 --> 00:01:26,350
+127 values out of our possible 256.
+
+25
+00:01:26,350 --> 00:01:28,100
+It lasted for a very long time,
+
+26
+00:01:28,100 --> 00:01:29,900
+but eventually it wasn't enough.
+
+27
+00:01:29,900 --> 00:01:33,650
+Other character encoding standards recreated to represent different languages,
+
+28
+00:01:33,650 --> 00:01:36,350
+different amounts of characters and more.
+
+29
+00:01:36,350 --> 00:01:40,875
+Eventually they would require more than 256 values we were allowed to have.
+
+30
+00:01:40,875 --> 00:01:42,635
+Then came UTF 8.
+
+31
+00:01:42,635 --> 00:01:45,185
+The most prevalent encoding standard used today.
+
+32
+00:01:45,185 --> 00:01:47,440
+Along with having the same ASCII table,
+
+33
+00:01:47,440 --> 00:01:50,435
+it also lets us use a variable number of bytes.
+
+34
+00:01:50,435 --> 00:01:53,140
+What do I mean by that? Think of any emoji.
+
+35
+00:01:53,140 --> 00:01:55,770
+It's not possible to make emojis with a single byte,
+
+36
+00:01:55,770 --> 00:01:58,505
+so as we can only store one character in a byte,
+
+37
+00:01:58,505 --> 00:02:02,910
+instead UTF 8 allows us to store a character in more than one byte,
+
+38
+00:02:02,910 --> 00:02:05,240
+which means endless emoji fun.
+
+39
+00:02:05,240 --> 00:02:08,060
+UTF 8 is built off the Unicode Standard.
+
+40
+00:02:08,060 --> 00:02:09,650
+We won't go into much of detail,
+
+41
+00:02:09,650 --> 00:02:14,780
+but the Unicode Standard helps us represent character encoding in a consistent manner.
+
+42
+00:02:14,780 --> 00:02:17,420
+Now that we've been able to represent letters, numbers,
+
+43
+00:02:17,420 --> 00:02:19,480
+punctuation marks and even emojis,
+
+44
+00:02:19,480 --> 00:02:21,170
+how do we represent color?
+
+45
+00:02:21,170 --> 00:02:22,985
+Well, there are all kinds of color models.
+
+46
+00:02:22,985 --> 00:02:26,355
+For now, let's stick to a basic one that's used in a lot of computers.
+
+47
+00:02:26,355 --> 00:02:29,270
+RGB or red, green, and blue model.
+
+48
+00:02:29,270 --> 00:02:30,781
+Just like the actual colors,
+
+49
+00:02:30,781 --> 00:02:32,690
+if you mix a combination of any of these,
+
+50
+00:02:32,690 --> 00:02:35,240
+you'll be able to get the full range of colors.
+
+51
+00:02:35,240 --> 00:02:39,855
+In computerland, we use 3 characters for the RGB model.
+
+52
+00:02:39,855 --> 00:02:42,320
+Each character represents a shade of the color and
+
+53
+00:02:42,320 --> 00:02:45,350
+that then changes the color of the pixel you see on your screen.
+
+54
+00:02:45,350 --> 00:02:48,485
+With just eight combinations of zeros and ones,
+
+55
+00:02:48,485 --> 00:02:51,665
+were able to represent everything that you see on your computer,
+
+56
+00:02:51,665 --> 00:02:53,245
+from a simple letter a,
+
+57
+00:02:53,245 --> 00:02:57,225
+to the very video that you're watching right now on the Coursera website.
+
+58
+00:02:57,225 --> 00:02:59,630
+Very cool. In the next video,
+
+59
+00:02:59,630 --> 00:03:03,990
+we'll discuss how we actually generate the zeros and ones.

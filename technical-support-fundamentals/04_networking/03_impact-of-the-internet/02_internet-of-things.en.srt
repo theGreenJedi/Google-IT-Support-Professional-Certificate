@@ -1,0 +1,99 @@
+1
+00:00:11,150 --> 00:00:16,435
+You may have heard of the phrase Internet of Things or IoT.
+
+2
+00:00:16,435 --> 00:00:21,810
+This concept is pretty new but already has a major impact on the future of computing.
+
+3
+00:00:21,810 --> 00:00:23,520
+The concept is fairly simple.
+
+4
+00:00:23,520 --> 00:00:25,950
+Basically, more and more devices are
+
+5
+00:00:25,950 --> 00:00:28,605
+being connected to the internet in a smarter fashion.
+
+6
+00:00:28,605 --> 00:00:31,230
+Did you know that there are now smart thermostats?
+
+7
+00:00:31,230 --> 00:00:34,583
+Instead of manually programming them when you'll be out of the house,
+
+8
+00:00:34,583 --> 00:00:38,180
+they'll just know when you leave and turn off the air conditioning for you.
+
+9
+00:00:38,180 --> 00:00:40,585
+And it's not just your thermostat,
+
+10
+00:00:40,585 --> 00:00:44,450
+many companies out there are making smarter household devices.
+
+11
+00:00:44,450 --> 00:00:47,445
+There are fridges that can keep track of what foods you have in their,
+
+12
+00:00:47,445 --> 00:00:50,040
+toasters that can be controlled by your smartphone,
+
+13
+00:00:50,040 --> 00:00:52,650
+lights that can change depending on your mood and
+
+14
+00:00:52,650 --> 00:00:55,615
+cars that drive you instead of you driving them.
+
+15
+00:00:55,615 --> 00:00:57,465
+The world is moving towards connecting
+
+16
+00:00:57,465 --> 00:01:00,955
+manual devices to the internet and making them smarter.
+
+17
+00:01:00,955 --> 00:01:04,020
+These decisions have many societal implications though,
+
+18
+00:01:04,020 --> 00:01:07,785
+especially when it comes to cybersecurity or personal privacy.
+
+19
+00:01:07,785 --> 00:01:10,440
+But there's also a huge potential for IoT to
+
+20
+00:01:10,440 --> 00:01:14,220
+completely transforme the world in ways we have yet to see.
+
+21
+00:01:14,220 --> 00:01:18,975
+In the future, people may be shocked to learn that we had to do manual things like,
+
+22
+00:01:18,975 --> 00:01:22,205
+make your own coffee or drive to the grocery store.
+
+23
+00:01:22,205 --> 00:01:25,980
+While you may not experience working with an Internet of Things device,
+
+24
+00:01:25,980 --> 00:01:30,030
+you should be aware that it will become a large part of the future of computing.
+
+25
+00:01:30,030 --> 00:01:33,330
+You can learn more about IoT in the next supplementary reading.
